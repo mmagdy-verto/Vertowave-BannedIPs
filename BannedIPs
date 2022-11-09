@@ -110,6 +110,7 @@
 185.74.102.221,Telnet-Scanning
 153.206.95.159,Telnet-Scanning
 87.236.176.137,HTTP-Probing
+137.220.228.75,SQL-Probing
 43.131.66.209,HTTP-Probing
 167.94.146.57,FTP-Probing
 2.177.222.166,HTTP-Probing
