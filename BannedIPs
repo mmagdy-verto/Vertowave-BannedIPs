@@ -44,12 +44,14 @@
 121.151.107.152,Telnet-Scanning
 141.94.110.90,SSH-Scanning
 168.100.9.199,HTTPS-8443-Probing
+139.59.46.202,SSH-Scanning
 138.99.216.218,HTTPS-8443-Probing
 205.210.31.144,SQL-Probing
 187.170.199.202,Telnet-Scanning
 85.215.173.127,RDP-Hijacking
 87.236.176.245,FTP-Probing
 167.94.146.57,FTP-Probing
+180.109.99.57,Telnet-Scanning
 170.187.164.244,HTTPS-Probing
 61.184.190.242,SQL-Probing
 59.127.54.241,Telnet-Scanning
