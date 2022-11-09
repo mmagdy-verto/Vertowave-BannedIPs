@@ -43,6 +43,7 @@
 59.17.22.18,Telnet-Scanning
 20.4.99.111,RDP-Hijacking
 20.4.109.28,RDP-Hijacking
+174.108.172.27,RDP-Hijacking
 192.161.85.11,SQL-Probing
 168.100.10.70,HTTP-Probing
 138.99.216.218,HTTPS-8443-Probing
