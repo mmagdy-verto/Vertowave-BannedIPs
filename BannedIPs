@@ -85,6 +85,7 @@
 205.210.31.9,FTP-Probing
 59.126.9.67,Telnet-Scanning
 220.133.197.244,Telnet-Scanning
+192.241.206.59,SMTP-Probing
 106.41.74.192,Telnet-Scanning
 141.94.110.90,SSH-Scanning
 85.31.44.222,SSH-Scanning
