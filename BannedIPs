@@ -70,6 +70,7 @@
 205.210.31.9,FTP-Probing
 205.210.31.144,SQL-Probing
 177.238.101.31,Telnet-Scanning
+192.241.208.61,RDP-Hijacking
 20.4.109.28,RDP-Hijacking
 45.136.254.133,RDP-Hijacking
 45.190.158.6,Telnet-Scanning
