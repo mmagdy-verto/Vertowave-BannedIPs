@@ -592,6 +592,7 @@
 170.187.165.17,SMTP-Probing
 23.90.160.122,HTTPS-Probing
 198.235.24.33,SSH-Scanning
+164.52.6.156,SSH-Scanning
 118.193.72.69,HTTPS-Probing
 180.141.5.215,Telnet-Scanning
 118.123.105.89,SSH-Scanning
