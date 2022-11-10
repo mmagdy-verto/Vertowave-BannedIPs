@@ -180,6 +180,7 @@
 45.190.158.18,Telnet-Scanning
 90.140.4.143,Telnet-Scanning
 114.218.29.60,Telnet-Scanning
+172.105.128.12,HTTP-Probing
 59.18.132.179,RDP-Hijacking
 198.199.94.30,HTTP-Probing
 154.89.5.81,FTP-Probing
