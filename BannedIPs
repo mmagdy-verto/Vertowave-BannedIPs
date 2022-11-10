@@ -483,6 +483,7 @@
 1.34.238.93,Telnet-Scanning
 172.104.216.142,HTTPS-Probing
 103.127.78.222,Telnet-Scanning
+114.34.168.105,Telnet-Scanning
 109.205.213.35,FTP-Port-20-Probing
 172.104.11.51,HTTPS-8443-Probing
 128.0.165.33,Telnet-Scanning
