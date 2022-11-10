@@ -436,6 +436,7 @@
 36.91.222.100,RDP-Hijacking
 87.236.176.245,FTP-Probing
 198.199.94.215,SSH-Scanning
+134.236.3.204,SSH-Scanning
 87.251.75.120,RDP-Hijacking
 108.46.52.105,Telnet-Scanning
 86.57.71.218,HTTP-Probing
