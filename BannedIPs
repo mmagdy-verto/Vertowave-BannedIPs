@@ -443,6 +443,7 @@
 119.117.59.86,Telnet-Scanning
 152.89.196.211,HTTPS-Probing
 59.18.132.179,RDP-Hijacking
+193.142.146.35,SSH-Scanning
 20.4.109.28,RDP-Hijacking
 20.4.99.111,RDP-Hijacking
 68.183.62.193,HTTP-Probing
