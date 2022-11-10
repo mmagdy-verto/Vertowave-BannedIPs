@@ -325,6 +325,7 @@
 172.104.216.195,SMTP-Probing
 58.255.211.107,HTTP-Probing
 153.206.95.159,Telnet-Scanning
+61.136.98.150,SQL-Probing
 192.241.203.217,Telnet-Scanning
 192.241.208.84,FTP-Probing
 117.63.53.26,Telnet-Scanning
