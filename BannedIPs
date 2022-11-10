@@ -130,6 +130,7 @@
 153.206.95.159,Telnet-Scanning
 87.236.176.137,HTTP-Probing
 137.220.228.75,SQL-Probing
+222.223.99.58,Telnet-Scanning
 64.62.197.180,SSH-Scanning
 43.131.66.209,HTTP-Probing
 167.94.146.57,FTP-Probing
