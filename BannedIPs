@@ -457,6 +457,7 @@
 172.104.244.155,RDP-Hijacking
 170.187.165.17,SMTP-Probing
 198.235.24.33,SSH-Scanning
+118.123.105.89,SSH-Scanning
 45.79.181.223,HTTP-Probing
 220.94.180.103,Telnet-Scanning
 113.26.125.198,Telnet-Scanning
