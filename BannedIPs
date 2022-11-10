@@ -588,6 +588,7 @@
 87.236.176.245,FTP-Probing
 198.199.94.215,SSH-Scanning
 134.236.3.204,SSH-Scanning
+118.161.48.185,Telnet-Scanning
 87.251.75.120,RDP-Hijacking
 108.46.52.105,Telnet-Scanning
 43.241.110.15,Telnet-Scanning
