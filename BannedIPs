@@ -234,6 +234,7 @@
 87.236.176.31,HTTP-Probing
 190.51.96.160,Telnet-Scanning
 202.124.198.57,Telnet-Scanning
+87.236.176.37,SSH-Scanning
 87.236.176.2,HTTPS-8443-Probing
 172.104.218.229,SMTP-Probing
 205.210.31.129,SQL-Probing
@@ -540,6 +541,7 @@
 139.144.233.95,SMTP-Probing
 81.17.21.250,Telnet-Scanning
 106.41.74.192,Telnet-Scanning
+68.183.53.77,SSH-Scanning
 106.72.36.64,Telnet-Scanning
 92.65.148.199,Telnet-Scanning
 192.241.201.43,FTP-Port-20-Probing
