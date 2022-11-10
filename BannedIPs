@@ -349,6 +349,7 @@
 171.22.30.173,Telnet-Scanning
 192.241.208.171,SQL-Probing
 177.238.129.249,Telnet-Scanning
+61.177.173.43,SSH-Scanning
 198.199.94.30,HTTP-Probing
 87.236.176.11,SMTP-Probing
 175.11.72.164,HTTP-Probing
