@@ -284,6 +284,7 @@
 192.241.208.61,RDP-Hijacking
 117.63.29.167,Telnet-Scanning
 148.251.64.100,RDP-Hijacking
+59.126.32.155,Telnet-Scanning
 167.94.146.57,FTP-Probing
 41.86.17.229,SSH-Scanning
 2.187.248.230,Telnet-Scanning
