@@ -103,6 +103,7 @@
 113.61.219.237,SSH-Scanning
 157.230.52.144,Telnet-Scanning
 124.234.179.168,Telnet-Scanning
+192.241.212.44,HTTPS-Probing
 64.62.197.107,FTP-Probing
 42.243.159.66,Telnet-Scanning
 185.81.68.131,HTTPS-8443-Probing
