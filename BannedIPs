@@ -1077,6 +1077,7 @@
 20.115.219.200,FTP-Probing
 20.231.101.121,RDP-Hijacking
 192.241.200.225,HTTP-Probing
+59.127.120.23,Telnet-Scanning
 80.117.10.195,Telnet-Scanning
 61.219.171.109,Telnet-Scanning
 107.189.13.7,SSH-Scanning
