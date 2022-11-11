@@ -602,6 +602,7 @@
 61.177.173.55,SSH-Scanning
 121.61.172.178,Telnet-Scanning
 61.177.173.56,SSH-Scanning
+198.235.24.34,FTP-Port-20-Probing
 20.247.176.252,RDP-Hijacking
 45.79.134.16,HTTPS-8443-Probing
 165.22.39.64,Telnet-Scanning
