@@ -550,6 +550,7 @@
 87.236.176.193,HTTP-Probing
 111.220.94.149,HTTP-Probing
 175.201.204.204,Telnet-Scanning
+106.73.68.65,Telnet-Scanning
 103.203.57.12,RDP-Hijacking
 59.49.203.17,Telnet-Scanning
 12.220.140.88,Telnet-Scanning
