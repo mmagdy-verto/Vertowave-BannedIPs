@@ -80,6 +80,7 @@
 61.177.173.42,SSH-Scanning
 61.177.173.43,SSH-Scanning
 124.132.39.121,Telnet-Scanning
+49.143.36.138,Telnet-Scanning
 162.142.125.212,SMTP-Probing
 104.237.145.107,HTTPS-Probing
 124.234.245.129,Telnet-Scanning
