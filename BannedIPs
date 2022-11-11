@@ -280,6 +280,7 @@
 203.69.30.87,Telnet-Scanning
 192.241.197.72,HTTP-Probing
 47.92.240.12,SMTP-Probing
+162.142.125.219,FTP-Probing
 170.187.165.11,HTTPS-8443-Probing
 111.220.94.149,HTTP-Probing
 182.31.212.238,Telnet-Scanning
