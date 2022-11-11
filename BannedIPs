@@ -550,6 +550,7 @@
 192.241.193.182,SSH-Scanning
 170.82.8.37,Telnet-Scanning
 194.110.203.60,HTTPS-Probing
+222.113.196.133,Telnet-Scanning
 90.151.171.108,HTTP-Probing
 114.227.67.207,Telnet-Scanning
 86.81.234.188,Telnet-Scanning
