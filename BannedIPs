@@ -33,6 +33,7 @@
 198.235.24.49,RDP-Hijacking
 84.192.98.58,Telnet-Scanning
 138.99.216.218,HTTPS-8443-Probing
+49.89.94.238,Telnet-Scanning
 46.236.65.137,Telnet-Scanning
 61.177.172.160,SSH-Scanning
 80.94.92.239,HTTP-Probing
