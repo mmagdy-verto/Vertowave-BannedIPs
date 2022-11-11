@@ -61,12 +61,14 @@
 43.138.102.26,Telnet-Scanning
 35.204.87.236,HTTPS-Probing
 80.253.246.158,Telnet-Scanning
+209.141.61.120,Telnet-Scanning
 24.181.171.195,Telnet-Scanning
 46.236.65.222,Telnet-Scanning
 87.1.142.19,Telnet-Scanning
 220.118.35.122,Telnet-Scanning
 192.241.200.194,HTTPS-Probing
 34.222.190.192,SMTP-Probing
+192.241.194.204,FTP-Probing
 129.204.77.162,Telnet-Scanning
 118.193.103.142,SMTP-Probing
 205.210.31.40,HTTP-Probing
