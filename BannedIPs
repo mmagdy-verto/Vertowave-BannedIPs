@@ -640,6 +640,7 @@
 185.3.94.247,HTTP-Probing
 115.21.230.75,Telnet-Scanning
 106.41.74.239,Telnet-Scanning
+182.61.138.213,SSH-Scanning
 170.187.164.198,HTTPS-Probing
 220.133.197.244,Telnet-Scanning
 4.17.224.134,HTTP-Probing
