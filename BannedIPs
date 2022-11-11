@@ -893,6 +893,7 @@
 80.94.92.239,HTTP-Probing
 122.234.83.59,Telnet-Scanning
 172.104.11.49,HTTPS-8443-Probing
+122.243.62.8,Telnet-Scanning
 87.236.176.108,SMTP-Probing
 144.255.3.6,Telnet-Scanning
 61.82.1.158,Telnet-Scanning
