@@ -662,6 +662,7 @@
 13.89.26.228,SSH-Scanning
 211.48.189.147,Telnet-Scanning
 110.182.242.161,Telnet-Scanning
+116.53.91.10,Telnet-Scanning
 193.106.246.83,RDP-Hijacking
 95.6.3.168,Telnet-Scanning
 45.79.181.94,HTTPS-Probing
