@@ -27,6 +27,7 @@
 205.210.31.12,SSH-Scanning
 103.91.80.2,RDP-Hijacking
 112.72.156.182,Telnet-Scanning
+205.210.31.18,SSH-Scanning
 198.235.24.149,FTP-Port-20-Probing
 61.216.133.137,Telnet-Scanning
 45.79.72.123,RDP-Hijacking
