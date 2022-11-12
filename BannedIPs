@@ -380,6 +380,7 @@
 192.241.197.72,HTTP-Probing
 47.92.240.12,SMTP-Probing
 222.66.141.98,Telnet-Scanning
+106.75.79.129,HTTP-Probing
 162.142.125.219,FTP-Probing
 37.0.15.245,SMTP-Probing
 170.187.165.11,HTTPS-8443-Probing
@@ -640,6 +641,7 @@
 192.241.203.134,RDP-Hijacking
 172.104.216.148,HTTPS-8443-Probing
 220.201.100.34,Telnet-Scanning
+104.55.6.101,Telnet-Scanning
 45.190.158.18,Telnet-Scanning
 123.111.9.19,Telnet-Scanning
 198.235.24.155,RDP-Hijacking
@@ -683,6 +685,7 @@
 36.13.88.154,Telnet-Scanning
 192.241.194.196,HTTPS-Probing
 182.247.179.148,Telnet-Scanning
+49.72.107.250,Telnet-Scanning
 139.99.30.169,Telnet-Scanning
 192.241.203.194,FTP-Probing
 222.246.111.239,Telnet-Scanning
@@ -848,6 +851,7 @@
 190.136.98.246,Telnet-Scanning
 192.241.195.247,HTTPS-8443-Probing
 45.33.66.167,HTTPS-8443-Probing
+106.75.133.83,HTTP-Probing
 36.91.222.100,RDP-Hijacking
 187.23.11.195,Telnet-Scanning
 220.133.15.210,Telnet-Scanning
