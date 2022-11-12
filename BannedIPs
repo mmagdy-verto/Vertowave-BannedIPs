@@ -844,6 +844,7 @@
 209.159.148.202,HTTP-Probing
 180.107.7.147,Telnet-Scanning
 68.183.62.193,HTTP-Probing
+24.43.106.58,Telnet-Scanning
 194.180.48.125,HTTPS-Probing
 20.115.219.125,SSH-Scanning
 192.241.202.90,HTTPS-Probing
