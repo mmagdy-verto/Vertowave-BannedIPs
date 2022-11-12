@@ -354,6 +354,7 @@
 192.241.203.99,SSH-Scanning
 64.62.197.164,SMTP-Probing
 211.199.77.2,Telnet-Scanning
+192.241.204.149,FTP-Port-20-Probing
 121.185.170.93,Telnet-Scanning
 122.243.62.8,Telnet-Scanning
 37.52.170.70,Telnet-Scanning
