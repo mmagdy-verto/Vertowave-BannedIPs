@@ -203,6 +203,7 @@
 61.177.173.61,SSH-Scanning
 183.136.225.9,RDP-Hijacking
 75.67.78.183,Telnet-Scanning
+222.119.29.51,Telnet-Scanning
 183.249.117.16,HTTP-Probing
 77.76.143.184,Telnet-Scanning
 185.167.97.38,HTTPS-Probing
