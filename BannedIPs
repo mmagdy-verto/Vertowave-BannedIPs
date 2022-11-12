@@ -843,6 +843,7 @@
 101.36.97.81,FTP-Probing
 20.100.174.12,Telnet-Scanning
 143.255.242.214,HTTP-Probing
+172.104.219.59,SMTP-Probing
 59.126.66.2,Telnet-Scanning
 125.229.69.39,Telnet-Scanning
 81.17.21.250,Telnet-Scanning
