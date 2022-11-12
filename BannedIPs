@@ -310,6 +310,7 @@
 42.100.60.124,Telnet-Scanning
 20.172.135.199,RDP-Hijacking
 152.32.185.236,HTTP-Probing
+221.2.93.118,SSH-Scanning
 192.241.198.196,HTTPS-8443-Probing
 49.65.203.169,Telnet-Scanning
 172.104.218.229,SMTP-Probing
