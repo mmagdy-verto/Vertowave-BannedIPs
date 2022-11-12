@@ -352,6 +352,7 @@
 139.144.239.188,SMTP-Probing
 162.142.125.7,SSH-Scanning
 202.157.176.50,SSH-Scanning
+192.241.208.109,FTP-Probing
 119.204.198.4,Telnet-Scanning
 172.104.219.187,SMTP-Probing
 42.100.60.124,Telnet-Scanning
