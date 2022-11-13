@@ -383,6 +383,7 @@
 103.171.1.75,SMTP-Probing
 97.107.139.17,HTTPS-8443-Probing
 124.107.181.154,RDP-Hijacking
+220.172.89.176,Telnet-Scanning
 121.61.172.178,Telnet-Scanning
 170.82.8.37,Telnet-Scanning
 220.94.180.103,Telnet-Scanning
