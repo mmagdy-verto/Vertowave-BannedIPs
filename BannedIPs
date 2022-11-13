@@ -810,6 +810,7 @@
 85.31.46.211,HTTP-Probing
 54.243.10.160,SQL-Probing
 178.62.82.142,RDP-Hijacking
+154.176.204.174,Telnet-Scanning
 45.56.96.77,HTTPS-Probing
 176.113.115.86,RDP-Hijacking
 43.138.102.26,Telnet-Scanning
