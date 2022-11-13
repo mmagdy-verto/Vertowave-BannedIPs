@@ -1352,6 +1352,7 @@
 128.14.209.243,SSH-Scanning
 192.241.193.104,SQL-Probing
 104.55.6.101,Telnet-Scanning
+192.241.196.160,RDP-Hijacking
 158.69.165.244,RDP-Hijacking
 187.62.86.66,Telnet-Scanning
 178.62.73.114,HTTPS-8443-Probing
