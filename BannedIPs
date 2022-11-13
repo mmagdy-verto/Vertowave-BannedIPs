@@ -784,6 +784,7 @@
 68.169.168.177,Telnet-Scanning
 82.151.125.192,Telnet-Scanning
 65.49.20.68,FTP-Probing
+198.235.24.180,SQL-Probing
 192.241.211.130,SSH-Scanning
 183.161.4.80,Telnet-Scanning
 171.41.153.73,Telnet-Scanning
