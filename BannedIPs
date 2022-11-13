@@ -1509,6 +1509,7 @@
 5.50.82.115,Telnet-Scanning
 34.141.79.176,SQL-Probing
 71.255.61.103,Telnet-Scanning
+196.189.38.31,Telnet-Scanning
 123.168.146.179,Telnet-Scanning
 114.32.66.200,Telnet-Scanning
 20.24.53.218,RDP-Hijacking
@@ -1905,6 +1906,7 @@
 1.58.115.211,Telnet-Scanning
 45.33.80.243,HTTPS-Probing
 89.143.168.154,HTTP-Probing
+193.106.246.84,RDP-Hijacking
 42.192.77.89,HTTPS-Probing
 132.148.78.28,Telnet-Scanning
 121.205.254.239,Telnet-Scanning
