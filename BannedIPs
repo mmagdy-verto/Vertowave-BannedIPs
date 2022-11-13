@@ -1730,6 +1730,7 @@
 192.241.203.50,FTP-Port-20-Probing
 49.84.175.14,Telnet-Scanning
 95.38.132.198,HTTP-Probing
+49.86.123.33,Telnet-Scanning
 58.50.169.109,Telnet-Scanning
 183.108.69.90,Telnet-Scanning
 106.75.11.56,SMTP-Probing
