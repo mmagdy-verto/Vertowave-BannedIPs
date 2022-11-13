@@ -280,6 +280,7 @@
 47.104.217.64,RDP-Hijacking
 220.135.142.101,Telnet-Scanning
 162.142.125.7,SSH-Scanning
+175.13.2.44,Telnet-Scanning
 114.35.118.190,Telnet-Scanning
 198.235.24.139,FTP-Port-20-Probing
 13.93.6.42,Telnet-Scanning
