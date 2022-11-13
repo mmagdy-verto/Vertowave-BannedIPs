@@ -1143,6 +1143,7 @@
 222.93.156.222,Telnet-Scanning
 192.241.199.73,SSH-Scanning
 125.229.75.190,Telnet-Scanning
+41.216.183.132,HTTP-Probing
 222.108.224.236,Telnet-Scanning
 175.44.35.104,Telnet-Scanning
 59.27.98.103,SSH-Scanning
