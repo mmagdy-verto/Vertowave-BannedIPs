@@ -650,6 +650,7 @@
 60.175.121.226,Telnet-Scanning
 39.164.160.119,Telnet-Scanning
 220.161.59.235,Telnet-Scanning
+97.107.139.94,SMTP-Probing
 23.92.22.124,HTTPS-Probing
 45.224.43.186,HTTP-Probing
 200.121.205.95,Telnet-Scanning
