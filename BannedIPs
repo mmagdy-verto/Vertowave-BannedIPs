@@ -914,6 +914,7 @@
 192.241.203.182,HTTP-Probing
 87.236.176.248,SMTP-Probing
 80.191.189.61,Telnet-Scanning
+222.189.205.135,Telnet-Scanning
 192.241.194.196,HTTPS-Probing
 20.37.6.106,Telnet-Scanning
 139.144.239.196,SMTP-Probing
