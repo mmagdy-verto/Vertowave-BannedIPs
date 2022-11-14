@@ -1918,6 +1918,7 @@
 66.36.234.2,Telnet-Scanning
 1.70.142.251,Telnet-Scanning
 20.172.135.199,RDP-Hijacking
+103.192.159.58,Telnet-Scanning
 20.172.253.89,HTTP-Probing
 192.241.208.61,RDP-Hijacking
 188.59.141.95,Telnet-Scanning
