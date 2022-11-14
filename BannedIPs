@@ -790,6 +790,7 @@
 61.177.173.42,SSH-Scanning
 61.177.173.43,SSH-Scanning
 49.89.163.209,Telnet-Scanning
+175.171.173.136,Telnet-Scanning
 113.26.211.102,Telnet-Scanning
 14.47.34.40,Telnet-Scanning
 143.244.138.37,SSH-Scanning
@@ -2021,6 +2022,7 @@
 59.127.145.184,Telnet-Scanning
 66.36.234.2,Telnet-Scanning
 1.70.142.251,Telnet-Scanning
+42.237.196.235,Telnet-Scanning
 20.172.135.199,RDP-Hijacking
 103.192.159.58,Telnet-Scanning
 20.172.253.89,HTTP-Probing
