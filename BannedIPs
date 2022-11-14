@@ -1998,6 +1998,7 @@
 202.157.176.50,SSH-Scanning
 90.151.171.108,HTTP-Probing
 118.33.19.10,Telnet-Scanning
+192.241.193.21,FTP-Probing
 211.211.213.51,Telnet-Scanning
 78.29.12.220,Telnet-Scanning
 192.241.204.6,HTTPS-8443-Probing
