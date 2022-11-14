@@ -68,6 +68,8 @@
 87.236.176.73,HTTPS-8443-Probing
 87.236.176.75,HTTPS-8443-Probing
 87.236.176.76,Telnet-Scanning
+205.210.31.19,RDP-Hijacking
+121.177.255.178,Telnet-Scanning
 205.210.31.18,SSH-Scanning
 87.236.176.79,HTTP-Probing
 205.210.31.143,FTP-Probing
