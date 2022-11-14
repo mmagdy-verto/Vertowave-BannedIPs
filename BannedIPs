@@ -1954,6 +1954,7 @@
 1.15.91.102,RDP-Hijacking
 175.194.62.151,Telnet-Scanning
 114.226.59.74,Telnet-Scanning
+104.152.52.144,SQL-Probing
 80.117.10.195,Telnet-Scanning
 45.190.220.139,Telnet-Scanning
 170.187.164.201,HTTPS-Probing
