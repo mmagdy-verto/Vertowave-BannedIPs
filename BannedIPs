@@ -890,6 +890,7 @@
 167.94.138.44,SQL-Probing
 167.94.138.45,SQL-Probing
 64.227.28.112,HTTP-Probing
+66.240.236.109,FTP-Probing
 103.11.81.29,Telnet-Scanning
 37.220.31.103,SMTP-Probing
 2.36.14.157,Telnet-Scanning
