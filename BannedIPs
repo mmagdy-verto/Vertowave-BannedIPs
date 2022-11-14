@@ -1713,6 +1713,7 @@
 192.241.203.211,HTTPS-Probing
 52.144.105.18,Telnet-Scanning
 167.172.38.72,HTTP-Probing
+81.228.45.172,Telnet-Scanning
 45.190.158.18,Telnet-Scanning
 123.245.14.149,Telnet-Scanning
 8.218.1.202,SSH-Scanning
