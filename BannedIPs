@@ -34,6 +34,7 @@
 49.73.103.105,Telnet-Scanning
 89.248.167.131,HTTP-Probing
 39.104.172.177,HTTPS-Probing
+172.105.128.187,SSH-Scanning
 114.102.61.66,Telnet-Scanning
 192.241.195.125,HTTPS-Probing
 192.241.202.106,HTTP-Probing
