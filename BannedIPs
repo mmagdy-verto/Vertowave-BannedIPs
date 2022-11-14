@@ -997,6 +997,7 @@
 159.203.15.85,HTTP-Probing
 103.149.192.157,HTTP-Probing
 167.94.138.119,SQL-Probing
+110.183.51.130,Telnet-Scanning
 74.82.47.42,SMTP-Probing
 43.241.110.15,Telnet-Scanning
 175.30.116.206,Telnet-Scanning
