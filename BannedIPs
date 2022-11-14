@@ -1303,6 +1303,7 @@
 186.205.200.240,Telnet-Scanning
 67.254.128.220,Telnet-Scanning
 223.197.176.213,Telnet-Scanning
+104.152.52.199,RDP-Hijacking
 87.236.176.200,SMTP-Probing
 87.236.176.210,SMTP-Probing
 139.162.216.71,HTTPS-Probing
