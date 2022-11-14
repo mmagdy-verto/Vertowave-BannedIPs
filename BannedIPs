@@ -901,6 +901,7 @@
 118.91.55.101,Telnet-Scanning
 137.220.228.75,SQL-Probing
 164.52.0.90,SSH-Scanning
+71.6.232.24,HTTPS-Probing
 106.59.18.229,Telnet-Scanning
 192.241.203.14,HTTP-Probing
 216.218.206.68,Telnet-Scanning
