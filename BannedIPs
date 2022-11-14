@@ -1223,6 +1223,7 @@
 192.241.211.87,SQL-Probing
 80.66.76.145,RDP-Hijacking
 125.229.35.160,Telnet-Scanning
+152.32.129.53,FTP-Probing
 220.79.44.139,Telnet-Scanning
 185.180.143.47,RDP-Hijacking
 121.40.128.8,Telnet-Scanning
