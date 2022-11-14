@@ -1987,6 +1987,7 @@
 170.187.164.184,HTTPS-Probing
 172.104.216.176,HTTPS-Probing
 220.248.187.27,Telnet-Scanning
+162.142.125.10,Telnet-Scanning
 223.154.11.55,SQL-Probing
 164.52.6.156,SSH-Scanning
 61.84.174.4,Telnet-Scanning
