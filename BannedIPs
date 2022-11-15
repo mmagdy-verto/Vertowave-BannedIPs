@@ -1111,6 +1111,7 @@
 119.203.155.61,Telnet-Scanning
 113.26.234.12,Telnet-Scanning
 20.120.217.166,HTTPS-Probing
+193.169.255.16,SSH-Scanning
 66.198.193.249,HTTP-Probing
 36.112.171.51,SSH-Scanning
 64.62.197.33,HTTP-Probing
