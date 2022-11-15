@@ -465,6 +465,7 @@
 117.26.66.201,Telnet-Scanning
 167.94.138.63,HTTP-Probing
 167.94.138.60,HTTPS-Probing
+167.94.138.61,FTP-Probing
 94.232.46.35,RDP-Hijacking
 121.61.226.134,Telnet-Scanning
 96.126.108.191,HTTPS-Probing
