@@ -184,6 +184,7 @@
 64.62.197.102,SSH-Scanning
 94.102.61.20,SSH-Scanning
 14.143.223.242,SQL-Probing
+80.82.77.139,Telnet-Scanning
 85.31.44.178,HTTP-Probing
 64.62.197.107,FTP-Probing
 91.240.118.189,RDP-Hijacking
