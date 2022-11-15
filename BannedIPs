@@ -666,6 +666,7 @@
 66.240.205.34,HTTPS-Probing
 69.164.217.245,HTTPS-Probing
 112.102.85.232,Telnet-Scanning
+193.42.11.133,RDP-Hijacking
 121.166.127.39,Telnet-Scanning
 209.97.178.238,HTTP-Probing
 128.14.141.34,HTTP-Probing
