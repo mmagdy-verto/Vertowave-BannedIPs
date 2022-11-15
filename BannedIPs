@@ -1406,6 +1406,7 @@
 103.14.155.173,SMTP-Probing
 124.79.244.110,SSH-Scanning
 59.3.64.13,Telnet-Scanning
+178.72.78.104,Telnet-Scanning
 51.15.174.72,SSH-Scanning
 123.185.9.10,Telnet-Scanning
 116.55.116.202,Telnet-Scanning
