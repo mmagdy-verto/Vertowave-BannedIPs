@@ -692,6 +692,7 @@
 124.154.86.134,SSH-Scanning
 174.108.172.27,RDP-Hijacking
 202.124.224.215,HTTP-Probing
+59.126.116.246,Telnet-Scanning
 1.70.100.77,Telnet-Scanning
 50.116.59.190,SMTP-Probing
 87.236.176.116,SSH-Scanning
