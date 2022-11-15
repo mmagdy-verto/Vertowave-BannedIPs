@@ -1813,6 +1813,7 @@
 20.166.66.193,Telnet-Scanning
 198.199.94.215,SSH-Scanning
 193.46.254.155,HTTPS-Probing
+2.55.91.28,Telnet-Scanning
 94.102.61.10,HTTP-Probing
 172.104.219.68,HTTPS-8443-Probing
 42.242.156.198,Telnet-Scanning
