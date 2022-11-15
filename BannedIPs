@@ -1646,6 +1646,7 @@
 91.178.103.128,SSH-Scanning
 205.185.115.19,Telnet-Scanning
 112.239.70.224,Telnet-Scanning
+195.133.20.193,RDP-Hijacking
 1.62.12.166,Telnet-Scanning
 61.63.154.4,Telnet-Scanning
 123.182.47.136,Telnet-Scanning
