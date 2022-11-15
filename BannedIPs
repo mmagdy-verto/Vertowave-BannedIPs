@@ -2333,6 +2333,7 @@
 192.241.195.56,FTP-Probing
 117.60.123.246,Telnet-Scanning
 192.241.195.247,HTTPS-8443-Probing
+192.241.213.10,SMTP-Probing
 118.232.15.48,Telnet-Scanning
 180.5.52.11,Telnet-Scanning
 14.29.255.49,RDP-Hijacking
