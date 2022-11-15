@@ -840,6 +840,7 @@
 45.83.66.164,FTP-Probing
 61.177.173.42,SSH-Scanning
 61.177.173.43,SSH-Scanning
+124.105.196.73,Telnet-Scanning
 49.89.163.209,Telnet-Scanning
 175.171.173.136,Telnet-Scanning
 113.26.211.102,Telnet-Scanning
