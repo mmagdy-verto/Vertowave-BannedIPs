@@ -2400,6 +2400,7 @@
 192.241.212.209,HTTPS-Probing
 198.235.24.46,RDP-Hijacking
 49.65.191.51,Telnet-Scanning
+20.214.139.203,Telnet-Scanning
 61.219.171.114,Telnet-Scanning
 87.236.176.117,HTTPS-Probing
 3.15.3.250,SSH-Scanning
