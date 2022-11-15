@@ -238,6 +238,7 @@
 122.43.200.79,Telnet-Scanning
 175.212.9.43,Telnet-Scanning
 37.50.203.131,RDP-Hijacking
+139.144.235.147,HTTPS-8443-Probing
 176.111.173.157,RDP-Hijacking
 183.136.225.9,RDP-Hijacking
 198.235.24.9,HTTPS-8443-Probing
