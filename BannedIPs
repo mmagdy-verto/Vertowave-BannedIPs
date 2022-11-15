@@ -543,6 +543,7 @@
 173.48.108.162,Telnet-Scanning
 120.85.115.64,HTTPS-8443-Probing
 192.241.203.99,SSH-Scanning
+106.56.117.111,Telnet-Scanning
 64.62.197.164,SMTP-Probing
 211.199.77.2,Telnet-Scanning
 192.241.204.149,FTP-Port-20-Probing
