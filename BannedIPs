@@ -2405,6 +2405,7 @@
 192.241.199.29,FTP-Probing
 211.20.19.166,Telnet-Scanning
 139.144.239.221,SMTP-Probing
+121.160.166.231,Telnet-Scanning
 219.240.250.28,Telnet-Scanning
 220.133.15.210,Telnet-Scanning
 193.188.198.165,Telnet-Scanning
