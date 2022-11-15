@@ -1619,6 +1619,7 @@
 180.140.35.221,Telnet-Scanning
 128.14.209.162,HTTP-Probing
 121.223.140.251,Telnet-Scanning
+192.241.199.53,FTP-Port-20-Probing
 58.208.147.59,Telnet-Scanning
 37.77.48.66,Telnet-Scanning
 222.93.156.222,Telnet-Scanning
