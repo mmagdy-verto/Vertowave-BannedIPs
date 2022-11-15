@@ -1981,6 +1981,7 @@
 1.69.63.126,Telnet-Scanning
 164.163.9.113,RDP-Hijacking
 112.103.73.5,Telnet-Scanning
+192.241.196.179,FTP-Probing
 64.62.197.122,FTP-Probing
 121.175.99.108,Telnet-Scanning
 64.62.197.120,SSH-Scanning
