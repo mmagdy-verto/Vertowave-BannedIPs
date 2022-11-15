@@ -1969,6 +1969,7 @@
 45.33.83.82,HTTPS-Probing
 68.183.109.82,RDP-Hijacking
 192.241.208.69,HTTPS-Probing
+180.116.226.46,Telnet-Scanning
 124.116.223.190,Telnet-Scanning
 118.123.105.89,SSH-Scanning
 119.204.198.4,Telnet-Scanning
