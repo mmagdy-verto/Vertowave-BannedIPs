@@ -1530,6 +1530,7 @@
 87.251.67.98,RDP-Hijacking
 78.187.196.38,Telnet-Scanning
 114.220.189.62,Telnet-Scanning
+64.62.197.152,FTP-Probing
 27.22.122.115,Telnet-Scanning
 64.62.197.157,HTTPS-8443-Probing
 79.3.131.204,Telnet-Scanning
