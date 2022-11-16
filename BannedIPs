@@ -453,6 +453,7 @@
 213.226.123.35,RDP-Hijacking
 205.210.31.42,HTTPS-Probing
 153.176.241.184,Telnet-Scanning
+64.62.197.132,HTTP-Probing
 154.89.5.103,SSH-Scanning
 117.80.137.119,Telnet-Scanning
 198.235.24.166,RDP-Hijacking
