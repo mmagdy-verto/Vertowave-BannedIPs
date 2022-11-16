@@ -2008,6 +2008,7 @@
 221.2.93.118,SSH-Scanning
 192.241.212.215,Telnet-Scanning
 4.1.229.86,HTTP-Probing
+114.35.242.132,Telnet-Scanning
 79.165.16.164,Telnet-Scanning
 121.61.172.178,Telnet-Scanning
 167.99.118.75,HTTPS-Probing
