@@ -2223,6 +2223,7 @@
 194.193.194.6,Telnet-Scanning
 175.11.72.164,HTTP-Probing
 117.26.110.59,Telnet-Scanning
+107.189.10.189,HTTPS-8443-Probing
 167.94.138.119,SQL-Probing
 183.129.109.250,Telnet-Scanning
 122.117.95.29,Telnet-Scanning
