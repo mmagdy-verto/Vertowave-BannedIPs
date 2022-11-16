@@ -1023,6 +1023,7 @@
 205.210.31.139,SSH-Scanning
 205.210.31.129,SQL-Probing
 20.188.25.74,Telnet-Scanning
+152.32.171.116,RDP-Hijacking
 192.241.212.228,HTTPS-Probing
 58.72.18.130,SSH-Scanning
 121.164.191.103,Telnet-Scanning
