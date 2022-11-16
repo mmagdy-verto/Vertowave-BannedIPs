@@ -633,6 +633,7 @@
 192.241.206.55,HTTPS-Probing
 89.143.168.154,HTTP-Probing
 192.241.212.217,HTTPS-8443-Probing
+59.17.110.141,Telnet-Scanning
 45.58.190.116,RDP-Hijacking
 221.159.231.239,Telnet-Scanning
 80.66.66.146,RDP-Hijacking
