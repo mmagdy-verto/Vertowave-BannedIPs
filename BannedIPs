@@ -3037,6 +3037,7 @@
 43.154.110.220,RDP-Hijacking
 60.2.240.38,SQL-Probing
 218.146.15.98,Telnet-Scanning
+69.164.218.229,SMTP-Probing
 59.127.106.73,Telnet-Scanning
 219.156.182.223,Telnet-Scanning
 192.241.211.97,SSH-Scanning
