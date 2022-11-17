@@ -1786,6 +1786,7 @@
 20.247.176.252,RDP-Hijacking
 41.38.42.58,RDP-Hijacking
 20.3.130.132,FTP-Probing
+221.159.143.10,Telnet-Scanning
 211.216.36.179,HTTP-Probing
 175.194.62.151,Telnet-Scanning
 106.41.74.192,Telnet-Scanning
