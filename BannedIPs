@@ -2973,6 +2973,7 @@
 192.241.203.91,SSH-Scanning
 216.218.206.67,RDP-Hijacking
 172.104.216.214,HTTPS-8443-Probing
+180.108.236.222,Telnet-Scanning
 159.203.15.85,HTTP-Probing
 61.54.42.82,Telnet-Scanning
 123.240.244.33,Telnet-Scanning
