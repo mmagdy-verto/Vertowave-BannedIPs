@@ -2900,6 +2900,7 @@
 87.236.176.51,SMTP-Probing
 87.236.176.58,HTTPS-Probing
 87.236.176.59,HTTPS-Probing
+195.162.72.252,Telnet-Scanning
 83.243.129.107,Telnet-Scanning
 45.93.201.53,SSH-Scanning
 182.138.158.194,HTTPS-Probing
