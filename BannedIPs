@@ -3453,6 +3453,7 @@
 122.116.242.99,Telnet-Scanning
 103.53.46.218,Telnet-Scanning
 223.154.11.55,SQL-Probing
+172.104.28.250,SMTP-Probing
 87.236.176.117,HTTPS-Probing
 87.236.176.127,SMTP-Probing
 153.242.30.0,Telnet-Scanning
