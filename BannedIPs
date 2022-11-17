@@ -605,6 +605,7 @@
 187.170.199.202,Telnet-Scanning
 113.124.157.117,Telnet-Scanning
 153.0.139.116,Telnet-Scanning
+39.104.138.30,HTTPS-Probing
 45.56.96.160,HTTPS-Probing
 112.226.157.58,SQL-Probing
 45.224.43.186,HTTP-Probing
