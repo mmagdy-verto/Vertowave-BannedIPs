@@ -2963,6 +2963,7 @@
 171.110.224.4,Telnet-Scanning
 123.173.109.77,Telnet-Scanning
 87.236.176.51,SMTP-Probing
+139.59.243.34,SSH-Scanning
 87.236.176.58,HTTPS-Probing
 87.236.176.59,HTTPS-Probing
 195.162.72.252,Telnet-Scanning
