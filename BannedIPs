@@ -996,6 +996,7 @@
 198.199.94.129,HTTPS-Probing
 192.241.209.24,HTTPS-8443-Probing
 106.41.82.180,Telnet-Scanning
+162.55.242.23,RDP-Hijacking
 125.228.180.92,Telnet-Scanning
 220.133.251.58,Telnet-Scanning
 222.95.82.233,Telnet-Scanning
