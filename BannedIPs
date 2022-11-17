@@ -1979,6 +1979,7 @@
 43.142.16.240,HTTP-Probing
 125.121.25.190,Telnet-Scanning
 27.14.197.161,SQL-Probing
+198.199.95.41,SSH-Scanning
 45.56.96.77,HTTPS-Probing
 198.235.24.49,RDP-Hijacking
 124.100.149.196,SSH-Scanning
