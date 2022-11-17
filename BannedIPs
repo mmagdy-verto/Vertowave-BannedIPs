@@ -1982,6 +1982,7 @@
 46.161.120.203,FTP-Probing
 66.228.35.15,HTTPS-8443-Probing
 183.239.97.235,Telnet-Scanning
+103.45.234.97,RDP-Hijacking
 95.106.89.163,Telnet-Scanning
 223.13.86.114,Telnet-Scanning
 117.30.113.136,Telnet-Scanning
