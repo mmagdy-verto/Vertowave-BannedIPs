@@ -2646,6 +2646,7 @@
 184.174.166.155,Telnet-Scanning
 182.116.248.71,Telnet-Scanning
 20.9.144.101,SSH-Scanning
+39.68.2.112,HTTP-Probing
 165.22.76.151,RDP-Hijacking
 106.0.54.49,RDP-Hijacking
 18.130.165.158,Telnet-Scanning
