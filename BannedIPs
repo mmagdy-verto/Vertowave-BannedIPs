@@ -3843,6 +3843,7 @@
 128.14.134.170,HTTP-Probing
 223.70.246.20,Telnet-Scanning
 134.236.3.204,SSH-Scanning
+109.168.21.247,Telnet-Scanning
 114.35.80.73,Telnet-Scanning
 34.76.158.233,HTTPS-Probing
 117.208.74.247,Telnet-Scanning
