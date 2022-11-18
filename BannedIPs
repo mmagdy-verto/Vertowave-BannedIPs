@@ -3230,6 +3230,7 @@
 192.241.208.116,HTTPS-Probing
 14.50.131.36,SSH-Scanning
 186.205.200.240,Telnet-Scanning
+162.252.88.150,SSH-Scanning
 210.95.99.43,Telnet-Scanning
 154.89.5.81,FTP-Probing
 45.61.187.126,Telnet-Scanning
