@@ -160,6 +160,7 @@
 24.78.183.31,SSH-Scanning
 103.171.1.75,SMTP-Probing
 60.191.75.74,SQL-Probing
+84.55.86.241,Telnet-Scanning
 170.187.164.244,HTTPS-Probing
 211.46.208.148,Telnet-Scanning
 20.55.94.185,SSH-Scanning
