@@ -2922,12 +2922,14 @@
 165.22.37.135,HTTPS-Probing
 188.59.141.95,Telnet-Scanning
 20.119.90.81,HTTP-Probing
+122.116.60.196,Telnet-Scanning
 175.30.114.78,Telnet-Scanning
 171.213.104.26,SQL-Probing
 45.56.96.228,HTTPS-Probing
 192.241.201.241,HTTPS-Probing
 121.187.227.181,Telnet-Scanning
 45.224.171.165,Telnet-Scanning
+50.173.71.114,RDP-Hijacking
 211.248.56.82,Telnet-Scanning
 211.48.189.147,Telnet-Scanning
 213.14.137.114,Telnet-Scanning
@@ -3819,6 +3821,7 @@
 198.235.24.17,HTTPS-Probing
 198.235.24.16,HTTP-Probing
 106.41.27.163,Telnet-Scanning
+109.251.234.181,Telnet-Scanning
 198.235.24.14,RDP-Hijacking
 118.232.237.197,Telnet-Scanning
 103.105.109.67,Telnet-Scanning
