@@ -1033,6 +1033,7 @@
 193.169.255.16,SSH-Scanning
 125.135.117.116,Telnet-Scanning
 112.239.70.224,Telnet-Scanning
+45.33.66.134,SMTP-Probing
 34.140.248.32,FTP-Probing
 24.12.106.12,Telnet-Scanning
 93.67.28.6,Telnet-Scanning
