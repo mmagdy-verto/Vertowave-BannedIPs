@@ -823,6 +823,7 @@
 23.224.85.36,SSH-Scanning
 121.165.38.14,Telnet-Scanning
 103.127.78.222,Telnet-Scanning
+192.241.213.12,SQL-Probing
 192.241.204.208,HTTPS-Probing
 192.241.213.42,HTTP-Probing
 89.248.165.120,HTTPS-Probing
