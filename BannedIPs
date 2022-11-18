@@ -2540,6 +2540,7 @@
 192.241.206.217,HTTPS-8443-Probing
 59.24.101.152,Telnet-Scanning
 175.8.129.255,Telnet-Scanning
+178.79.154.106,Telnet-Scanning
 182.240.22.217,Telnet-Scanning
 37.58.56.29,SSH-Scanning
 172.105.129.140,HTTPS-8443-Probing
