@@ -1219,6 +1219,7 @@
 23.239.13.6,HTTPS-Probing
 125.79.32.30,Telnet-Scanning
 64.62.197.152,FTP-Probing
+64.62.197.156,SSH-Scanning
 206.81.1.8,SSH-Scanning
 64.62.197.157,HTTPS-8443-Probing
 192.241.202.222,SQL-Probing
