@@ -1069,6 +1069,7 @@
 104.200.30.9,SMTP-Probing
 200.89.159.242,RDP-Hijacking
 183.97.2.243,Telnet-Scanning
+147.78.47.99,RDP-Hijacking
 154.89.5.212,SQL-Probing
 178.72.68.227,Telnet-Scanning
 97.107.132.79,SMTP-Probing
