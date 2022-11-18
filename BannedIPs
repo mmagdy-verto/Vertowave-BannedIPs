@@ -883,6 +883,7 @@
 123.245.52.168,Telnet-Scanning
 192.241.198.224,HTTPS-8443-Probing
 120.87.238.72,Telnet-Scanning
+218.163.203.83,Telnet-Scanning
 20.70.121.155,Telnet-Scanning
 164.52.0.99,FTP-Probing
 59.8.11.169,Telnet-Scanning
@@ -3022,6 +3023,7 @@
 162.142.125.7,SSH-Scanning
 185.126.116.236,Telnet-Scanning
 178.75.59.222,Telnet-Scanning
+121.189.240.31,Telnet-Scanning
 180.107.132.233,Telnet-Scanning
 162.142.125.9,SSH-Scanning
 42.180.4.139,Telnet-Scanning
