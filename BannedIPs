@@ -4049,6 +4049,7 @@
 198.199.95.14,SSH-Scanning
 5.181.80.161,Telnet-Scanning
 198.235.24.19,HTTPS-Probing
+198.235.24.18,SSH-Scanning
 198.199.95.12,FTP-Probing
 44.211.171.88,HTTPS-Probing
 115.55.247.145,Telnet-Scanning
