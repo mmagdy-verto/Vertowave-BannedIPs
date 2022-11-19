@@ -1646,6 +1646,7 @@
 198.235.24.131,HTTP-Probing
 64.62.197.52,HTTPS-Probing
 198.235.24.171,SQL-Probing
+198.235.24.161,SSH-Scanning
 198.235.24.141,SQL-Probing
 187.67.61.71,Telnet-Scanning
 87.117.25.116,Telnet-Scanning
