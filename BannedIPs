@@ -3913,6 +3913,7 @@
 221.165.180.4,Telnet-Scanning
 114.99.63.221,Telnet-Scanning
 220.92.164.220,Telnet-Scanning
+172.104.19.43,SMTP-Probing
 49.86.15.100,Telnet-Scanning
 198.235.24.159,SSH-Scanning
 175.206.111.81,Telnet-Scanning
