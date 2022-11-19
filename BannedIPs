@@ -2713,6 +2713,7 @@
 192.241.198.19,HTTP-Probing
 121.202.146.103,Telnet-Scanning
 192.241.192.170,RDP-Hijacking
+110.177.99.24,Telnet-Scanning
 119.206.50.138,Telnet-Scanning
 107.189.28.230,Telnet-Scanning
 114.33.153.175,Telnet-Scanning
