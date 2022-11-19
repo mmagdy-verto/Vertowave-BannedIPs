@@ -1860,6 +1860,7 @@
 114.32.66.200,Telnet-Scanning
 45.83.65.91,RDP-Hijacking
 172.104.216.195,SMTP-Probing
+24.164.131.200,Telnet-Scanning
 192.241.205.233,HTTPS-8443-Probing
 20.197.199.155,Telnet-Scanning
 42.225.200.154,Telnet-Scanning
@@ -2414,6 +2415,7 @@
 192.241.194.204,FTP-Probing
 183.106.50.242,Telnet-Scanning
 14.51.26.208,Telnet-Scanning
+117.63.107.239,Telnet-Scanning
 178.141.143.115,Telnet-Scanning
 91.208.197.120,Telnet-Scanning
 46.161.120.203,FTP-Probing
