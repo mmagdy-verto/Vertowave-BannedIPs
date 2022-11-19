@@ -2029,6 +2029,7 @@
 178.134.76.150,Telnet-Scanning
 110.182.172.171,Telnet-Scanning
 119.82.253.55,HTTP-Probing
+192.241.197.119,FTP-Probing
 61.84.174.4,Telnet-Scanning
 88.253.93.172,Telnet-Scanning
 192.241.205.218,HTTPS-Probing
