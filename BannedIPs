@@ -1016,6 +1016,7 @@
 205.210.31.143,FTP-Probing
 37.52.170.70,Telnet-Scanning
 103.125.48.176,Telnet-Scanning
+36.92.193.59,HTTP-Probing
 115.235.43.187,Telnet-Scanning
 130.25.64.32,Telnet-Scanning
 45.79.188.68,HTTPS-Probing
