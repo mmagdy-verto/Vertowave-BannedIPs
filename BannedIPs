@@ -1414,6 +1414,7 @@
 192.241.208.61,RDP-Hijacking
 59.96.138.111,Telnet-Scanning
 172.173.167.75,RDP-Hijacking
+110.19.210.68,SSH-Scanning
 45.65.213.150,Telnet-Scanning
 122.117.106.89,Telnet-Scanning
 192.155.89.142,SMTP-Probing
