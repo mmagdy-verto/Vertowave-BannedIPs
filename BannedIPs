@@ -3748,6 +3748,7 @@
 198.199.92.151,FTP-Probing
 115.217.239.180,Telnet-Scanning
 154.89.5.117,SQL-Probing
+94.102.61.53,FTP-Port-20-Probing
 170.187.165.26,HTTPS-8443-Probing
 211.32.30.174,Telnet-Scanning
 59.187.219.73,Telnet-Scanning
