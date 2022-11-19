@@ -1979,6 +1979,7 @@
 42.114.209.8,Telnet-Scanning
 223.13.81.26,Telnet-Scanning
 125.229.143.24,Telnet-Scanning
+172.104.6.105,SMTP-Probing
 164.52.6.156,SSH-Scanning
 110.181.233.45,Telnet-Scanning
 222.246.115.63,Telnet-Scanning
