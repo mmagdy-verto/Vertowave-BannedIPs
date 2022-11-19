@@ -215,6 +215,7 @@
 198.235.24.180,SQL-Probing
 61.177.173.43,SSH-Scanning
 118.36.149.184,Telnet-Scanning
+192.241.196.184,HTTPS-Probing
 198.235.24.170,Telnet-Scanning
 198.235.24.150,FTP-Probing
 121.224.81.144,Telnet-Scanning
