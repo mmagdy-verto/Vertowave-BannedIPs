@@ -909,6 +909,7 @@
 192.241.213.42,HTTP-Probing
 89.248.165.120,HTTPS-Probing
 112.103.60.4,Telnet-Scanning
+74.207.254.85,Telnet-Scanning
 193.118.53.210,HTTPS-8443-Probing
 192.241.202.90,HTTPS-Probing
 222.185.69.139,Telnet-Scanning
