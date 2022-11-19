@@ -747,6 +747,7 @@
 167.94.138.47,HTTP-Probing
 167.94.138.44,SQL-Probing
 87.236.176.23,SMTP-Probing
+125.132.248.63,Telnet-Scanning
 167.94.138.45,SQL-Probing
 192.241.209.22,HTTP-Probing
 220.133.234.70,Telnet-Scanning
