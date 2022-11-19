@@ -1409,6 +1409,7 @@
 147.182.149.4,HTTP-Probing
 96.126.105.165,SMTP-Probing
 218.199.68.123,SSH-Scanning
+44.203.94.94,Telnet-Scanning
 23.251.102.90,HTTPS-Probing
 96.126.105.135,HTTPS-8443-Probing
 3.93.79.205,Telnet-Scanning
