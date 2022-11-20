@@ -963,6 +963,7 @@
 73.213.152.61,Telnet-Scanning
 5.255.99.205,SSH-Scanning
 121.238.226.113,Telnet-Scanning
+198.199.94.242,HTTPS-8443-Probing
 42.100.60.124,Telnet-Scanning
 110.182.163.112,Telnet-Scanning
 125.132.170.14,Telnet-Scanning
