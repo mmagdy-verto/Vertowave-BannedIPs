@@ -808,6 +808,7 @@
 114.35.40.121,Telnet-Scanning
 45.33.82.53,SMTP-Probing
 104.248.24.41,HTTP-Probing
+176.82.137.8,Telnet-Scanning
 58.162.205.180,Telnet-Scanning
 220.71.16.75,Telnet-Scanning
 47.104.217.64,RDP-Hijacking
