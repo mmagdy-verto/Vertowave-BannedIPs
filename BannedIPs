@@ -590,6 +590,7 @@
 141.98.83.120,RDP-Hijacking
 187.63.73.54,SQL-Probing
 105.110.220.179,Telnet-Scanning
+192.241.199.111,HTTP-Probing
 14.56.110.88,Telnet-Scanning
 37.157.220.218,Telnet-Scanning
 223.10.68.7,Telnet-Scanning
