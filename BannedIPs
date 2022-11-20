@@ -2500,6 +2500,7 @@
 176.112.96.22,HTTP-Probing
 205.210.31.39,RDP-Hijacking
 161.35.80.45,HTTP-Probing
+83.252.61.95,Telnet-Scanning
 222.66.141.98,Telnet-Scanning
 220.89.224.8,Telnet-Scanning
 170.78.39.50,Telnet-Scanning
