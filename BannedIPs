@@ -1960,6 +1960,7 @@
 114.32.66.200,Telnet-Scanning
 45.83.65.91,RDP-Hijacking
 172.104.216.195,SMTP-Probing
+192.241.206.82,HTTPS-Probing
 24.164.131.200,Telnet-Scanning
 192.241.205.233,HTTPS-8443-Probing
 20.197.199.155,Telnet-Scanning
