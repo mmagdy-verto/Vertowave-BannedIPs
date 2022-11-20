@@ -2996,6 +2996,7 @@
 65.49.20.68,FTP-Probing
 35.233.62.116,FTP-Probing
 172.104.244.155,RDP-Hijacking
+125.228.228.117,Telnet-Scanning
 87.236.176.116,SSH-Scanning
 87.236.176.136,SMTP-Probing
 176.212.102.2,Telnet-Scanning
