@@ -3860,6 +3860,7 @@
 192.241.202.229,Telnet-Scanning
 221.149.165.46,Telnet-Scanning
 45.61.188.52,Telnet-Scanning
+176.113.115.106,RDP-Hijacking
 223.197.176.213,Telnet-Scanning
 45.33.67.26,HTTPS-Probing
 103.185.184.75,RDP-Hijacking
