@@ -118,6 +118,7 @@
 192.241.212.111,HTTPS-8443-Probing
 119.204.165.75,Telnet-Scanning
 104.152.52.144,SQL-Probing
+5.249.148.133,RDP-Hijacking
 24.54.153.4,SSH-Scanning
 82.151.125.192,Telnet-Scanning
 170.64.140.47,HTTP-Probing
