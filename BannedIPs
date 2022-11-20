@@ -1373,6 +1373,7 @@
 175.204.197.170,Telnet-Scanning
 92.205.22.158,RDP-Hijacking
 111.255.36.225,Telnet-Scanning
+185.180.143.140,HTTP-Probing
 103.149.192.54,HTTPS-Probing
 80.191.189.61,Telnet-Scanning
 213.159.40.144,Telnet-Scanning
