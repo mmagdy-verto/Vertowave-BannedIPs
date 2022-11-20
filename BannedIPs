@@ -3763,6 +3763,7 @@
 119.194.141.10,Telnet-Scanning
 59.26.145.206,SSH-Scanning
 183.106.20.143,Telnet-Scanning
+121.189.193.6,Telnet-Scanning
 172.105.129.248,HTTPS-8443-Probing
 121.183.164.153,Telnet-Scanning
 221.153.205.112,Telnet-Scanning
