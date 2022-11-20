@@ -3054,6 +3054,7 @@
 164.92.215.243,HTTP-Probing
 196.191.194.159,Telnet-Scanning
 103.30.119.39,Telnet-Scanning
+69.164.222.179,HTTPS-Probing
 161.35.22.122,HTTP-Probing
 223.13.89.77,Telnet-Scanning
 4.236.147.74,RDP-Hijacking
