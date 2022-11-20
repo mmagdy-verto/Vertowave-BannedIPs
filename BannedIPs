@@ -1944,6 +1944,7 @@
 142.93.191.98,SSH-Scanning
 117.60.172.216,Telnet-Scanning
 172.104.210.162,SMTP-Probing
+192.241.192.26,FTP-Probing
 192.241.206.204,SMTP-Probing
 220.76.45.103,Telnet-Scanning
 34.222.190.192,SMTP-Probing
