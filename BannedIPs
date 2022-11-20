@@ -2350,6 +2350,7 @@
 170.187.162.17,SMTP-Probing
 185.73.125.124,RDP-Hijacking
 114.35.254.35,Telnet-Scanning
+1.70.130.135,Telnet-Scanning
 205.210.31.177,RDP-Hijacking
 206.189.132.47,HTTP-Probing
 205.210.31.167,HTTPS-Probing
