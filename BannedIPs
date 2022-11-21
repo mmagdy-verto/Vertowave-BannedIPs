@@ -4273,6 +4273,7 @@
 219.156.182.223,Telnet-Scanning
 192.241.211.97,SSH-Scanning
 192.241.211.87,SQL-Probing
+124.89.86.145,HTTP-Probing
 172.104.30.208,HTTPS-Probing
 132.148.78.28,Telnet-Scanning
 124.89.86.140,Telnet-Scanning
