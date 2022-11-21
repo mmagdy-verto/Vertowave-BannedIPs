@@ -3360,6 +3360,7 @@
 154.89.5.105,SMTP-Probing
 121.158.188.21,Telnet-Scanning
 200.46.45.114,Telnet-Scanning
+184.83.219.205,SSH-Scanning
 69.164.212.149,HTTPS-Probing
 121.167.93.228,Telnet-Scanning
 139.59.46.202,SSH-Scanning
