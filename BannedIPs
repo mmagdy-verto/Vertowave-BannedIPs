@@ -1716,6 +1716,7 @@
 110.19.210.68,SSH-Scanning
 45.65.213.150,Telnet-Scanning
 122.117.106.89,Telnet-Scanning
+52.91.204.126,Telnet-Scanning
 117.60.71.116,Telnet-Scanning
 58.214.19.138,SQL-Probing
 192.155.89.142,SMTP-Probing
