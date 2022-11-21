@@ -142,6 +142,7 @@
 1.70.100.77,Telnet-Scanning
 175.13.2.44,Telnet-Scanning
 49.143.16.204,Telnet-Scanning
+62.20.249.235,Telnet-Scanning
 114.239.102.123,Telnet-Scanning
 184.73.39.214,Telnet-Scanning
 210.97.50.186,Telnet-Scanning
@@ -451,6 +452,7 @@
 61.77.196.111,Telnet-Scanning
 58.61.141.67,Telnet-Scanning
 107.189.14.132,Telnet-Scanning
+182.240.27.117,Telnet-Scanning
 121.172.88.59,Telnet-Scanning
 167.94.145.57,SQL-Probing
 3.86.225.130,Telnet-Scanning
@@ -4776,6 +4778,7 @@
 77.2.83.185,SSH-Scanning
 109.247.55.135,Telnet-Scanning
 220.126.9.192,Telnet-Scanning
+139.144.235.165,SMTP-Probing
 182.136.24.177,Telnet-Scanning
 114.33.156.40,Telnet-Scanning
 192.241.209.236,RDP-Hijacking
