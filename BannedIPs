@@ -1045,6 +1045,7 @@
 172.105.128.191,SMTP-Probing
 139.144.135.6,SMTP-Probing
 71.6.232.20,FTP-Probing
+139.144.135.7,HTTPS-8443-Probing
 59.8.169.3,Telnet-Scanning
 198.199.114.218,HTTPS-Probing
 210.95.58.154,Telnet-Scanning
