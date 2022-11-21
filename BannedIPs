@@ -4943,6 +4943,7 @@
 23.224.186.225,RDP-Hijacking
 37.18.100.218,RDP-Hijacking
 73.107.5.77,Telnet-Scanning
+49.143.53.112,Telnet-Scanning
 220.74.100.72,Telnet-Scanning
 190.180.154.246,HTTP-Probing
 20.168.58.215,HTTP-Probing
