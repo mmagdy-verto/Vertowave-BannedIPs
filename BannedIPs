@@ -976,6 +976,7 @@
 205.210.31.176,HTTP-Probing
 205.210.31.166,Telnet-Scanning
 212.102.35.158,RDP-Hijacking
+14.238.12.150,Telnet-Scanning
 192.241.204.244,HTTPS-8443-Probing
 54.173.57.87,HTTP-Probing
 54.190.125.209,Telnet-Scanning
