@@ -1961,6 +1961,7 @@
 50.116.56.181,SMTP-Probing
 101.36.97.81,FTP-Probing
 120.85.114.232,Telnet-Scanning
+222.93.55.43,Telnet-Scanning
 220.79.44.139,Telnet-Scanning
 182.176.228.148,RDP-Hijacking
 110.181.75.48,Telnet-Scanning
