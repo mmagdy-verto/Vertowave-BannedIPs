@@ -1991,6 +1991,7 @@
 178.32.197.93,Telnet-Scanning
 222.100.15.2,Telnet-Scanning
 178.32.197.92,RDP-Hijacking
+192.241.194.73,HTTPS-Probing
 184.105.139.112,HTTP-Probing
 117.60.172.83,Telnet-Scanning
 175.201.194.221,Telnet-Scanning
