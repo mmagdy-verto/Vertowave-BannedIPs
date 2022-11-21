@@ -3089,6 +3089,7 @@
 178.79.154.106,Telnet-Scanning
 182.240.22.217,Telnet-Scanning
 37.58.56.29,SSH-Scanning
+114.32.71.143,Telnet-Scanning
 172.105.129.140,HTTPS-8443-Probing
 222.185.97.52,Telnet-Scanning
 66.85.173.56,SMTP-Probing
