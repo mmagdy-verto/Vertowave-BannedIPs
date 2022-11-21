@@ -3514,6 +3514,7 @@
 109.109.110.156,Telnet-Scanning
 14.176.8.215,Telnet-Scanning
 111.224.249.194,HTTPS-Probing
+54.211.147.255,SSH-Scanning
 87.236.176.8,HTTP-Probing
 182.32.196.183,Telnet-Scanning
 139.226.101.66,SQL-Probing
