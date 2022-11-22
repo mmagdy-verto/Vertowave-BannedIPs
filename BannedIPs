@@ -3716,6 +3716,7 @@
 87.236.176.115,HTTP-Probing
 39.40.245.116,Telnet-Scanning
 87.236.176.145,SSH-Scanning
+27.71.27.47,RDP-Hijacking
 87.236.176.185,HTTP-Probing
 111.255.36.225,Telnet-Scanning
 85.31.46.211,HTTP-Probing
