@@ -97,6 +97,7 @@
 205.210.31.15,SSH-Scanning
 205.210.31.14,FTP-Probing
 205.210.31.17,FTP-Probing
+101.127.29.6,Telnet-Scanning
 183.157.174.168,Telnet-Scanning
 205.210.31.11,HTTP-Probing
 205.210.31.10,RDP-Hijacking
