@@ -92,6 +92,7 @@
 106.75.179.48,HTTPS-Probing
 190.57.20.46,HTTP-Probing
 64.62.197.33,HTTP-Probing
+222.106.27.46,Telnet-Scanning
 205.210.31.15,SSH-Scanning
 205.210.31.14,FTP-Probing
 205.210.31.17,FTP-Probing
