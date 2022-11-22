@@ -2022,6 +2022,7 @@
 116.4.11.86,SQL-Probing
 139.144.239.218,HTTPS-Probing
 183.109.190.2,Telnet-Scanning
+54.211.122.86,Telnet-Scanning
 64.62.197.94,SSH-Scanning
 192.241.204.208,HTTPS-Probing
 20.205.32.172,HTTPS-Probing
