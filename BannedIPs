@@ -1971,6 +1971,7 @@
 85.31.44.178,HTTP-Probing
 121.159.254.174,Telnet-Scanning
 221.225.185.211,Telnet-Scanning
+192.241.205.33,FTP-Probing
 114.228.75.89,Telnet-Scanning
 35.91.24.84,Telnet-Scanning
 185.112.63.206,Telnet-Scanning
