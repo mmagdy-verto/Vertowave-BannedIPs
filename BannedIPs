@@ -5263,6 +5263,7 @@
 198.74.62.154,SMTP-Probing
 198.74.62.155,SMTP-Probing
 195.32.26.89,HTTP-Probing
+175.202.111.250,Telnet-Scanning
 117.62.95.93,Telnet-Scanning
 113.25.132.156,Telnet-Scanning
 115.179.88.161,Telnet-Scanning
