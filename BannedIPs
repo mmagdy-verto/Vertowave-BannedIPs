@@ -5005,6 +5005,7 @@
 164.52.54.43,HTTPS-8443-Probing
 52.71.107.57,Telnet-Scanning
 114.34.218.75,Telnet-Scanning
+220.84.234.193,SSH-Scanning
 20.3.130.132,FTP-Probing
 110.183.49.131,Telnet-Scanning
 107.189.10.189,HTTPS-8443-Probing
