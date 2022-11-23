@@ -5559,6 +5559,7 @@
 45.142.192.8,HTTPS-8443-Probing
 172.104.19.43,SMTP-Probing
 106.73.68.65,Telnet-Scanning
+113.89.244.191,Telnet-Scanning
 61.177.173.61,SSH-Scanning
 107.189.7.33,Telnet-Scanning
 94.102.61.10,HTTP-Probing
