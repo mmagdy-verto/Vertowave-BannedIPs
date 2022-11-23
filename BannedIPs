@@ -1246,6 +1246,7 @@
 27.71.226.124,SQL-Probing
 43.158.217.205,SSH-Scanning
 52.23.183.151,Telnet-Scanning
+42.179.147.41,Telnet-Scanning
 114.129.206.18,Telnet-Scanning
 179.155.183.196,Telnet-Scanning
 192.241.195.124,SMTP-Probing
