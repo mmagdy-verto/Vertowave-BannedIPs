@@ -2895,6 +2895,7 @@
 185.132.53.227,Telnet-Scanning
 154.89.5.116,SSH-Scanning
 183.239.222.46,Telnet-Scanning
+193.35.18.223,HTTP-Probing
 223.13.69.98,Telnet-Scanning
 223.77.104.141,SQL-Probing
 54.245.128.20,Telnet-Scanning
