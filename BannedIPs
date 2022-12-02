@@ -1732,6 +1732,7 @@
 90.77.50.159,Telnet-Scanning
 102.219.42.162,SSH-Scanning
 43.158.216.231,SSH-Scanning
+59.126.106.185,Telnet-Scanning
 170.187.165.17,SMTP-Probing
 192.241.192.96,HTTPS-Probing
 192.241.192.66,SSH-Scanning
