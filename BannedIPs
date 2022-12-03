@@ -4855,6 +4855,7 @@
 118.40.170.180,Telnet-Scanning
 186.123.145.65,Telnet-Scanning
 210.179.106.193,Telnet-Scanning
+111.231.193.112,SSH-Scanning
 177.182.165.242,Telnet-Scanning
 20.9.129.176,SSH-Scanning
 202.95.12.42,SMTP-Probing
