@@ -620,6 +620,7 @@
 177.101.2.101,Telnet-Scanning
 192.241.203.194,FTP-Probing
 3.101.103.169,HTTP-Probing
+34.159.243.107,HTTP-Probing
 2.57.122.177,HTTPS-8443-Probing
 109.251.234.181,Telnet-Scanning
 221.150.215.153,Telnet-Scanning
