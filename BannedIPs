@@ -6183,6 +6183,7 @@
 222.188.255.62,Telnet-Scanning
 84.15.135.94,Telnet-Scanning
 20.234.18.92,SSH-Scanning
+128.14.141.42,HTTPS-8443-Probing
 20.55.94.25,SSH-Scanning
 64.62.197.35,HTTPS-Probing
 103.190.28.70,SSH-Scanning
