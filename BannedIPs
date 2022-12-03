@@ -4115,6 +4115,7 @@
 170.187.162.17,SMTP-Probing
 115.198.179.165,Telnet-Scanning
 192.241.205.233,HTTPS-8443-Probing
+80.66.88.15,SQL-Probing
 222.188.248.237,Telnet-Scanning
 20.226.60.88,Telnet-Scanning
 117.208.96.72,Telnet-Scanning
