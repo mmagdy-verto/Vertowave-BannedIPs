@@ -3713,6 +3713,7 @@
 122.252.124.166,HTTP-Probing
 194.110.203.60,HTTPS-Probing
 175.204.61.223,Telnet-Scanning
+71.6.167.142,SMTP-Probing
 20.28.193.21,HTTP-Probing
 103.14.155.173,SMTP-Probing
 115.20.189.189,Telnet-Scanning
