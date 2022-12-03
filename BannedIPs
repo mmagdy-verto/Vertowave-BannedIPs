@@ -3704,6 +3704,7 @@
 122.116.8.100,Telnet-Scanning
 110.183.51.130,Telnet-Scanning
 222.185.145.123,Telnet-Scanning
+20.55.93.255,SSH-Scanning
 34.77.127.183,HTTPS-Probing
 58.208.120.105,Telnet-Scanning
 205.210.31.150,RDP-Hijacking
