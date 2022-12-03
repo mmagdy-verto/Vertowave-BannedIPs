@@ -2743,6 +2743,7 @@
 23.251.102.74,HTTP-Probing
 64.62.197.188,HTTPS-8443-Probing
 89.248.163.167,RDP-Hijacking
+49.72.76.47,Telnet-Scanning
 220.134.232.212,Telnet-Scanning
 121.158.188.21,Telnet-Scanning
 23.92.20.6,HTTPS-Probing
