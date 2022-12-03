@@ -222,6 +222,7 @@
 192.241.204.252,SSH-Scanning
 183.107.45.127,SSH-Scanning
 46.71.243.20,Telnet-Scanning
+219.85.184.32,Telnet-Scanning
 23.239.13.6,HTTPS-Probing
 154.89.5.77,SQL-Probing
 45.79.171.17,SMTP-Probing
