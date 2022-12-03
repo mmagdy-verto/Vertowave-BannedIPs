@@ -4143,6 +4143,7 @@
 121.151.202.19,Telnet-Scanning
 198.199.95.12,FTP-Probing
 121.157.167.120,Telnet-Scanning
+102.140.197.6,Telnet-Scanning
 192.241.206.229,HTTP-Probing
 104.161.20.49,RDP-Hijacking
 61.177.172.61,SSH-Scanning
