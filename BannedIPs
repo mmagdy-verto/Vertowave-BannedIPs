@@ -3022,6 +3022,7 @@
 74.82.47.34,SMTP-Probing
 178.128.121.226,FTP-Probing
 192.241.208.171,SQL-Probing
+101.99.32.108,Telnet-Scanning
 192.241.203.37,HTTPS-Probing
 172.105.10.236,HTTP-Probing
 49.171.121.19,Telnet-Scanning
