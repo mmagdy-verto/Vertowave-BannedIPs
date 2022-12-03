@@ -294,6 +294,7 @@
 185.162.235.115,RDP-Hijacking
 125.228.0.214,Telnet-Scanning
 42.242.156.198,Telnet-Scanning
+180.119.68.129,Telnet-Scanning
 72.251.235.148,HTTP-Probing
 51.79.29.48,HTTP-Probing
 170.187.164.210,HTTPS-8443-Probing
