@@ -4520,6 +4520,7 @@
 45.50.107.192,Telnet-Scanning
 20.9.144.101,SSH-Scanning
 202.157.176.50,SSH-Scanning
+189.51.30.2,Telnet-Scanning
 108.14.226.88,Telnet-Scanning
 45.89.127.3,Telnet-Scanning
 200.89.159.242,RDP-Hijacking
