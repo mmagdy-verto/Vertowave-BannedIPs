@@ -1998,6 +1998,7 @@
 77.53.106.25,Telnet-Scanning
 95.158.19.130,Telnet-Scanning
 192.241.204.157,HTTPS-Probing
+99.10.100.125,Telnet-Scanning
 185.167.97.38,HTTPS-Probing
 192.241.208.84,FTP-Probing
 221.225.0.242,Telnet-Scanning
