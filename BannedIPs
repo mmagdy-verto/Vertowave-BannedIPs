@@ -4513,6 +4513,7 @@
 87.236.176.216,Telnet-Scanning
 87.236.176.226,SMTP-Probing
 205.210.31.5,HTTP-Probing
+153.3.135.213,Telnet-Scanning
 87.236.176.246,HTTP-Probing
 122.116.60.196,Telnet-Scanning
 4.236.148.147,RDP-Hijacking
