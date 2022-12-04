@@ -6114,6 +6114,7 @@
 123.240.244.33,Telnet-Scanning
 164.52.0.99,FTP-Probing
 43.154.110.220,RDP-Hijacking
+125.229.43.217,Telnet-Scanning
 61.219.51.200,Telnet-Scanning
 139.144.235.215,HTTPS-Probing
 92.255.85.115,SSH-Scanning
