@@ -827,6 +827,7 @@
 87.236.176.148,HTTPS-Probing
 222.185.64.60,Telnet-Scanning
 87.236.176.158,Telnet-Scanning
+1.70.132.108,Telnet-Scanning
 87.236.176.168,HTTP-Probing
 121.158.181.179,Telnet-Scanning
 87.236.176.178,SMTP-Probing
