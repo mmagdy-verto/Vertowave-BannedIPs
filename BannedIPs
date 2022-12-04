@@ -852,6 +852,7 @@
 206.189.149.109,Telnet-Scanning
 41.216.183.45,Telnet-Scanning
 220.134.69.71,SSH-Scanning
+60.161.22.141,Telnet-Scanning
 172.105.128.170,HTTPS-8443-Probing
 122.116.160.76,Telnet-Scanning
 110.92.118.94,Telnet-Scanning
