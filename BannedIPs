@@ -2083,6 +2083,7 @@
 59.95.152.40,HTTP-Probing
 45.33.73.242,HTTPS-Probing
 222.128.103.228,Telnet-Scanning
+192.241.192.120,RDP-Hijacking
 184.105.247.220,HTTPS-Probing
 121.158.99.235,Telnet-Scanning
 222.102.150.232,Telnet-Scanning
