@@ -2183,6 +2183,7 @@
 167.248.133.63,SSH-Scanning
 60.209.36.222,SQL-Probing
 104.200.30.175,HTTPS-8443-Probing
+43.137.47.241,Telnet-Scanning
 220.132.79.78,Telnet-Scanning
 109.115.129.232,Telnet-Scanning
 153.189.192.69,Telnet-Scanning
