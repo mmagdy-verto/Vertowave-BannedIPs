@@ -1033,6 +1033,7 @@
 195.93.160.10,HTTP-Probing
 45.184.71.186,Telnet-Scanning
 167.94.145.57,SQL-Probing
+119.199.165.150,Telnet-Scanning
 167.94.145.59,HTTP-Probing
 167.94.145.58,Telnet-Scanning
 167.99.184.193,HTTPS-8443-Probing
