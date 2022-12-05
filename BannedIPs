@@ -5533,6 +5533,7 @@
 192.241.199.53,FTP-Port-20-Probing
 192.241.199.73,SSH-Scanning
 220.76.45.103,Telnet-Scanning
+125.40.18.229,Telnet-Scanning
 124.248.188.134,Telnet-Scanning
 192.241.201.173,FTP-Port-20-Probing
 220.134.208.26,Telnet-Scanning
