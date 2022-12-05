@@ -6320,6 +6320,7 @@
 31.210.22.176,SMTP-Probing
 191.101.31.32,RDP-Hijacking
 45.9.110.186,HTTPS-Probing
+211.49.189.40,Telnet-Scanning
 97.107.137.118,HTTPS-8443-Probing
 177.21.128.162,Telnet-Scanning
 185.74.102.221,Telnet-Scanning
