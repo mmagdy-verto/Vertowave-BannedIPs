@@ -754,6 +754,7 @@
 34.140.248.32,FTP-Probing
 163.123.141.198,HTTP-Probing
 184.105.139.86,HTTP-Probing
+198.235.24.60,RDP-Hijacking
 37.157.220.218,Telnet-Scanning
 191.96.168.233,RDP-Hijacking
 115.197.47.24,Telnet-Scanning
