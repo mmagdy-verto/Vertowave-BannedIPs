@@ -1063,6 +1063,7 @@
 175.171.173.136,Telnet-Scanning
 114.35.156.146,Telnet-Scanning
 45.56.85.97,HTTPS-Probing
+195.144.21.56,SMTP-Probing
 154.47.20.65,HTTP-Probing
 198.199.92.151,FTP-Probing
 176.82.137.8,Telnet-Scanning
