@@ -3280,6 +3280,7 @@
 176.58.105.118,HTTP-Probing
 213.136.79.38,HTTP-Probing
 80.82.70.228,HTTPS-Probing
+60.14.52.5,Telnet-Scanning
 20.168.58.215,HTTP-Probing
 216.218.206.67,RDP-Hijacking
 211.253.171.182,Telnet-Scanning
