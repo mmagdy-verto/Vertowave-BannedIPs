@@ -6413,6 +6413,7 @@
 24.243.88.244,Telnet-Scanning
 58.209.240.236,Telnet-Scanning
 45.142.192.8,HTTPS-8443-Probing
+139.59.95.86,HTTPS-Probing
 172.104.19.43,SMTP-Probing
 106.73.68.65,Telnet-Scanning
 61.177.173.61,SSH-Scanning
