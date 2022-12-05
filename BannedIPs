@@ -5400,6 +5400,7 @@
 192.241.199.73,SSH-Scanning
 220.76.45.103,Telnet-Scanning
 124.248.188.134,Telnet-Scanning
+220.134.208.26,Telnet-Scanning
 76.26.24.53,Telnet-Scanning
 23.241.132.177,Telnet-Scanning
 87.236.176.90,HTTP-Probing
