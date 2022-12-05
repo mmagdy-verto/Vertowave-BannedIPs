@@ -2204,6 +2204,7 @@
 220.246.62.115,Telnet-Scanning
 192.145.213.127,Telnet-Scanning
 142.93.191.98,SSH-Scanning
+192.241.202.125,HTTPS-Probing
 49.73.107.29,Telnet-Scanning
 222.114.154.132,SSH-Scanning
 222.118.131.4,Telnet-Scanning
