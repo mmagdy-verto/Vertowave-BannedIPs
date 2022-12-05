@@ -5253,6 +5253,7 @@
 210.179.106.193,Telnet-Scanning
 111.231.193.112,SSH-Scanning
 177.182.165.242,Telnet-Scanning
+69.164.216.25,SMTP-Probing
 20.9.129.176,SSH-Scanning
 202.95.12.42,SMTP-Probing
 114.34.199.74,Telnet-Scanning
