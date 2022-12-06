@@ -2829,6 +2829,7 @@
 172.104.216.82,SMTP-Probing
 165.22.76.151,RDP-Hijacking
 44.203.44.181,Telnet-Scanning
+45.61.188.13,Telnet-Scanning
 87.0.39.193,Telnet-Scanning
 219.140.149.87,Telnet-Scanning
 180.110.221.15,Telnet-Scanning
