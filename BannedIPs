@@ -2700,6 +2700,7 @@
 52.163.96.139,RDP-Hijacking
 104.152.52.105,HTTPS-Probing
 222.185.71.104,Telnet-Scanning
+122.164.14.171,Telnet-Scanning
 184.105.247.208,HTTP-Probing
 106.3.151.11,SSH-Scanning
 122.117.239.102,Telnet-Scanning
