@@ -6819,6 +6819,7 @@
 59.151.213.181,Telnet-Scanning
 61.166.30.227,Telnet-Scanning
 192.241.209.93,HTTPS-8443-Probing
+1.175.95.22,Telnet-Scanning
 154.89.5.81,FTP-Probing
 45.201.175.94,Telnet-Scanning
 112.94.97.40,HTTP-Probing
