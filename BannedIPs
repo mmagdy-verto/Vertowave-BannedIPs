@@ -6517,6 +6517,7 @@
 212.224.89.179,RDP-Hijacking
 192.241.192.62,HTTPS-Probing
 103.101.91.219,Telnet-Scanning
+197.237.70.230,Telnet-Scanning
 200.46.45.114,Telnet-Scanning
 183.162.192.191,Telnet-Scanning
 221.200.222.68,SQL-Probing
