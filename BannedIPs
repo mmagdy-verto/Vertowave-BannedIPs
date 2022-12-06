@@ -882,6 +882,7 @@
 121.180.95.105,Telnet-Scanning
 123.5.187.207,Telnet-Scanning
 110.141.7.190,Telnet-Scanning
+64.62.197.145,SSH-Scanning
 172.104.216.142,HTTPS-Probing
 64.62.197.149,SSH-Scanning
 172.104.218.236,HTTPS-Probing
