@@ -6092,6 +6092,7 @@
 205.210.31.175,FTP-Probing
 114.220.163.26,Telnet-Scanning
 205.210.31.165,HTTP-Probing
+112.16.178.239,Telnet-Scanning
 61.180.123.221,Telnet-Scanning
 205.210.31.135,FTP-Port-20-Probing
 205.210.31.185,FTP-Probing
