@@ -3533,6 +3533,7 @@
 223.77.104.141,SQL-Probing
 54.245.128.20,Telnet-Scanning
 172.105.246.139,HTTP-Probing
+193.35.18.228,Telnet-Scanning
 52.146.4.178,FTP-Probing
 115.55.146.128,Telnet-Scanning
 103.188.166.96,RDP-Hijacking
