@@ -6379,6 +6379,7 @@
 37.53.67.199,Telnet-Scanning
 193.106.246.83,RDP-Hijacking
 88.80.184.177,SSH-Scanning
+20.12.188.216,RDP-Hijacking
 47.254.25.10,HTTP-Probing
 221.126.77.158,Telnet-Scanning
 112.80.136.73,SQL-Probing
