@@ -4402,6 +4402,7 @@
 110.182.237.201,Telnet-Scanning
 223.151.248.248,Telnet-Scanning
 66.175.214.139,HTTPS-8443-Probing
+106.111.54.25,Telnet-Scanning
 218.16.42.47,Telnet-Scanning
 213.142.151.112,RDP-Hijacking
 67.205.178.166,HTTPS-8443-Probing
