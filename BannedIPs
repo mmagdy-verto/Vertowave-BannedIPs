@@ -6658,6 +6658,7 @@
 61.177.173.54,SSH-Scanning
 61.177.173.55,SSH-Scanning
 61.177.173.56,SSH-Scanning
+192.241.208.189,HTTP-Probing
 14.41.108.195,Telnet-Scanning
 198.235.24.133,HTTP-Probing
 198.235.24.163,RDP-Hijacking
