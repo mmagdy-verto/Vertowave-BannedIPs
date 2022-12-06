@@ -1040,6 +1040,7 @@
 210.97.50.186,Telnet-Scanning
 162.142.125.219,FTP-Probing
 1.22.129.38,Telnet-Scanning
+193.47.61.121,HTTP-Probing
 87.236.176.80,HTTPS-Probing
 87.236.176.81,HTTPS-8443-Probing
 87.236.176.82,HTTP-Probing
