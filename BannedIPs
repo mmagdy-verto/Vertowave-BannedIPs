@@ -6692,6 +6692,7 @@
 59.187.219.73,Telnet-Scanning
 101.36.102.41,SSH-Scanning
 84.228.117.203,Telnet-Scanning
+47.252.2.234,HTTPS-8443-Probing
 85.109.223.132,Telnet-Scanning
 24.158.113.177,Telnet-Scanning
 154.89.5.105,SMTP-Probing
