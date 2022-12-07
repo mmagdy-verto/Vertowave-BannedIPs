@@ -4954,6 +4954,7 @@
 142.186.159.195,SSH-Scanning
 87.236.176.235,HTTP-Probing
 87.236.176.245,FTP-Probing
+45.79.153.106,SMTP-Probing
 23.239.12.186,SMTP-Probing
 222.241.50.213,Telnet-Scanning
 88.253.93.172,Telnet-Scanning
