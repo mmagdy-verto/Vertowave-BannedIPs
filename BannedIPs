@@ -3013,6 +3013,7 @@
 192.241.207.189,Telnet-Scanning
 121.228.93.39,Telnet-Scanning
 112.72.208.159,Telnet-Scanning
+192.241.205.25,SSH-Scanning
 65.49.20.67,Telnet-Scanning
 192.241.205.202,HTTPS-Probing
 18.212.162.162,Telnet-Scanning
