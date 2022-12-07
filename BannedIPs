@@ -6093,6 +6093,7 @@
 198.74.62.82,HTTPS-Probing
 202.179.0.137,RDP-Hijacking
 45.79.133.79,HTTPS-8443-Probing
+221.193.231.196,Telnet-Scanning
 167.99.144.251,HTTP-Probing
 175.201.131.228,Telnet-Scanning
 185.169.37.124,Telnet-Scanning
