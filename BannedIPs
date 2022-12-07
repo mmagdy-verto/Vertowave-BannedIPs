@@ -2080,6 +2080,7 @@
 45.33.82.53,SMTP-Probing
 198.235.24.131,HTTP-Probing
 122.11.223.83,Telnet-Scanning
+59.127.119.183,Telnet-Scanning
 198.235.24.171,SQL-Probing
 183.162.193.30,Telnet-Scanning
 198.235.24.161,SSH-Scanning
