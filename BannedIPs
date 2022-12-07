@@ -4920,6 +4920,7 @@
 198.199.95.14,SSH-Scanning
 4.17.224.134,HTTP-Probing
 122.191.176.3,Telnet-Scanning
+59.26.151.254,Telnet-Scanning
 121.151.202.19,Telnet-Scanning
 198.199.95.12,FTP-Probing
 121.157.167.120,Telnet-Scanning
