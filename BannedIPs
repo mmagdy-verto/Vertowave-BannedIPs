@@ -6930,6 +6930,7 @@
 143.244.137.187,HTTPS-8443-Probing
 192.241.212.209,HTTPS-Probing
 51.250.83.34,SSH-Scanning
+118.250.104.28,Telnet-Scanning
 222.95.82.233,Telnet-Scanning
 191.243.1.39,Telnet-Scanning
 74.82.47.5,RDP-Hijacking
