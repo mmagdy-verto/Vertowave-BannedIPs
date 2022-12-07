@@ -3983,6 +3983,7 @@
 198.235.24.139,FTP-Port-20-Probing
 45.130.83.81,RDP-Hijacking
 117.210.156.225,Telnet-Scanning
+198.235.24.169,FTP-Probing
 198.235.24.159,SSH-Scanning
 198.235.24.149,FTP-Port-20-Probing
 222.90.90.58,Telnet-Scanning
