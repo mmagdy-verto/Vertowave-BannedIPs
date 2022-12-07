@@ -3314,6 +3314,7 @@
 113.100.112.62,Telnet-Scanning
 61.146.210.60,SSH-Scanning
 198.235.24.42,HTTPS-8443-Probing
+198.235.24.41,RDP-Hijacking
 198.235.24.40,RDP-Hijacking
 198.235.24.46,RDP-Hijacking
 198.235.24.44,SQL-Probing
