@@ -1470,6 +1470,7 @@
 74.82.47.14,HTTPS-Probing
 198.199.95.119,HTTPS-8443-Probing
 114.237.41.38,Telnet-Scanning
+106.75.147.254,SSH-Scanning
 203.229.150.194,Telnet-Scanning
 122.7.49.172,Telnet-Scanning
 194.32.122.33,RDP-Hijacking
