@@ -1860,6 +1860,7 @@
 192.241.206.57,SSH-Scanning
 220.111.52.150,Telnet-Scanning
 121.166.127.39,Telnet-Scanning
+192.241.206.47,RDP-Hijacking
 201.182.10.214,Telnet-Scanning
 114.32.120.57,Telnet-Scanning
 77.175.127.26,RDP-Hijacking
