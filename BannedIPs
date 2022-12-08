@@ -3037,6 +3037,7 @@
 175.30.70.83,Telnet-Scanning
 18.205.114.186,Telnet-Scanning
 205.210.31.53,RDP-Hijacking
+205.210.31.52,SQL-Probing
 114.34.193.99,Telnet-Scanning
 103.45.234.97,RDP-Hijacking
 201.220.155.206,Telnet-Scanning
