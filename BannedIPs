@@ -6433,6 +6433,7 @@
 116.252.20.151,SQL-Probing
 157.230.56.6,HTTP-Probing
 114.32.68.52,Telnet-Scanning
+3.142.123.127,HTTP-Probing
 59.126.179.92,Telnet-Scanning
 180.108.56.40,Telnet-Scanning
 154.6.22.63,RDP-Hijacking
