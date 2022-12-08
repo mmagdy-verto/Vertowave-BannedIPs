@@ -1219,6 +1219,7 @@
 167.94.138.119,SQL-Probing
 192.241.212.184,FTP-Probing
 223.8.40.176,Telnet-Scanning
+220.134.254.241,Telnet-Scanning
 114.239.244.188,Telnet-Scanning
 178.212.47.90,Telnet-Scanning
 38.54.101.75,RDP-Hijacking
