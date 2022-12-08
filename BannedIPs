@@ -6427,6 +6427,7 @@
 95.154.170.110,HTTP-Probing
 72.55.134.112,RDP-Hijacking
 198.199.112.109,HTTP-Probing
+125.138.9.208,Telnet-Scanning
 192.241.199.201,HTTPS-Probing
 31.163.163.144,Telnet-Scanning
 125.137.137.166,Telnet-Scanning
