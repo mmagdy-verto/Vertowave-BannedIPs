@@ -6926,6 +6926,7 @@
 154.89.5.208,FTP-Probing
 223.10.5.122,Telnet-Scanning
 69.164.212.97,HTTPS-Probing
+125.228.46.62,Telnet-Scanning
 140.210.208.20,Telnet-Scanning
 146.190.19.205,SSH-Scanning
 45.33.66.134,SMTP-Probing
