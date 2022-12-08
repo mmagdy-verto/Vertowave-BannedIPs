@@ -6360,6 +6360,7 @@
 164.92.212.14,HTTPS-Probing
 185.174.137.107,HTTP-Probing
 103.113.69.119,Telnet-Scanning
+193.47.61.164,SMTP-Probing
 184.83.219.205,SSH-Scanning
 121.226.251.171,Telnet-Scanning
 1.156.56.39,Telnet-Scanning
