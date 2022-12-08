@@ -2923,6 +2923,7 @@
 31.163.155.196,Telnet-Scanning
 74.82.47.42,SMTP-Probing
 192.241.208.203,HTTPS-8443-Probing
+195.96.137.6,RDP-Hijacking
 35.221.226.237,SSH-Scanning
 128.14.209.242,SSH-Scanning
 110.181.74.38,Telnet-Scanning
