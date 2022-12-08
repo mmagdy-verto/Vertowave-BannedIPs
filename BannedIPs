@@ -6672,6 +6672,7 @@
 121.152.198.107,Telnet-Scanning
 188.13.94.55,Telnet-Scanning
 59.127.163.95,Telnet-Scanning
+192.241.194.138,HTTPS-Probing
 88.85.214.6,Telnet-Scanning
 121.88.190.20,RDP-Hijacking
 45.79.187.38,SMTP-Probing
