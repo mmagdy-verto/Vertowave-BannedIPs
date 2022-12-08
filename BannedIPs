@@ -6419,6 +6419,7 @@
 89.248.163.219,SSH-Scanning
 223.9.148.175,Telnet-Scanning
 115.215.211.167,Telnet-Scanning
+195.133.20.248,RDP-Hijacking
 4.228.209.151,Telnet-Scanning
 192.241.207.150,RDP-Hijacking
 154.89.5.114,HTTPS-8443-Probing
