@@ -6672,6 +6672,7 @@
 80.116.2.227,Telnet-Scanning
 89.248.163.219,SSH-Scanning
 223.9.148.175,Telnet-Scanning
+66.228.32.145,HTTPS-8443-Probing
 115.215.211.167,Telnet-Scanning
 195.133.20.248,RDP-Hijacking
 4.228.209.151,Telnet-Scanning
