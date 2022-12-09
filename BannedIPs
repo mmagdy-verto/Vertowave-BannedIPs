@@ -3213,6 +3213,7 @@
 223.151.250.241,Telnet-Scanning
 180.137.159.59,RDP-Hijacking
 60.16.19.45,SQL-Probing
+49.75.41.112,Telnet-Scanning
 45.56.97.122,SMTP-Probing
 172.104.216.82,SMTP-Probing
 120.86.237.19,HTTP-Probing
