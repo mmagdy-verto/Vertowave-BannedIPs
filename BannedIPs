@@ -543,6 +543,7 @@
 139.144.239.196,SMTP-Probing
 121.151.95.78,Telnet-Scanning
 14.46.118.164,Telnet-Scanning
+41.93.71.70,RDP-Hijacking
 2.55.108.214,Telnet-Scanning
 114.228.152.91,Telnet-Scanning
 134.209.173.98,HTTP-Probing
