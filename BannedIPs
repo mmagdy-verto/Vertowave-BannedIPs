@@ -1883,6 +1883,7 @@
 37.77.48.66,Telnet-Scanning
 220.123.144.66,SSH-Scanning
 192.241.212.93,FTP-Port-20-Probing
+87.236.176.50,SMTP-Probing
 87.236.176.51,SMTP-Probing
 172.104.218.229,SMTP-Probing
 23.239.12.207,SMTP-Probing
