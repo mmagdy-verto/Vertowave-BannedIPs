@@ -2026,6 +2026,7 @@
 121.105.215.185,SSH-Scanning
 27.72.70.199,Telnet-Scanning
 180.116.116.169,Telnet-Scanning
+121.236.119.148,Telnet-Scanning
 27.188.74.173,Telnet-Scanning
 220.64.91.185,RDP-Hijacking
 194.165.16.37,SMTP-Probing
