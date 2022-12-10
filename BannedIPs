@@ -2133,6 +2133,7 @@
 205.210.31.151,HTTPS-8443-Probing
 205.210.31.141,Telnet-Scanning
 205.210.31.171,SSH-Scanning
+27.185.25.41,Telnet-Scanning
 205.210.31.131,FTP-Probing
 113.221.27.138,Telnet-Scanning
 45.79.133.167,HTTPS-Probing
