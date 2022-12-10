@@ -500,6 +500,7 @@
 121.148.149.124,Telnet-Scanning
 205.210.31.42,HTTPS-Probing
 159.203.15.85,HTTP-Probing
+205.210.31.48,SSH-Scanning
 123.172.249.25,Telnet-Scanning
 125.227.162.238,Telnet-Scanning
 183.230.61.196,Telnet-Scanning
