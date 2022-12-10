@@ -4069,6 +4069,7 @@
 94.102.61.20,SSH-Scanning
 14.50.131.36,SSH-Scanning
 189.146.123.34,Telnet-Scanning
+149.3.105.30,Telnet-Scanning
 150.223.15.141,SMTP-Probing
 45.79.187.40,SMTP-Probing
 49.79.84.6,Telnet-Scanning
