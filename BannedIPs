@@ -4309,6 +4309,7 @@
 113.116.49.217,Telnet-Scanning
 113.26.214.151,Telnet-Scanning
 60.250.1.100,Telnet-Scanning
+95.142.120.25,RDP-Hijacking
 39.120.132.14,SSH-Scanning
 175.107.1.7,HTTP-Probing
 69.164.213.115,HTTPS-Probing
