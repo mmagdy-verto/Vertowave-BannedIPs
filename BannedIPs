@@ -3793,6 +3793,7 @@
 36.91.222.100,RDP-Hijacking
 220.123.99.92,SSH-Scanning
 192.241.208.7,HTTPS-8443-Probing
+182.127.62.251,Telnet-Scanning
 50.116.55.53,SMTP-Probing
 39.174.84.242,Telnet-Scanning
 185.126.116.236,Telnet-Scanning
