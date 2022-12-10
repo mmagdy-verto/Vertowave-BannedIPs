@@ -2787,6 +2787,7 @@
 205.210.31.148,HTTP-Probing
 205.210.31.178,FTP-Probing
 205.210.31.168,RDP-Hijacking
+125.123.209.132,Telnet-Scanning
 121.187.124.168,Telnet-Scanning
 118.216.126.144,Telnet-Scanning
 110.182.173.32,Telnet-Scanning
