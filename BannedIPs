@@ -5042,6 +5042,7 @@
 43.230.156.227,HTTP-Probing
 182.245.245.108,Telnet-Scanning
 23.92.22.112,HTTPS-Probing
+119.41.68.52,Telnet-Scanning
 114.35.170.197,Telnet-Scanning
 61.177.172.87,SSH-Scanning
 80.66.76.145,RDP-Hijacking
