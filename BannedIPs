@@ -3612,6 +3612,7 @@
 106.13.29.110,SSH-Scanning
 152.89.198.133,RDP-Hijacking
 179.0.69.70,Telnet-Scanning
+192.241.197.215,FTP-Port-20-Probing
 178.32.197.94,SQL-Probing
 59.28.97.87,Telnet-Scanning
 218.93.68.172,Telnet-Scanning
