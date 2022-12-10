@@ -2303,6 +2303,7 @@
 211.48.189.147,Telnet-Scanning
 123.172.50.245,Telnet-Scanning
 192.241.193.129,SSH-Scanning
+172.104.212.228,SMTP-Probing
 222.93.78.209,Telnet-Scanning
 152.89.211.92,Telnet-Scanning
 112.95.78.26,SQL-Probing
