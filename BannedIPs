@@ -1981,6 +1981,7 @@
 190.138.199.148,Telnet-Scanning
 37.77.48.66,Telnet-Scanning
 220.123.144.66,SSH-Scanning
+172.104.6.227,HTTPS-Probing
 192.241.212.93,FTP-Port-20-Probing
 87.236.176.50,SMTP-Probing
 87.236.176.51,SMTP-Probing
