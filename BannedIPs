@@ -1959,6 +1959,7 @@
 1.70.142.251,Telnet-Scanning
 220.122.111.37,Telnet-Scanning
 201.140.130.14,HTTP-Probing
+125.212.235.195,FTP-Port-20-Probing
 59.98.194.222,Telnet-Scanning
 205.210.31.184,RDP-Hijacking
 223.156.85.159,Telnet-Scanning
