@@ -4522,6 +4522,7 @@
 113.26.159.130,Telnet-Scanning
 192.241.201.112,SSH-Scanning
 167.99.84.169,FTP-Probing
+186.194.249.52,Telnet-Scanning
 198.58.99.216,HTTPS-Probing
 43.128.225.197,HTTPS-Probing
 200.85.194.34,HTTP-Probing
