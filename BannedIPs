@@ -4022,6 +4022,7 @@
 52.146.1.95,FTP-Probing
 192.241.212.215,Telnet-Scanning
 119.202.32.232,HTTP-Probing
+196.92.2.60,Telnet-Scanning
 64.62.197.7,SSH-Scanning
 114.32.151.234,Telnet-Scanning
 192.241.208.216,RDP-Hijacking
