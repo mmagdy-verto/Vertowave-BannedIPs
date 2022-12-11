@@ -6379,6 +6379,7 @@
 45.83.66.23,SMTP-Probing
 223.13.59.72,Telnet-Scanning
 89.218.102.126,Telnet-Scanning
+222.168.30.19,SSH-Scanning
 118.250.106.130,Telnet-Scanning
 36.49.36.146,Telnet-Scanning
 76.205.205.200,Telnet-Scanning
