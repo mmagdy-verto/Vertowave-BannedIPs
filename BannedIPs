@@ -5810,6 +5810,7 @@
 198.199.95.12,FTP-Probing
 121.157.167.120,Telnet-Scanning
 198.199.95.19,HTTPS-Probing
+223.12.196.250,Telnet-Scanning
 102.140.197.6,Telnet-Scanning
 192.241.206.229,HTTP-Probing
 139.196.50.37,RDP-Hijacking
