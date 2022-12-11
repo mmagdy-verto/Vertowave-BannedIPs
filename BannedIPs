@@ -1039,6 +1039,7 @@
 112.160.104.165,Telnet-Scanning
 141.94.110.90,SSH-Scanning
 122.117.58.233,Telnet-Scanning
+184.105.139.119,HTTP-Probing
 183.157.165.53,Telnet-Scanning
 36.152.38.25,SQL-Probing
 192.241.200.185,HTTPS-8443-Probing
