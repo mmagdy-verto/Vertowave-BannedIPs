@@ -6310,6 +6310,7 @@
 186.208.67.34,HTTP-Probing
 175.30.69.100,Telnet-Scanning
 1.253.249.66,Telnet-Scanning
+204.48.28.175,RDP-Hijacking
 153.194.52.57,Telnet-Scanning
 122.43.200.79,Telnet-Scanning
 220.132.58.193,Telnet-Scanning
