@@ -8561,6 +8561,7 @@
 60.244.196.106,Telnet-Scanning
 117.26.66.201,Telnet-Scanning
 194.38.23.170,HTTPS-8443-Probing
+45.190.158.60,Telnet-Scanning
 45.33.66.198,SMTP-Probing
 179.60.147.152,SSH-Scanning
 221.224.187.179,Telnet-Scanning
