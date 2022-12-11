@@ -435,6 +435,7 @@
 199.34.31.168,RDP-Hijacking
 150.117.84.28,Telnet-Scanning
 52.171.209.125,FTP-Probing
+180.106.156.50,Telnet-Scanning
 114.238.123.182,Telnet-Scanning
 123.9.124.22,Telnet-Scanning
 45.33.66.158,HTTPS-Probing
