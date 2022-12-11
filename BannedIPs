@@ -2105,6 +2105,7 @@
 194.165.16.37,SMTP-Probing
 4.1.229.86,HTTP-Probing
 185.3.94.68,Telnet-Scanning
+125.44.233.125,Telnet-Scanning
 20.98.108.212,SSH-Scanning
 103.75.40.39,Telnet-Scanning
 5.181.80.161,Telnet-Scanning
