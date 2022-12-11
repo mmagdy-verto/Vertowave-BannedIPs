@@ -1693,6 +1693,7 @@
 93.203.190.106,HTTP-Probing
 211.248.56.82,Telnet-Scanning
 78.85.150.50,Telnet-Scanning
+95.142.120.66,RDP-Hijacking
 220.132.244.169,Telnet-Scanning
 34.207.160.169,Telnet-Scanning
 113.26.177.82,Telnet-Scanning
