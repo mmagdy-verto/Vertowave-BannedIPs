@@ -6996,6 +6996,7 @@
 103.109.152.90,RDP-Hijacking
 23.225.180.198,Telnet-Scanning
 118.36.69.197,Telnet-Scanning
+192.241.200.213,SMTP-Probing
 35.170.248.105,Telnet-Scanning
 123.171.34.33,Telnet-Scanning
 4.193.79.224,RDP-Hijacking
