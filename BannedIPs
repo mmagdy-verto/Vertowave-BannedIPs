@@ -1783,6 +1783,7 @@
 20.63.72.228,SSH-Scanning
 220.132.69.186,Telnet-Scanning
 220.132.69.196,Telnet-Scanning
+117.139.61.89,Telnet-Scanning
 123.173.71.31,Telnet-Scanning
 85.31.46.144,SMTP-Probing
 220.163.218.142,Telnet-Scanning
