@@ -3741,6 +3741,7 @@
 106.75.47.245,SSH-Scanning
 198.235.24.23,SSH-Scanning
 198.235.24.22,FTP-Port-20-Probing
+23.24.73.177,Telnet-Scanning
 198.235.24.21,FTP-Port-20-Probing
 198.235.24.20,HTTPS-Probing
 198.235.24.27,HTTPS-Probing
