@@ -8966,6 +8966,7 @@
 20.234.18.92,SSH-Scanning
 128.14.141.42,HTTPS-8443-Probing
 20.55.94.25,SSH-Scanning
+14.140.232.173,RDP-Hijacking
 110.51.1.115,Telnet-Scanning
 218.161.3.216,Telnet-Scanning
 64.62.197.35,HTTPS-Probing
