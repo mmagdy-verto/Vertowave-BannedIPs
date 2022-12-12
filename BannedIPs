@@ -135,10 +135,12 @@
 211.197.143.15,Telnet-Scanning
 106.59.7.37,Telnet-Scanning
 121.182.213.166,HTTP-Probing
+20.119.164.88,RDP-Hijacking
 117.243.206.166,Telnet-Scanning
 18.211.190.157,HTTPS-Probing
 205.210.31.6,RDP-Hijacking
 183.157.174.74,Telnet-Scanning
+223.8.10.158,Telnet-Scanning
 18.246.13.131,SSH-Scanning
 209.141.36.233,Telnet-Scanning
 45.56.96.139,HTTPS-Probing
