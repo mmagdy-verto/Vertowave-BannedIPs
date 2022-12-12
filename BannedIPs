@@ -1763,6 +1763,7 @@
 153.238.138.136,Telnet-Scanning
 24.168.67.146,Telnet-Scanning
 54.211.147.255,SSH-Scanning
+186.225.189.244,HTTP-Probing
 103.53.44.206,Telnet-Scanning
 122.21.104.67,Telnet-Scanning
 119.129.172.127,Telnet-Scanning
