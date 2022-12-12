@@ -7280,6 +7280,7 @@
 62.215.117.10,Telnet-Scanning
 114.42.68.165,Telnet-Scanning
 117.160.252.49,Telnet-Scanning
+106.75.145.95,SMTP-Probing
 45.143.200.118,HTTP-Probing
 45.142.112.237,HTTPS-Probing
 89.248.165.213,SQL-Probing
