@@ -8460,6 +8460,7 @@
 159.65.34.58,HTTP-Probing
 192.241.202.142,HTTPS-Probing
 45.33.93.40,HTTPS-8443-Probing
+206.189.3.165,SQL-Probing
 110.178.42.0,Telnet-Scanning
 128.201.193.202,Telnet-Scanning
 218.161.14.158,Telnet-Scanning
