@@ -3201,6 +3201,7 @@
 80.117.10.195,Telnet-Scanning
 205.210.31.25,HTTP-Probing
 205.210.31.24,FTP-Probing
+205.210.31.27,SQL-Probing
 205.210.31.26,Telnet-Scanning
 192.241.211.138,HTTPS-Probing
 205.210.31.21,HTTP-Probing
