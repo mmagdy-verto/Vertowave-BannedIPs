@@ -4233,6 +4233,7 @@
 64.62.197.120,SSH-Scanning
 45.56.104.54,HTTPS-Probing
 172.104.28.185,HTTPS-Probing
+83.16.24.114,Telnet-Scanning
 24.199.83.252,HTTP-Probing
 1.180.175.102,Telnet-Scanning
 211.248.143.138,Telnet-Scanning
