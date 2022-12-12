@@ -6612,6 +6612,7 @@
 104.244.76.7,Telnet-Scanning
 1.58.10.224,SQL-Probing
 18.212.66.164,Telnet-Scanning
+198.199.94.6,SMTP-Probing
 51.145.229.32,Telnet-Scanning
 45.83.64.103,RDP-Hijacking
 223.15.10.127,Telnet-Scanning
