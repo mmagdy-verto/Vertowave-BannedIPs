@@ -4072,6 +4072,7 @@
 117.81.79.78,Telnet-Scanning
 184.105.139.67,RDP-Hijacking
 60.251.42.167,Telnet-Scanning
+184.105.139.77,SMTP-Probing
 216.218.206.115,SMTP-Probing
 3.92.179.217,Telnet-Scanning
 121.175.193.239,HTTP-Probing
