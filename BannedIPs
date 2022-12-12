@@ -7116,6 +7116,7 @@
 196.44.172.17,Telnet-Scanning
 164.92.135.200,HTTPS-Probing
 110.182.242.39,Telnet-Scanning
+118.193.57.196,SMTP-Probing
 220.119.208.48,Telnet-Scanning
 190.121.140.238,RDP-Hijacking
 210.217.145.120,Telnet-Scanning
