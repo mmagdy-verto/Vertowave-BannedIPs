@@ -1336,6 +1336,7 @@
 50.116.56.181,SMTP-Probing
 45.82.167.220,Telnet-Scanning
 162.142.125.10,Telnet-Scanning
+178.140.79.51,Telnet-Scanning
 114.34.66.190,Telnet-Scanning
 154.6.26.29,RDP-Hijacking
 153.196.152.44,SSH-Scanning
