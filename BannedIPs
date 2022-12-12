@@ -1940,6 +1940,7 @@
 85.208.136.108,Telnet-Scanning
 122.116.248.48,Telnet-Scanning
 121.236.210.203,Telnet-Scanning
+220.70.188.102,Telnet-Scanning
 45.33.81.90,HTTPS-8443-Probing
 192.241.200.226,HTTPS-8443-Probing
 219.85.59.166,Telnet-Scanning
@@ -4235,6 +4236,7 @@
 167.172.52.146,HTTPS-8443-Probing
 41.216.183.76,Telnet-Scanning
 221.225.61.23,Telnet-Scanning
+220.84.187.169,Telnet-Scanning
 14.56.204.159,Telnet-Scanning
 1.172.21.63,Telnet-Scanning
 114.228.73.132,Telnet-Scanning
