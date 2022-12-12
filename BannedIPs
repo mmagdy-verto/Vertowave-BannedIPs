@@ -4066,6 +4066,7 @@
 64.62.197.171,HTTPS-Probing
 180.119.9.25,Telnet-Scanning
 64.62.197.177,SSH-Scanning
+1.70.137.248,Telnet-Scanning
 64.62.197.174,HTTPS-Probing
 104.131.176.50,SQL-Probing
 198.199.95.141,SQL-Probing
