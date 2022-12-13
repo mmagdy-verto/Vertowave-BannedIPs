@@ -1693,6 +1693,7 @@
 185.132.53.205,Telnet-Scanning
 189.133.14.1,Telnet-Scanning
 216.218.206.104,SMTP-Probing
+220.70.222.42,Telnet-Scanning
 128.140.227.82,RDP-Hijacking
 118.123.105.89,SSH-Scanning
 116.125.45.184,Telnet-Scanning
