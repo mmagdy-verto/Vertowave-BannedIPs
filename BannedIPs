@@ -9057,6 +9057,7 @@
 164.92.227.34,HTTP-Probing
 103.11.81.146,Telnet-Scanning
 170.64.152.59,HTTPS-Probing
+125.229.40.219,Telnet-Scanning
 61.177.173.54,SSH-Scanning
 61.177.173.55,SSH-Scanning
 61.177.173.56,SSH-Scanning
