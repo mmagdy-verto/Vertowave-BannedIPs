@@ -4323,6 +4323,7 @@
 52.146.1.95,FTP-Probing
 192.241.212.215,Telnet-Scanning
 119.202.32.232,HTTP-Probing
+3.141.39.216,RDP-Hijacking
 196.92.2.60,Telnet-Scanning
 64.62.197.7,SSH-Scanning
 220.132.32.196,Telnet-Scanning
