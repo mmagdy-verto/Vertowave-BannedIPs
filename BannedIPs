@@ -174,6 +174,7 @@
 205.210.31.10,RDP-Hijacking
 205.210.31.13,HTTPS-Probing
 205.210.31.12,SSH-Scanning
+211.216.212.233,Telnet-Scanning
 205.185.127.249,Telnet-Scanning
 69.164.212.149,HTTPS-Probing
 216.218.206.68,Telnet-Scanning
