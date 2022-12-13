@@ -8320,6 +8320,7 @@
 45.83.65.209,HTTP-Probing
 143.198.139.169,RDP-Hijacking
 60.191.75.74,SQL-Probing
+119.204.74.127,Telnet-Scanning
 218.236.127.193,Telnet-Scanning
 113.194.43.126,Telnet-Scanning
 119.187.109.135,Telnet-Scanning
