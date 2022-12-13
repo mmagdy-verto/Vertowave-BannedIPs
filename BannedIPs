@@ -5703,6 +5703,7 @@
 113.118.133.234,Telnet-Scanning
 20.55.88.202,RDP-Hijacking
 3.92.134.136,HTTPS-Probing
+192.241.202.204,FTP-Port-20-Probing
 220.134.174.73,Telnet-Scanning
 20.92.162.191,HTTPS-Probing
 138.122.11.17,Telnet-Scanning
