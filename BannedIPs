@@ -8459,6 +8459,7 @@
 223.10.5.122,Telnet-Scanning
 43.138.23.179,RDP-Hijacking
 69.164.212.97,HTTPS-Probing
+120.83.80.238,Telnet-Scanning
 125.228.46.62,Telnet-Scanning
 140.210.208.20,Telnet-Scanning
 146.190.19.205,SSH-Scanning
