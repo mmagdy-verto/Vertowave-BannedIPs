@@ -4663,6 +4663,7 @@
 45.79.187.40,SMTP-Probing
 49.79.84.6,Telnet-Scanning
 45.79.155.64,HTTPS-8443-Probing
+95.73.48.9,Telnet-Scanning
 51.159.152.255,HTTP-Probing
 120.237.210.179,Telnet-Scanning
 192.241.204.201,Telnet-Scanning
