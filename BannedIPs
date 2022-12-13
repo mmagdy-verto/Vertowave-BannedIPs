@@ -2710,6 +2710,7 @@
 192.241.195.6,HTTPS-8443-Probing
 114.33.103.92,Telnet-Scanning
 118.34.123.43,SSH-Scanning
+117.148.149.185,Telnet-Scanning
 191.240.121.157,Telnet-Scanning
 218.93.132.146,Telnet-Scanning
 45.170.221.176,Telnet-Scanning
