@@ -3667,6 +3667,7 @@
 205.210.31.52,SQL-Probing
 114.34.193.99,Telnet-Scanning
 103.45.234.97,RDP-Hijacking
+143.198.204.188,HTTP-Probing
 201.220.155.206,Telnet-Scanning
 169.197.113.178,HTTP-Probing
 205.210.31.59,FTP-Port-20-Probing
