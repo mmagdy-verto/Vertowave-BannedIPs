@@ -7116,6 +7116,7 @@
 172.104.219.59,SMTP-Probing
 20.234.67.31,HTTP-Probing
 95.106.89.163,Telnet-Scanning
+45.137.201.3,SSH-Scanning
 125.77.106.59,Telnet-Scanning
 205.215.13.121,Telnet-Scanning
 164.92.231.143,SMTP-Probing
