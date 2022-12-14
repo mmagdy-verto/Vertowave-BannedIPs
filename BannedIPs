@@ -4830,6 +4830,7 @@
 218.62.214.180,Telnet-Scanning
 168.196.102.49,Telnet-Scanning
 197.245.245.181,Telnet-Scanning
+221.144.75.160,Telnet-Scanning
 162.142.125.210,SQL-Probing
 1.70.131.194,Telnet-Scanning
 125.229.56.21,Telnet-Scanning
@@ -5935,6 +5936,7 @@
 222.185.185.246,Telnet-Scanning
 109.248.6.9,HTTPS-Probing
 198.235.24.180,SQL-Probing
+182.218.161.120,Telnet-Scanning
 185.213.175.12,SMTP-Probing
 198.235.24.130,SSH-Scanning
 24.78.183.31,SSH-Scanning
