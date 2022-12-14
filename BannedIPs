@@ -2663,6 +2663,7 @@
 192.241.212.247,HTTP-Probing
 49.72.137.81,Telnet-Scanning
 192.241.212.147,RDP-Hijacking
+125.133.10.39,Telnet-Scanning
 117.80.18.212,Telnet-Scanning
 192.241.192.25,HTTP-Probing
 117.63.218.139,Telnet-Scanning
