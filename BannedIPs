@@ -3703,6 +3703,7 @@
 167.94.138.63,HTTP-Probing
 167.94.138.60,HTTPS-Probing
 167.94.138.61,FTP-Probing
+178.139.45.209,Telnet-Scanning
 37.179.145.13,Telnet-Scanning
 110.180.139.190,Telnet-Scanning
 175.206.111.81,Telnet-Scanning
