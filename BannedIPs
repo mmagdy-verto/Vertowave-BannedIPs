@@ -5872,6 +5872,7 @@
 119.57.136.5,Telnet-Scanning
 103.61.75.141,Telnet-Scanning
 185.180.143.8,HTTP-Probing
+114.84.16.34,Telnet-Scanning
 14.115.148.172,Telnet-Scanning
 185.180.143.6,HTTPS-8443-Probing
 185.180.143.7,HTTP-Probing
