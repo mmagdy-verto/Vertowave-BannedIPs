@@ -2560,6 +2560,7 @@
 92.255.85.11,RDP-Hijacking
 192.241.201.16,SSH-Scanning
 37.220.31.103,SMTP-Probing
+51.83.20.75,HTTP-Probing
 103.41.26.73,HTTP-Probing
 113.24.155.26,Telnet-Scanning
 45.79.188.90,HTTPS-Probing
