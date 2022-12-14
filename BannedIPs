@@ -3193,6 +3193,7 @@
 110.182.98.178,Telnet-Scanning
 27.219.94.125,Telnet-Scanning
 59.95.152.40,HTTP-Probing
+172.104.27.244,SMTP-Probing
 45.33.73.242,HTTPS-Probing
 222.128.103.228,Telnet-Scanning
 110.177.96.172,Telnet-Scanning
@@ -8914,6 +8915,7 @@
 122.140.10.113,Telnet-Scanning
 103.216.177.67,Telnet-Scanning
 111.175.20.185,Telnet-Scanning
+177.21.130.216,Telnet-Scanning
 114.218.26.100,Telnet-Scanning
 139.162.49.17,Telnet-Scanning
 172.104.218.253,HTTPS-8443-Probing
