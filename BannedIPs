@@ -6284,6 +6284,7 @@
 72.226.109.97,Telnet-Scanning
 20.196.194.211,Telnet-Scanning
 24.204.153.228,Telnet-Scanning
+175.192.96.215,SSH-Scanning
 178.166.252.3,Telnet-Scanning
 220.116.44.172,Telnet-Scanning
 192.241.209.22,HTTP-Probing
