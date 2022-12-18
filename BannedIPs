@@ -4525,6 +4525,7 @@
 183.107.195.8,SSH-Scanning
 114.218.29.60,Telnet-Scanning
 125.229.75.190,Telnet-Scanning
+59.24.197.246,Telnet-Scanning
 147.75.34.39,RDP-Hijacking
 107.150.117.83,FTP-Probing
 172.104.20.139,SMTP-Probing
