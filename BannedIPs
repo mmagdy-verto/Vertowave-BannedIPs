@@ -6428,6 +6428,7 @@
 94.102.51.9,HTTP-Probing
 120.157.75.213,Telnet-Scanning
 5.255.99.205,SSH-Scanning
+125.143.108.59,Telnet-Scanning
 68.165.42.222,Telnet-Scanning
 192.241.204.63,HTTP-Probing
 138.122.11.43,Telnet-Scanning
