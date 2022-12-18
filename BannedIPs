@@ -9642,6 +9642,7 @@
 45.191.207.204,Telnet-Scanning
 20.118.169.8,Telnet-Scanning
 218.93.91.129,Telnet-Scanning
+139.144.233.206,SMTP-Probing
 51.91.131.158,SSH-Scanning
 114.219.95.192,Telnet-Scanning
 176.111.173.157,RDP-Hijacking
