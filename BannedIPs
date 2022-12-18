@@ -2563,6 +2563,7 @@
 162.221.192.90,HTTPS-Probing
 101.0.50.52,HTTP-Probing
 61.220.109.106,Telnet-Scanning
+119.195.81.145,Telnet-Scanning
 160.19.44.34,SSH-Scanning
 211.57.67.3,Telnet-Scanning
 185.170.210.6,HTTP-Probing
