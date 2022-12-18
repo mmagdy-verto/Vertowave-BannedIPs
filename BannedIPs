@@ -3054,6 +3054,7 @@
 198.235.24.132,HTTPS-Probing
 45.79.151.150,SMTP-Probing
 54.87.237.68,Telnet-Scanning
+59.26.160.42,Telnet-Scanning
 198.235.24.162,FTP-Probing
 198.235.24.152,SSH-Scanning
 175.118.247.220,Telnet-Scanning
