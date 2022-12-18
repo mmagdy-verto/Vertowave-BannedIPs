@@ -8681,6 +8681,7 @@
 45.33.71.207,SMTP-Probing
 160.238.170.161,Telnet-Scanning
 198.199.94.173,HTTP-Probing
+198.199.94.123,FTP-Port-20-Probing
 205.210.31.155,RDP-Hijacking
 170.83.168.141,Telnet-Scanning
 205.210.31.145,SSH-Scanning
