@@ -5684,6 +5684,7 @@
 222.75.204.1,RDP-Hijacking
 121.172.88.59,Telnet-Scanning
 205.210.31.137,HTTP-Probing
+119.205.44.249,Telnet-Scanning
 134.209.80.172,HTTPS-Probing
 45.56.108.221,HTTPS-Probing
 121.226.139.139,Telnet-Scanning
