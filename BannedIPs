@@ -3386,6 +3386,7 @@
 220.135.177.191,SSH-Scanning
 70.51.168.52,Telnet-Scanning
 37.190.183.179,Telnet-Scanning
+122.230.254.0,Telnet-Scanning
 117.80.203.177,Telnet-Scanning
 192.241.198.117,HTTPS-Probing
 115.54.163.170,Telnet-Scanning
