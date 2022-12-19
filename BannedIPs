@@ -3607,6 +3607,7 @@
 107.189.29.121,Telnet-Scanning
 123.172.79.244,Telnet-Scanning
 164.52.6.156,SSH-Scanning
+116.47.4.157,Telnet-Scanning
 171.213.104.26,SQL-Probing
 192.241.209.77,SQL-Probing
 194.55.186.75,Telnet-Scanning
