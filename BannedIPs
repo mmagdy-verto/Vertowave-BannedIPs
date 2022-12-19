@@ -6646,6 +6646,7 @@
 192.241.206.115,HTTP-Probing
 52.188.170.16,RDP-Hijacking
 183.236.121.5,SQL-Probing
+112.113.213.112,Telnet-Scanning
 183.236.121.4,SQL-Probing
 112.184.67.248,Telnet-Scanning
 1.69.63.126,Telnet-Scanning
