@@ -400,6 +400,7 @@
 183.107.45.127,SSH-Scanning
 46.71.243.20,Telnet-Scanning
 66.238.60.122,HTTP-Probing
+42.242.164.146,Telnet-Scanning
 121.159.227.252,Telnet-Scanning
 219.85.184.32,Telnet-Scanning
 23.239.13.6,HTTPS-Probing
