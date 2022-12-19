@@ -2873,6 +2873,7 @@
 121.231.111.114,Telnet-Scanning
 44.203.100.41,Telnet-Scanning
 113.25.165.174,Telnet-Scanning
+13.85.76.75,FTP-Probing
 111.76.17.181,Telnet-Scanning
 192.241.195.101,HTTPS-Probing
 114.35.159.31,Telnet-Scanning
@@ -9498,6 +9499,7 @@
 50.116.50.245,SMTP-Probing
 192.241.206.65,HTTPS-Probing
 192.241.206.55,HTTPS-Probing
+222.241.2.143,Telnet-Scanning
 123.195.114.31,Telnet-Scanning
 14.127.73.1,SQL-Probing
 218.155.224.81,Telnet-Scanning
