@@ -5473,6 +5473,7 @@
 122.117.253.186,Telnet-Scanning
 106.75.24.177,RDP-Hijacking
 211.22.46.198,Telnet-Scanning
+64.62.197.77,RDP-Hijacking
 113.26.91.147,Telnet-Scanning
 118.243.46.157,Telnet-Scanning
 192.241.201.159,FTP-Probing
@@ -6107,6 +6108,7 @@
 3.101.39.244,Telnet-Scanning
 43.140.210.172,Telnet-Scanning
 115.200.52.78,Telnet-Scanning
+61.85.60.190,Telnet-Scanning
 87.251.75.64,RDP-Hijacking
 45.14.226.7,Telnet-Scanning
 195.133.20.193,RDP-Hijacking
