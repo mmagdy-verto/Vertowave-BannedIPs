@@ -8744,6 +8744,7 @@
 175.207.189.169,Telnet-Scanning
 220.84.74.160,Telnet-Scanning
 20.112.66.208,SSH-Scanning
+40.76.92.55,RDP-Hijacking
 164.92.212.14,HTTPS-Probing
 185.174.137.107,HTTP-Probing
 112.104.137.82,Telnet-Scanning
