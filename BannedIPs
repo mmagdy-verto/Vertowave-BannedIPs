@@ -6110,6 +6110,7 @@
 129.226.89.203,SSH-Scanning
 121.181.124.45,Telnet-Scanning
 185.250.38.254,HTTP-Probing
+121.140.131.232,Telnet-Scanning
 106.59.18.229,Telnet-Scanning
 122.117.253.66,Telnet-Scanning
 192.241.206.94,FTP-Probing
