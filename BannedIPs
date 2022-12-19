@@ -7250,6 +7250,7 @@
 78.25.126.143,Telnet-Scanning
 222.185.66.196,Telnet-Scanning
 110.183.27.214,Telnet-Scanning
+31.168.242.235,Telnet-Scanning
 39.116.174.229,Telnet-Scanning
 114.34.166.161,Telnet-Scanning
 67.250.98.123,Telnet-Scanning
@@ -7817,6 +7818,7 @@
 192.241.198.51,FTP-Probing
 220.132.210.118,Telnet-Scanning
 82.58.135.191,Telnet-Scanning
+192.241.198.31,HTTP-Probing
 112.199.150.147,Telnet-Scanning
 158.140.240.181,Telnet-Scanning
 218.93.135.109,Telnet-Scanning
