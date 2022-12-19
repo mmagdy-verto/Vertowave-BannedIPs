@@ -9284,6 +9284,7 @@
 20.3.130.132,FTP-Probing
 220.84.234.193,SSH-Scanning
 93.65.57.43,Telnet-Scanning
+20.66.53.131,RDP-Hijacking
 110.183.49.131,Telnet-Scanning
 223.15.16.33,Telnet-Scanning
 114.32.125.127,Telnet-Scanning
