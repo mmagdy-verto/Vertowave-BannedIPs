@@ -8228,6 +8228,7 @@
 116.7.142.142,Telnet-Scanning
 117.63.29.167,Telnet-Scanning
 185.172.114.121,Telnet-Scanning
+188.121.119.225,RDP-Hijacking
 185.32.46.54,SQL-Probing
 45.79.149.34,HTTPS-Probing
 61.160.71.188,SQL-Probing
