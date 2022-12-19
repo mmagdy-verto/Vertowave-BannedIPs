@@ -9355,6 +9355,7 @@
 191.100.24.207,Telnet-Scanning
 205.210.31.185,FTP-Probing
 221.235.138.171,Telnet-Scanning
+49.64.145.179,Telnet-Scanning
 122.116.135.97,Telnet-Scanning
 87.236.176.40,HTTPS-8443-Probing
 87.236.176.41,HTTP-Probing
