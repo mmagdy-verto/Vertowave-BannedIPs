@@ -6240,6 +6240,7 @@
 183.146.1.187,Telnet-Scanning
 220.89.150.23,Telnet-Scanning
 114.84.16.34,Telnet-Scanning
+81.141.73.157,Telnet-Scanning
 43.142.16.240,HTTP-Probing
 211.51.121.140,Telnet-Scanning
 115.197.41.152,Telnet-Scanning
@@ -6443,6 +6444,7 @@
 113.26.214.151,Telnet-Scanning
 118.79.73.241,Telnet-Scanning
 114.46.217.213,Telnet-Scanning
+124.221.89.105,RDP-Hijacking
 102.67.24.24,Telnet-Scanning
 20.37.6.91,Telnet-Scanning
 20.7.10.60,RDP-Hijacking
