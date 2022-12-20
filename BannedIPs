@@ -10503,6 +10503,7 @@
 220.135.142.40,Telnet-Scanning
 52.26.161.173,Telnet-Scanning
 59.24.245.131,Telnet-Scanning
+172.104.7.145,SMTP-Probing
 60.16.19.45,SQL-Probing
 123.172.71.230,Telnet-Scanning
 175.44.35.104,Telnet-Scanning
