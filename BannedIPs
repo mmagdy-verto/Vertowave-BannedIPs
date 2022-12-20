@@ -9152,6 +9152,7 @@
 20.55.92.233,RDP-Hijacking
 3.236.73.166,SSH-Scanning
 23.92.22.124,HTTPS-Probing
+106.110.212.243,Telnet-Scanning
 110.183.28.250,Telnet-Scanning
 186.251.224.147,Telnet-Scanning
 172.104.216.185,HTTPS-Probing
