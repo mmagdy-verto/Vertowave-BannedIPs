@@ -8408,6 +8408,7 @@
 121.164.191.103,Telnet-Scanning
 175.172.210.12,SQL-Probing
 91.178.103.128,SSH-Scanning
+154.23.190.235,RDP-Hijacking
 220.135.184.67,Telnet-Scanning
 142.132.128.22,RDP-Hijacking
 164.92.143.142,Telnet-Scanning
