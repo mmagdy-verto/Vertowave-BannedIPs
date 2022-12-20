@@ -9749,6 +9749,7 @@
 52.171.192.198,FTP-Probing
 180.115.235.241,Telnet-Scanning
 221.164.176.46,Telnet-Scanning
+220.85.80.133,Telnet-Scanning
 20.168.80.142,HTTP-Probing
 35.88.253.99,Telnet-Scanning
 110.178.47.177,Telnet-Scanning
