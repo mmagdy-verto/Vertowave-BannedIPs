@@ -6946,6 +6946,7 @@
 111.231.193.112,SSH-Scanning
 203.163.239.98,Telnet-Scanning
 198.235.24.59,SSH-Scanning
+198.235.24.58,SSH-Scanning
 40.76.92.55,RDP-Hijacking
 198.235.24.53,SQL-Probing
 178.75.59.222,Telnet-Scanning
