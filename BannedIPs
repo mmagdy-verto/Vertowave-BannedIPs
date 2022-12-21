@@ -3830,6 +3830,7 @@
 220.97.228.135,Telnet-Scanning
 61.52.159.71,Telnet-Scanning
 192.241.196.168,HTTPS-8443-Probing
+61.5.136.68,Telnet-Scanning
 125.133.63.145,Telnet-Scanning
 60.161.25.142,Telnet-Scanning
 1.70.164.72,Telnet-Scanning
@@ -6395,6 +6396,7 @@
 182.121.10.127,Telnet-Scanning
 63.250.54.240,HTTPS-Probing
 219.84.213.16,Telnet-Scanning
+207.154.195.171,FTP-Probing
 212.11.180.194,RDP-Hijacking
 114.35.166.127,Telnet-Scanning
 119.1.107.163,RDP-Hijacking
