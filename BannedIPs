@@ -9644,6 +9644,7 @@
 192.241.201.179,HTTPS-Probing
 220.122.106.54,Telnet-Scanning
 113.25.202.27,Telnet-Scanning
+18.219.89.166,RDP-Hijacking
 14.45.19.87,Telnet-Scanning
 45.79.138.127,SMTP-Probing
 206.183.119.139,HTTP-Probing
