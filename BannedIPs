@@ -2723,6 +2723,7 @@
 139.144.233.244,SMTP-Probing
 156.247.10.17,SQL-Probing
 106.3.151.11,SSH-Scanning
+182.247.32.49,Telnet-Scanning
 172.104.8.134,HTTPS-8443-Probing
 110.183.22.116,Telnet-Scanning
 210.101.92.119,Telnet-Scanning
