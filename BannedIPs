@@ -3000,6 +3000,7 @@
 45.33.81.90,HTTPS-8443-Probing
 113.221.75.88,Telnet-Scanning
 5.188.206.194,RDP-Hijacking
+122.230.252.151,Telnet-Scanning
 192.241.201.188,FTP-Probing
 220.198.207.201,Telnet-Scanning
 124.65.241.66,SSH-Scanning
