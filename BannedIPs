@@ -9260,6 +9260,7 @@
 194.163.174.160,RDP-Hijacking
 223.13.59.239,Telnet-Scanning
 192.241.210.142,HTTPS-8443-Probing
+41.224.246.247,Telnet-Scanning
 112.94.97.40,HTTP-Probing
 138.122.11.17,Telnet-Scanning
 110.149.134.73,SSH-Scanning
