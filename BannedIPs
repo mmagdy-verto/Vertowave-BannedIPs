@@ -9100,6 +9100,7 @@
 97.107.128.211,SMTP-Probing
 222.120.3.217,Telnet-Scanning
 121.233.219.32,Telnet-Scanning
+118.45.250.160,Telnet-Scanning
 117.185.41.74,Telnet-Scanning
 109.205.213.35,FTP-Port-20-Probing
 39.104.136.5,HTTPS-Probing
