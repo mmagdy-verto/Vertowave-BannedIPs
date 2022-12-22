@@ -8060,6 +8060,7 @@
 172.104.7.239,HTTPS-8443-Probing
 64.62.197.120,SSH-Scanning
 221.229.63.155,Telnet-Scanning
+139.144.239.203,HTTPS-8443-Probing
 198.199.101.149,SQL-Probing
 114.226.38.166,Telnet-Scanning
 221.203.23.121,Telnet-Scanning
@@ -9423,6 +9424,7 @@
 220.76.45.103,Telnet-Scanning
 183.156.78.109,Telnet-Scanning
 1.70.11.129,Telnet-Scanning
+162.243.143.26,HTTPS-8443-Probing
 221.232.194.172,Telnet-Scanning
 47.88.101.3,HTTP-Probing
 114.226.88.58,Telnet-Scanning
