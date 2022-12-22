@@ -2600,6 +2600,7 @@
 222.246.109.72,Telnet-Scanning
 220.190.40.104,Telnet-Scanning
 59.98.233.24,Telnet-Scanning
+152.32.245.144,FTP-Probing
 162.55.242.23,RDP-Hijacking
 192.241.203.50,FTP-Port-20-Probing
 100.16.49.76,SSH-Scanning
