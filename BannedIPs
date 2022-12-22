@@ -5375,6 +5375,7 @@
 192.241.199.206,HTTPS-Probing
 78.154.57.35,HTTP-Probing
 123.15.51.34,SSH-Scanning
+202.137.218.80,Telnet-Scanning
 112.66.104.35,Telnet-Scanning
 114.207.196.38,Telnet-Scanning
 119.205.44.141,Telnet-Scanning
