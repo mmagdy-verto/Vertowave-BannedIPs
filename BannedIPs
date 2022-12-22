@@ -2580,6 +2580,7 @@
 125.229.145.110,Telnet-Scanning
 172.104.209.70,HTTPS-8443-Probing
 128.92.197.198,Telnet-Scanning
+60.217.69.70,SQL-Probing
 221.159.143.10,Telnet-Scanning
 211.57.116.177,Telnet-Scanning
 117.26.208.38,Telnet-Scanning
