@@ -1996,6 +1996,7 @@
 169.197.113.178,HTTP-Probing
 192.241.196.178,FTP-Port-20-Probing
 172.104.218.236,HTTPS-Probing
+114.32.36.172,Telnet-Scanning
 59.17.110.141,Telnet-Scanning
 200.114.225.87,Telnet-Scanning
 74.82.47.42,SMTP-Probing
