@@ -11550,6 +11550,7 @@
 72.43.120.226,Telnet-Scanning
 5.77.18.92,Telnet-Scanning
 201.209.232.175,HTTP-Probing
+71.92.253.115,SSH-Scanning
 106.75.24.102,SMTP-Probing
 110.182.211.207,Telnet-Scanning
 100.26.141.253,HTTPS-Probing
