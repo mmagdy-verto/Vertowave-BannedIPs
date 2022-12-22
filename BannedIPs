@@ -7732,6 +7732,7 @@
 198.199.94.56,HTTPS-Probing
 124.235.249.88,Telnet-Scanning
 198.199.94.50,HTTPS-8443-Probing
+106.111.50.221,Telnet-Scanning
 171.213.104.26,SQL-Probing
 79.19.104.113,Telnet-Scanning
 185.177.242.109,HTTP-Probing
