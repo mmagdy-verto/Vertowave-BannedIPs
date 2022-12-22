@@ -9305,6 +9305,7 @@
 96.126.104.205,HTTPS-Probing
 27.28.98.230,Telnet-Scanning
 27.38.211.211,Telnet-Scanning
+47.6.219.135,SSH-Scanning
 89.219.96.127,Telnet-Scanning
 192.241.196.136,HTTPS-8443-Probing
 211.24.62.185,Telnet-Scanning
