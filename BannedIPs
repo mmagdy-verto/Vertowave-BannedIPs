@@ -9133,6 +9133,7 @@
 80.82.70.228,HTTPS-Probing
 209.97.160.49,HTTPS-Probing
 121.182.215.109,Telnet-Scanning
+182.240.253.154,Telnet-Scanning
 113.61.204.65,Telnet-Scanning
 175.192.96.215,SSH-Scanning
 13.89.26.228,SSH-Scanning
