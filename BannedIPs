@@ -6493,6 +6493,7 @@
 87.117.25.116,Telnet-Scanning
 49.73.107.65,Telnet-Scanning
 220.88.227.239,Telnet-Scanning
+52.146.6.159,RDP-Hijacking
 23.224.85.36,SSH-Scanning
 192.241.192.238,SSH-Scanning
 192.241.193.182,SSH-Scanning
