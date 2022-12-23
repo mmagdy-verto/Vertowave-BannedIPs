@@ -9460,6 +9460,7 @@
 45.79.153.106,SMTP-Probing
 64.62.197.236,SSH-Scanning
 222.179.136.78,Telnet-Scanning
+116.212.142.106,Telnet-Scanning
 180.224.45.186,Telnet-Scanning
 170.187.163.52,SMTP-Probing
 172.105.5.228,HTTPS-Probing
