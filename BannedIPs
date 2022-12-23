@@ -6938,6 +6938,7 @@
 192.241.210.240,HTTPS-8443-Probing
 192.241.210.140,HTTPS-Probing
 1.69.105.34,Telnet-Scanning
+77.89.96.128,Telnet-Scanning
 45.33.67.29,SMTP-Probing
 175.112.211.129,Telnet-Scanning
 1.69.99.170,Telnet-Scanning
