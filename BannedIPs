@@ -8422,6 +8422,7 @@
 114.230.192.75,Telnet-Scanning
 61.230.28.42,Telnet-Scanning
 104.237.151.5,HTTPS-8443-Probing
+84.21.172.169,Telnet-Scanning
 195.133.20.247,RDP-Hijacking
 139.144.235.248,HTTPS-Probing
 218.157.85.185,Telnet-Scanning
