@@ -6217,6 +6217,7 @@
 167.248.133.61,SMTP-Probing
 192.155.88.231,HTTP-Probing
 128.1.131.197,SMTP-Probing
+116.248.136.20,Telnet-Scanning
 108.251.225.114,Telnet-Scanning
 20.220.165.95,Telnet-Scanning
 24.199.86.122,Telnet-Scanning
