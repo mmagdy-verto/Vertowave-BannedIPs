@@ -9625,6 +9625,7 @@
 159.65.112.202,HTTP-Probing
 192.144.113.26,Telnet-Scanning
 20.244.20.165,RDP-Hijacking
+24.24.231.2,Telnet-Scanning
 173.82.206.235,Telnet-Scanning
 192.241.211.130,SSH-Scanning
 76.169.186.67,Telnet-Scanning
