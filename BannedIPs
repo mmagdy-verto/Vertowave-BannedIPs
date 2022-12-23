@@ -11116,6 +11116,7 @@
 121.66.114.107,Telnet-Scanning
 20.164.41.245,SSH-Scanning
 192.241.209.4,FTP-Port-20-Probing
+65.185.1.83,Telnet-Scanning
 50.210.90.227,Telnet-Scanning
 192.241.212.151,SQL-Probing
 175.11.74.68,Telnet-Scanning
