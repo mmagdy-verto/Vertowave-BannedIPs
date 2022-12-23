@@ -5852,6 +5852,7 @@
 121.228.108.245,Telnet-Scanning
 192.81.215.87,HTTP-Probing
 167.248.133.47,SSH-Scanning
+162.243.131.17,SQL-Probing
 182.247.149.87,Telnet-Scanning
 110.178.35.118,Telnet-Scanning
 198.199.92.151,FTP-Probing
