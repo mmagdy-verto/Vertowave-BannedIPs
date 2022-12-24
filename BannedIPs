@@ -9611,6 +9611,7 @@
 61.177.172.140,SSH-Scanning
 61.177.172.160,SSH-Scanning
 114.35.249.153,Telnet-Scanning
+143.42.1.157,HTTPS-8443-Probing
 45.33.66.227,HTTPS-8443-Probing
 209.141.51.132,HTTP-Probing
 203.79.72.104,Telnet-Scanning
