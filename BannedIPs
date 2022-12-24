@@ -2819,6 +2819,7 @@
 31.48.122.220,SSH-Scanning
 35.171.27.141,Telnet-Scanning
 175.160.97.6,Telnet-Scanning
+113.254.112.7,Telnet-Scanning
 161.35.135.144,RDP-Hijacking
 122.189.11.17,Telnet-Scanning
 45.33.91.108,SMTP-Probing
