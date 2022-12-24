@@ -8844,6 +8844,7 @@
 43.231.233.163,SSH-Scanning
 1.27.177.130,Telnet-Scanning
 117.247.191.243,SQL-Probing
+20.112.66.167,RDP-Hijacking
 177.10.209.73,Telnet-Scanning
 114.239.102.123,Telnet-Scanning
 27.65.179.2,Telnet-Scanning
