@@ -460,6 +460,7 @@
 192.241.200.235,HTTPS-Probing
 173.50.165.115,Telnet-Scanning
 118.37.95.228,Telnet-Scanning
+139.144.232.142,HTTPS-8443-Probing
 221.166.160.180,Telnet-Scanning
 124.89.180.17,Telnet-Scanning
 49.174.230.66,Telnet-Scanning
