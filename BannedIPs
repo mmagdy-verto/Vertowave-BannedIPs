@@ -6894,6 +6894,7 @@
 139.144.235.58,SMTP-Probing
 113.230.235.112,Telnet-Scanning
 50.116.56.181,SMTP-Probing
+139.144.235.18,HTTPS-Probing
 20.121.70.93,RDP-Hijacking
 192.241.239.19,HTTPS-Probing
 180.145.208.26,Telnet-Scanning
