@@ -1580,6 +1580,7 @@
 117.148.149.185,Telnet-Scanning
 103.147.184.10,SMTP-Probing
 80.82.61.221,RDP-Hijacking
+162.243.147.15,FTP-Probing
 123.4.82.58,Telnet-Scanning
 106.75.139.199,HTTP-Probing
 220.161.160.75,Telnet-Scanning
