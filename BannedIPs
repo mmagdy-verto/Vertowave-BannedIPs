@@ -8105,6 +8105,7 @@
 192.241.206.65,HTTPS-Probing
 192.241.206.55,HTTPS-Probing
 119.199.213.69,Telnet-Scanning
+117.247.163.5,Telnet-Scanning
 178.34.156.53,RDP-Hijacking
 129.226.89.203,SSH-Scanning
 85.209.135.253,SMTP-Probing
