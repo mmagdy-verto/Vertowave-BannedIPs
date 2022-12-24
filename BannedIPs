@@ -5104,6 +5104,7 @@
 79.12.45.186,Telnet-Scanning
 198.74.57.209,HTTPS-Probing
 42.58.170.66,Telnet-Scanning
+186.67.158.116,Telnet-Scanning
 110.181.72.29,Telnet-Scanning
 114.35.1.188,Telnet-Scanning
 118.217.176.15,Telnet-Scanning
@@ -7768,6 +7769,7 @@
 106.41.82.6,Telnet-Scanning
 96.126.105.67,HTTPS-8443-Probing
 41.86.17.229,SSH-Scanning
+45.227.125.3,RDP-Hijacking
 118.171.215.145,Telnet-Scanning
 193.118.53.141,HTTPS-Probing
 117.210.145.123,Telnet-Scanning
