@@ -3632,6 +3632,7 @@
 198.199.109.53,FTP-Probing
 202.178.113.52,Telnet-Scanning
 66.228.41.154,SMTP-Probing
+27.199.87.113,Telnet-Scanning
 113.221.77.28,Telnet-Scanning
 221.144.75.160,Telnet-Scanning
 185.32.46.54,SQL-Probing
