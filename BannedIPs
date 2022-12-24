@@ -345,6 +345,7 @@
 103.243.112.212,RDP-Hijacking
 123.175.25.102,Telnet-Scanning
 175.30.116.206,Telnet-Scanning
+59.126.144.122,Telnet-Scanning
 80.66.88.15,SQL-Probing
 20.229.202.64,RDP-Hijacking
 220.132.4.119,Telnet-Scanning
