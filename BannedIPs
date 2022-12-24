@@ -10714,6 +10714,7 @@
 205.210.31.137,HTTP-Probing
 60.250.1.100,Telnet-Scanning
 192.241.202.145,HTTP-Probing
+172.104.4.202,SMTP-Probing
 43.138.196.3,HTTP-Probing
 223.8.45.192,Telnet-Scanning
 64.62.197.29,HTTP-Probing
