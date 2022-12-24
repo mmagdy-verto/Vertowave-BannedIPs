@@ -7319,6 +7319,7 @@
 61.177.173.42,SSH-Scanning
 61.177.173.43,SSH-Scanning
 96.250.16.55,Telnet-Scanning
+172.104.86.22,RDP-Hijacking
 195.181.84.104,HTTP-Probing
 212.111.205.83,RDP-Hijacking
 139.144.239.196,SMTP-Probing
