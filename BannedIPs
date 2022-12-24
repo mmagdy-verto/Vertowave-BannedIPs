@@ -8876,6 +8876,7 @@
 134.236.3.204,SSH-Scanning
 59.30.232.36,Telnet-Scanning
 220.137.25.63,Telnet-Scanning
+159.203.240.20,SQL-Probing
 222.102.47.217,Telnet-Scanning
 107.144.37.78,Telnet-Scanning
 106.59.98.91,Telnet-Scanning
