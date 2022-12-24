@@ -9250,6 +9250,7 @@
 183.134.73.47,SSH-Scanning
 101.50.95.73,Telnet-Scanning
 59.127.48.117,Telnet-Scanning
+143.42.1.142,SMTP-Probing
 179.43.154.151,FTP-Probing
 121.236.137.71,Telnet-Scanning
 109.248.6.68,SQL-Probing
