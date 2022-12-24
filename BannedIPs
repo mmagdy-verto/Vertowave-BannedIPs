@@ -5194,6 +5194,7 @@
 35.93.107.153,SSH-Scanning
 223.13.17.206,Telnet-Scanning
 114.230.235.193,Telnet-Scanning
+162.243.142.25,HTTPS-8443-Probing
 31.154.74.234,SSH-Scanning
 123.195.114.31,Telnet-Scanning
 114.230.24.187,Telnet-Scanning
