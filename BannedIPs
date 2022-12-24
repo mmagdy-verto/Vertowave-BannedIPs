@@ -6798,6 +6798,7 @@
 51.103.110.176,Telnet-Scanning
 45.79.153.32,SMTP-Probing
 5.55.202.3,Telnet-Scanning
+24.61.40.148,SSH-Scanning
 212.24.104.10,RDP-Hijacking
 216.73.162.191,RDP-Hijacking
 211.220.19.62,Telnet-Scanning
