@@ -8925,6 +8925,7 @@
 72.170.243.86,Telnet-Scanning
 94.102.61.20,SSH-Scanning
 183.107.45.127,SSH-Scanning
+139.144.232.113,SMTP-Probing
 172.104.7.7,HTTPS-Probing
 122.116.191.249,Telnet-Scanning
 112.11.108.237,Telnet-Scanning
