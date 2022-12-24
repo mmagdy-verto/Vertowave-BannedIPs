@@ -8315,6 +8315,7 @@
 210.61.141.12,Telnet-Scanning
 46.161.27.17,HTTPS-8443-Probing
 185.132.53.205,Telnet-Scanning
+192.241.200.110,HTTPS-Probing
 104.248.238.198,RDP-Hijacking
 69.164.222.179,HTTPS-Probing
 218.93.132.76,Telnet-Scanning
