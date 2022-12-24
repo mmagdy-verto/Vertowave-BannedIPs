@@ -7758,6 +7758,7 @@
 198.235.24.50,FTP-Probing
 198.235.24.57,RDP-Hijacking
 198.235.24.56,Telnet-Scanning
+24.24.130.219,Telnet-Scanning
 198.235.24.55,FTP-Probing
 211.22.46.198,Telnet-Scanning
 198.235.24.54,HTTPS-Probing
