@@ -6442,6 +6442,7 @@
 220.150.189.179,Telnet-Scanning
 205.210.31.55,RDP-Hijacking
 205.210.31.54,RDP-Hijacking
+205.210.31.57,Telnet-Scanning
 117.215.11.228,Telnet-Scanning
 121.147.165.61,Telnet-Scanning
 66.175.214.14,HTTPS-Probing
