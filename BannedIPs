@@ -6643,6 +6643,7 @@
 162.142.125.9,SSH-Scanning
 89.248.165.245,HTTPS-Probing
 50.48.214.114,SSH-Scanning
+170.78.39.70,Telnet-Scanning
 118.161.191.112,Telnet-Scanning
 123.234.251.111,Telnet-Scanning
 14.173.121.101,Telnet-Scanning
