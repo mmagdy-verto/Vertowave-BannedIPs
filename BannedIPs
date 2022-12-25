@@ -1833,6 +1833,7 @@
 87.236.176.245,FTP-Probing
 139.144.235.149,SMTP-Probing
 136.52.13.251,SSH-Scanning
+116.75.167.129,Telnet-Scanning
 59.12.8.125,Telnet-Scanning
 190.52.130.13,Telnet-Scanning
 194.28.112.140,HTTPS-Probing
