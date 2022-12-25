@@ -6618,6 +6618,7 @@
 49.65.191.51,Telnet-Scanning
 222.168.30.19,SSH-Scanning
 167.248.133.61,SMTP-Probing
+162.243.148.22,SSH-Scanning
 192.155.88.231,HTTP-Probing
 128.1.131.197,SMTP-Probing
 116.248.136.20,Telnet-Scanning
