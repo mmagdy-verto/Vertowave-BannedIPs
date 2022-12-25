@@ -5629,6 +5629,7 @@
 59.91.187.170,Telnet-Scanning
 122.117.106.89,Telnet-Scanning
 177.189.206.128,RDP-Hijacking
+143.42.4.245,HTTPS-8443-Probing
 110.150.22.74,Telnet-Scanning
 103.91.80.2,RDP-Hijacking
 194.165.16.78,SSH-Scanning
