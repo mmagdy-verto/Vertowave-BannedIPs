@@ -8313,6 +8313,7 @@
 220.135.142.101,Telnet-Scanning
 211.250.255.243,Telnet-Scanning
 220.94.180.103,Telnet-Scanning
+194.180.174.143,HTTP-Probing
 152.86.233.163,Telnet-Scanning
 139.162.197.14,HTTPS-Probing
 132.147.99.226,Telnet-Scanning
