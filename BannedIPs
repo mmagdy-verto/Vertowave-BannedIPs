@@ -3150,6 +3150,7 @@
 113.26.91.147,Telnet-Scanning
 179.60.147.152,SSH-Scanning
 14.143.223.242,SQL-Probing
+110.183.153.78,Telnet-Scanning
 107.170.249.22,HTTPS-Probing
 164.92.215.243,HTTP-Probing
 209.97.152.248,Telnet-Scanning
