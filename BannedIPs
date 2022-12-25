@@ -12353,6 +12353,7 @@
 192.241.194.29,HTTP-Probing
 123.173.73.22,Telnet-Scanning
 192.241.207.130,HTTPS-8443-Probing
+114.32.27.27,Telnet-Scanning
 171.119.195.88,Telnet-Scanning
 150.223.15.141,SMTP-Probing
 50.97.221.23,SSH-Scanning
