@@ -1681,6 +1681,7 @@
 118.169.155.47,Telnet-Scanning
 170.187.164.202,SMTP-Probing
 178.69.183.231,Telnet-Scanning
+107.170.226.20,SSH-Scanning
 34.234.95.177,SQL-Probing
 89.248.167.131,HTTP-Probing
 23.224.186.225,RDP-Hijacking
