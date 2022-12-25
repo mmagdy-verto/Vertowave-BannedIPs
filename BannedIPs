@@ -8918,6 +8918,7 @@
 203.232.63.19,Telnet-Scanning
 106.255.80.41,Telnet-Scanning
 198.199.95.41,SSH-Scanning
+143.42.4.219,SMTP-Probing
 175.31.202.175,Telnet-Scanning
 199.195.249.149,HTTP-Probing
 36.228.38.21,Telnet-Scanning
