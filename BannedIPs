@@ -6475,6 +6475,7 @@
 113.100.112.62,Telnet-Scanning
 76.146.240.247,HTTP-Probing
 76.134.75.109,Telnet-Scanning
+167.172.80.55,Telnet-Scanning
 49.89.92.162,Telnet-Scanning
 205.210.31.155,RDP-Hijacking
 205.210.31.145,SSH-Scanning
