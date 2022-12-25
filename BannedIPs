@@ -2107,6 +2107,7 @@
 122.97.229.210,SSH-Scanning
 222.103.186.15,Telnet-Scanning
 184.83.219.205,SSH-Scanning
+65.188.228.10,Telnet-Scanning
 125.227.214.60,Telnet-Scanning
 192.241.205.145,FTP-Probing
 139.144.239.51,HTTPS-Probing
