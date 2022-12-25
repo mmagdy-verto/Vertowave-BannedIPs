@@ -9096,6 +9096,7 @@
 20.121.70.120,SSH-Scanning
 104.152.52.238,SQL-Probing
 152.32.153.207,HTTP-Probing
+60.14.94.124,Telnet-Scanning
 116.72.19.140,Telnet-Scanning
 192.241.212.209,HTTPS-Probing
 1.62.39.40,Telnet-Scanning
