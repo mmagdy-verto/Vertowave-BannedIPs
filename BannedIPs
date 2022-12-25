@@ -8756,6 +8756,7 @@
 104.237.151.5,HTTPS-8443-Probing
 84.21.172.169,Telnet-Scanning
 195.133.20.247,RDP-Hijacking
+221.225.90.34,Telnet-Scanning
 139.144.235.248,HTTPS-Probing
 218.157.85.185,Telnet-Scanning
 58.146.249.96,HTTP-Probing
