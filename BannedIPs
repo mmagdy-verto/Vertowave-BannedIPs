@@ -3899,6 +3899,7 @@
 4.227.151.103,SSH-Scanning
 192.241.201.16,SSH-Scanning
 123.175.54.184,Telnet-Scanning
+119.123.3.225,HTTP-Probing
 45.80.47.8,Telnet-Scanning
 125.228.80.213,Telnet-Scanning
 59.16.103.237,Telnet-Scanning
