@@ -3045,6 +3045,7 @@
 139.144.233.244,SMTP-Probing
 156.247.10.17,SQL-Probing
 106.3.151.11,SSH-Scanning
+121.231.84.60,Telnet-Scanning
 147.78.47.136,RDP-Hijacking
 182.247.32.49,Telnet-Scanning
 172.104.8.134,HTTPS-8443-Probing
