@@ -8077,6 +8077,7 @@
 184.105.247.226,HTTP-Probing
 69.164.208.143,HTTPS-8443-Probing
 44.208.167.221,Telnet-Scanning
+192.12.113.195,Telnet-Scanning
 192.241.202.204,FTP-Port-20-Probing
 177.21.130.55,Telnet-Scanning
 51.250.83.34,SSH-Scanning
