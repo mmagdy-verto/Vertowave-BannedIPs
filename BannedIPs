@@ -4473,6 +4473,7 @@
 120.82.180.247,Telnet-Scanning
 112.251.59.140,Telnet-Scanning
 118.44.255.23,Telnet-Scanning
+159.203.97.92,HTTPS-8443-Probing
 218.149.249.110,Telnet-Scanning
 204.9.181.31,Telnet-Scanning
 199.114.231.178,HTTP-Probing
@@ -11820,6 +11821,7 @@
 59.127.94.81,Telnet-Scanning
 123.183.159.28,Telnet-Scanning
 64.121.206.19,Telnet-Scanning
+13.85.23.83,FTP-Probing
 185.112.63.206,Telnet-Scanning
 44.203.143.202,Telnet-Scanning
 139.162.238.243,HTTPS-8443-Probing
