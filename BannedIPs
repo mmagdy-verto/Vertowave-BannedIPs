@@ -410,6 +410,7 @@
 45.83.64.103,RDP-Hijacking
 84.241.3.50,HTTP-Probing
 211.221.59.58,Telnet-Scanning
+67.61.177.63,Telnet-Scanning
 36.49.36.137,Telnet-Scanning
 45.79.161.120,SMTP-Probing
 89.143.168.154,HTTP-Probing
