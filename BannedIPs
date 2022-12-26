@@ -9530,6 +9530,7 @@
 20.117.171.170,RDP-Hijacking
 92.205.22.158,RDP-Hijacking
 27.71.27.47,RDP-Hijacking
+169.0.253.135,Telnet-Scanning
 182.234.115.25,Telnet-Scanning
 38.88.252.189,FTP-Probing
 167.94.138.62,SQL-Probing
@@ -10519,6 +10520,7 @@
 110.2.30.129,Telnet-Scanning
 193.142.59.195,HTTP-Probing
 123.175.24.107,Telnet-Scanning
+59.172.95.143,Telnet-Scanning
 115.96.157.239,Telnet-Scanning
 112.26.144.217,Telnet-Scanning
 121.180.24.3,Telnet-Scanning
