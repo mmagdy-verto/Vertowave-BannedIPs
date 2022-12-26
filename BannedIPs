@@ -8738,6 +8738,7 @@
 167.71.229.230,SSH-Scanning
 201.21.146.206,Telnet-Scanning
 192.241.197.119,FTP-Probing
+66.54.96.36,HTTP-Probing
 192.241.212.153,SQL-Probing
 14.45.207.227,Telnet-Scanning
 125.229.181.95,Telnet-Scanning
