@@ -3534,6 +3534,7 @@
 107.170.234.10,FTP-Probing
 113.24.146.85,Telnet-Scanning
 64.62.197.79,SSH-Scanning
+180.24.17.66,Telnet-Scanning
 1.70.15.20,Telnet-Scanning
 171.44.202.198,Telnet-Scanning
 103.189.220.197,Telnet-Scanning
