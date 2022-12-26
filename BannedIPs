@@ -260,6 +260,7 @@
 106.75.165.127,RDP-Hijacking
 139.144.234.96,HTTPS-8443-Probing
 61.62.157.76,Telnet-Scanning
+223.10.68.225,Telnet-Scanning
 172.104.218.169,SMTP-Probing
 107.189.1.180,Telnet-Scanning
 58.42.16.52,Telnet-Scanning
