@@ -11613,6 +11613,7 @@
 114.32.60.242,Telnet-Scanning
 182.136.24.177,Telnet-Scanning
 106.111.38.199,Telnet-Scanning
+172.104.210.105,SSH-Scanning
 222.246.65.143,Telnet-Scanning
 192.241.192.78,HTTPS-8443-Probing
 112.165.103.83,Telnet-Scanning
