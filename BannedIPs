@@ -9784,6 +9784,7 @@
 61.31.89.215,Telnet-Scanning
 74.207.254.234,Telnet-Scanning
 54.234.191.245,HTTP-Probing
+192.241.225.12,HTTPS-Probing
 175.107.13.65,Telnet-Scanning
 85.31.44.178,HTTP-Probing
 110.183.27.214,Telnet-Scanning
