@@ -9543,6 +9543,7 @@
 3.235.76.241,HTTPS-Probing
 112.240.254.170,Telnet-Scanning
 112.162.178.170,Telnet-Scanning
+182.77.60.150,RDP-Hijacking
 222.75.204.6,RDP-Hijacking
 192.241.196.179,FTP-Probing
 113.25.218.200,Telnet-Scanning
