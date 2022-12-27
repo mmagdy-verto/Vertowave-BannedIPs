@@ -2400,6 +2400,7 @@
 223.13.74.220,Telnet-Scanning
 59.127.95.186,Telnet-Scanning
 167.248.133.119,HTTP-Probing
+97.88.115.107,Telnet-Scanning
 42.53.215.226,Telnet-Scanning
 192.241.211.91,FTP-Probing
 192.241.211.81,HTTPS-8443-Probing
