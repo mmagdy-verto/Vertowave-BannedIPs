@@ -3042,6 +3042,7 @@
 135.148.214.116,SSH-Scanning
 122.189.11.17,Telnet-Scanning
 45.33.91.108,SMTP-Probing
+2.180.13.63,Telnet-Scanning
 46.101.75.6,RDP-Hijacking
 180.116.196.35,Telnet-Scanning
 49.74.41.69,Telnet-Scanning
