@@ -3620,6 +3620,7 @@
 220.132.77.216,Telnet-Scanning
 87.10.199.206,Telnet-Scanning
 175.213.142.102,Telnet-Scanning
+143.42.1.160,HTTPS-8443-Probing
 112.44.75.100,SQL-Probing
 222.93.28.38,Telnet-Scanning
 187.208.151.77,Telnet-Scanning
