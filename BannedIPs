@@ -3490,6 +3490,7 @@
 114.35.34.12,Telnet-Scanning
 3.84.99.44,Telnet-Scanning
 72.251.235.152,HTTP-Probing
+125.130.254.154,Telnet-Scanning
 45.33.86.211,HTTPS-Probing
 192.241.198.224,HTTPS-8443-Probing
 85.240.11.174,Telnet-Scanning
