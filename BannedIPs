@@ -9518,6 +9518,7 @@
 85.192.8.213,Telnet-Scanning
 151.242.157.230,Telnet-Scanning
 61.177.172.61,SSH-Scanning
+177.193.105.182,HTTP-Probing
 211.57.109.164,Telnet-Scanning
 141.98.83.120,RDP-Hijacking
 123.12.8.94,Telnet-Scanning
