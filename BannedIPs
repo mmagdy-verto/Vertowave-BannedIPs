@@ -6943,6 +6943,7 @@
 69.164.219.182,SMTP-Probing
 192.241.210.88,FTP-Probing
 159.223.7.237,SSH-Scanning
+71.69.147.44,Telnet-Scanning
 36.97.160.27,Telnet-Scanning
 121.175.65.242,Telnet-Scanning
 173.29.13.123,Telnet-Scanning
