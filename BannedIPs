@@ -8245,6 +8245,7 @@
 220.90.73.150,Telnet-Scanning
 170.187.164.199,SMTP-Probing
 220.133.12.23,Telnet-Scanning
+106.105.192.214,SSH-Scanning
 218.161.20.193,SSH-Scanning
 184.105.247.226,HTTP-Probing
 31.191.63.63,Telnet-Scanning
