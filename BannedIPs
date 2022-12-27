@@ -7760,6 +7760,7 @@
 77.89.96.128,Telnet-Scanning
 198.199.92.66,HTTPS-8443-Probing
 45.33.67.29,SMTP-Probing
+52.174.65.108,RDP-Hijacking
 175.112.211.129,Telnet-Scanning
 1.69.99.170,Telnet-Scanning
 36.32.203.167,Telnet-Scanning
