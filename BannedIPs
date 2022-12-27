@@ -6845,6 +6845,7 @@
 198.199.95.159,HTTPS-Probing
 1.176.142.149,Telnet-Scanning
 198.199.95.119,HTTPS-8443-Probing
+76.183.27.247,Telnet-Scanning
 107.170.248.15,HTTPS-Probing
 157.245.52.169,SSH-Scanning
 113.24.156.202,Telnet-Scanning
