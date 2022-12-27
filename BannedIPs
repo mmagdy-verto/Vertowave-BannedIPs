@@ -13144,6 +13144,7 @@
 4.17.224.131,HTTP-Probing
 172.104.24.225,HTTPS-Probing
 182.121.63.153,Telnet-Scanning
+143.42.1.183,HTTPS-8443-Probing
 175.43.188.5,Telnet-Scanning
 119.99.96.57,Telnet-Scanning
 218.55.63.134,Telnet-Scanning
