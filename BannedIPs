@@ -1509,6 +1509,7 @@
 124.100.149.196,SSH-Scanning
 137.184.227.0,SSH-Scanning
 34.74.138.192,HTTPS-Probing
+20.112.66.179,SSH-Scanning
 45.79.134.38,HTTPS-Probing
 223.12.4.167,Telnet-Scanning
 68.66.164.26,HTTP-Probing
