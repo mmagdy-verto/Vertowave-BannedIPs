@@ -10552,6 +10552,7 @@
 42.243.137.200,Telnet-Scanning
 114.218.29.81,Telnet-Scanning
 184.105.139.113,SMTP-Probing
+134.122.86.12,HTTP-Probing
 185.151.108.232,HTTP-Probing
 64.62.197.42,HTTPS-8443-Probing
 220.247.21.179,Telnet-Scanning
