@@ -12388,6 +12388,7 @@
 205.210.31.42,HTTPS-Probing
 202.124.224.215,HTTP-Probing
 205.210.31.49,FTP-Probing
+66.74.22.56,Telnet-Scanning
 65.34.16.243,Telnet-Scanning
 205.210.31.48,SSH-Scanning
 117.83.195.129,Telnet-Scanning
