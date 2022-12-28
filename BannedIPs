@@ -7063,6 +7063,7 @@
 173.56.14.15,Telnet-Scanning
 114.35.144.60,Telnet-Scanning
 64.62.197.170,HTTP-Probing
+164.92.125.119,RDP-Hijacking
 64.62.197.171,HTTPS-Probing
 64.62.197.177,SSH-Scanning
 64.62.197.174,HTTPS-Probing
@@ -8670,6 +8671,7 @@
 58.224.19.9,Telnet-Scanning
 222.102.150.232,Telnet-Scanning
 24.152.45.146,Telnet-Scanning
+13.85.75.112,FTP-Probing
 49.71.81.60,Telnet-Scanning
 110.182.43.242,Telnet-Scanning
 223.8.13.93,Telnet-Scanning
