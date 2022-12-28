@@ -8590,6 +8590,7 @@
 49.142.156.55,Telnet-Scanning
 192.241.208.47,HTTPS-Probing
 114.35.209.128,Telnet-Scanning
+142.93.212.137,HTTP-Probing
 107.189.14.225,Telnet-Scanning
 128.14.209.246,RDP-Hijacking
 121.179.150.231,SSH-Scanning
