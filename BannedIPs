@@ -2881,6 +2881,7 @@
 154.6.19.170,RDP-Hijacking
 211.200.27.42,Telnet-Scanning
 49.72.107.250,Telnet-Scanning
+13.112.95.40,SSH-Scanning
 37.190.183.179,Telnet-Scanning
 49.249.128.202,RDP-Hijacking
 47.26.249.162,Telnet-Scanning
