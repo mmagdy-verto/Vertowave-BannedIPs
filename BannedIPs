@@ -2005,6 +2005,7 @@
 189.91.162.62,Telnet-Scanning
 20.231.220.165,RDP-Hijacking
 50.116.62.247,HTTPS-Probing
+50.116.51.153,SMTP-Probing
 27.43.204.2,Telnet-Scanning
 121.226.228.128,Telnet-Scanning
 122.117.117.26,Telnet-Scanning
