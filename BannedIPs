@@ -9733,6 +9733,7 @@
 113.107.33.92,Telnet-Scanning
 118.163.181.155,Telnet-Scanning
 194.29.187.219,HTTPS-Probing
+45.66.230.87,SSH-Scanning
 196.70.253.21,Telnet-Scanning
 104.200.28.101,HTTPS-Probing
 143.42.3.113,HTTPS-8443-Probing
