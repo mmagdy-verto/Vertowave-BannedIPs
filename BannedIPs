@@ -12203,6 +12203,7 @@
 180.163.220.4,HTTP-Probing
 120.85.98.27,Telnet-Scanning
 2.57.122.25,SSH-Scanning
+143.42.1.177,HTTPS-8443-Probing
 120.39.186.32,Telnet-Scanning
 71.79.25.100,Telnet-Scanning
 115.199.66.111,Telnet-Scanning
