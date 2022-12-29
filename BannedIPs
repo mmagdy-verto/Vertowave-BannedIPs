@@ -9128,6 +9128,7 @@
 192.241.208.49,SSH-Scanning
 81.17.22.106,HTTPS-Probing
 103.171.1.101,RDP-Hijacking
+120.59.255.61,Telnet-Scanning
 162.142.125.219,FTP-Probing
 164.52.36.229,HTTPS-Probing
 3.82.148.125,Telnet-Scanning
