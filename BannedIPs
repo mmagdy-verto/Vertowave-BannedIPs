@@ -9727,6 +9727,7 @@
 172.104.6.234,SMTP-Probing
 222.118.131.4,Telnet-Scanning
 58.101.83.188,Telnet-Scanning
+2.24.6.112,Telnet-Scanning
 213.6.149.30,Telnet-Scanning
 87.7.77.53,Telnet-Scanning
 123.31.31.70,RDP-Hijacking
