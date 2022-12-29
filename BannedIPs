@@ -9310,6 +9310,7 @@
 103.180.137.230,RDP-Hijacking
 125.229.138.73,Telnet-Scanning
 221.232.53.128,Telnet-Scanning
+175.107.13.102,Telnet-Scanning
 213.226.123.100,SQL-Probing
 1.70.136.216,Telnet-Scanning
 45.93.201.68,SQL-Probing
