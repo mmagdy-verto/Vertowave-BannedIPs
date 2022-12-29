@@ -12679,6 +12679,7 @@
 115.60.210.252,Telnet-Scanning
 114.239.10.2,Telnet-Scanning
 66.240.192.82,HTTP-Probing
+169.0.253.168,Telnet-Scanning
 192.241.207.79,HTTPS-8443-Probing
 91.148.141.226,HTTP-Probing
 110.181.104.76,Telnet-Scanning
