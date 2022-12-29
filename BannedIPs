@@ -8227,6 +8227,7 @@
 205.210.31.10,RDP-Hijacking
 205.210.31.13,HTTPS-Probing
 205.210.31.12,SSH-Scanning
+122.53.62.68,SQL-Probing
 205.210.31.19,RDP-Hijacking
 205.210.31.18,SSH-Scanning
 182.46.177.187,Telnet-Scanning
