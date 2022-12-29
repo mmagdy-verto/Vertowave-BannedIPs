@@ -2580,6 +2580,7 @@
 198.235.24.137,Telnet-Scanning
 118.42.12.191,Telnet-Scanning
 198.235.24.167,RDP-Hijacking
+24.161.15.254,Telnet-Scanning
 192.241.197.8,FTP-Probing
 198.235.24.147,HTTP-Probing
 192.241.197.5,HTTPS-Probing
