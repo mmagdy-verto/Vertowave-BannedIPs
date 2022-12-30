@@ -6727,6 +6727,7 @@
 45.85.36.17,FTP-Probing
 24.130.164.51,Telnet-Scanning
 14.45.204.96,Telnet-Scanning
+75.134.24.3,HTTP-Probing
 1.69.47.246,Telnet-Scanning
 124.156.222.254,HTTP-Probing
 190.122.172.135,Telnet-Scanning
