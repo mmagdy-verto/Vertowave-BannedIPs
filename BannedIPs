@@ -360,6 +360,7 @@
 69.76.135.55,Telnet-Scanning
 188.169.61.214,Telnet-Scanning
 198.199.94.162,Telnet-Scanning
+198.199.96.32,HTTP-Probing
 167.71.237.22,HTTP-Probing
 125.228.183.177,Telnet-Scanning
 20.121.49.117,SSH-Scanning
