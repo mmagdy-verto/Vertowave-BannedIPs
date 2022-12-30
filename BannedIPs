@@ -10472,6 +10472,7 @@
 192.241.207.98,SSH-Scanning
 182.56.204.77,Telnet-Scanning
 47.225.130.14,Telnet-Scanning
+84.252.141.64,RDP-Hijacking
 5.188.210.227,HTTP-Probing
 124.212.70.137,Telnet-Scanning
 2.55.98.253,Telnet-Scanning
