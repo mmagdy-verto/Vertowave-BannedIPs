@@ -8832,6 +8832,7 @@
 154.89.5.217,SSH-Scanning
 1.70.131.52,Telnet-Scanning
 122.140.10.113,Telnet-Scanning
+162.243.134.14,RDP-Hijacking
 31.210.22.176,SMTP-Probing
 220.134.75.43,Telnet-Scanning
 202.170.206.79,Telnet-Scanning
