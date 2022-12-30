@@ -1686,6 +1686,7 @@
 121.202.58.67,Telnet-Scanning
 154.89.5.208,FTP-Probing
 218.158.84.103,Telnet-Scanning
+106.1.111.62,Telnet-Scanning
 192.155.89.142,SMTP-Probing
 20.119.90.81,HTTP-Probing
 192.241.206.225,HTTPS-Probing
