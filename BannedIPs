@@ -9114,6 +9114,7 @@
 173.255.230.187,HTTPS-Probing
 112.133.167.21,Telnet-Scanning
 115.50.20.141,Telnet-Scanning
+192.241.196.4,FTP-Probing
 114.33.156.40,Telnet-Scanning
 2.229.130.228,Telnet-Scanning
 192.241.206.115,HTTP-Probing
