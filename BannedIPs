@@ -13086,6 +13086,7 @@
 31.41.64.197,SSH-Scanning
 179.43.177.154,HTTP-Probing
 121.181.164.127,Telnet-Scanning
+124.220.27.168,Telnet-Scanning
 192.241.202.142,HTTPS-Probing
 123.175.71.254,Telnet-Scanning
 209.141.50.51,Telnet-Scanning
