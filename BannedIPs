@@ -8606,6 +8606,7 @@
 192.241.213.10,SMTP-Probing
 192.241.213.40,Telnet-Scanning
 110.183.54.67,Telnet-Scanning
+124.165.95.99,Telnet-Scanning
 58.245.23.146,Telnet-Scanning
 125.114.192.253,Telnet-Scanning
 172.104.216.214,HTTPS-8443-Probing
