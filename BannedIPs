@@ -1957,6 +1957,7 @@
 59.126.162.64,Telnet-Scanning
 152.89.196.211,HTTPS-Probing
 142.186.159.195,SSH-Scanning
+39.85.198.20,Telnet-Scanning
 129.232.224.170,RDP-Hijacking
 192.241.222.31,FTP-Probing
 170.187.164.94,HTTPS-Probing
