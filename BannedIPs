@@ -9120,6 +9120,7 @@
 51.250.83.34,SSH-Scanning
 45.184.70.4,Telnet-Scanning
 202.63.215.43,RDP-Hijacking
+46.148.138.98,HTTP-Probing
 42.231.68.30,Telnet-Scanning
 220.133.22.23,Telnet-Scanning
 176.32.133.212,Telnet-Scanning
