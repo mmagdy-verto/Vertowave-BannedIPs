@@ -3613,6 +3613,7 @@
 107.170.228.23,HTTP-Probing
 223.12.12.3,Telnet-Scanning
 90.142.37.115,Telnet-Scanning
+14.99.252.205,Telnet-Scanning
 152.32.150.226,HTTP-Probing
 108.189.246.204,Telnet-Scanning
 152.32.150.236,SQL-Probing
