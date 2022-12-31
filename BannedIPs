@@ -3540,6 +3540,7 @@
 45.83.65.91,RDP-Hijacking
 198.235.24.60,RDP-Hijacking
 42.237.196.235,Telnet-Scanning
+69.164.211.44,HTTPS-Probing
 119.82.253.55,HTTP-Probing
 193.46.254.155,HTTPS-Probing
 27.43.166.31,Telnet-Scanning
