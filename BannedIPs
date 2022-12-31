@@ -8338,6 +8338,7 @@
 205.210.31.139,SSH-Scanning
 205.210.31.129,SQL-Probing
 185.120.214.132,Telnet-Scanning
+23.248.184.241,SMTP-Probing
 113.24.164.227,Telnet-Scanning
 45.79.133.79,HTTPS-8443-Probing
 220.94.30.228,Telnet-Scanning
