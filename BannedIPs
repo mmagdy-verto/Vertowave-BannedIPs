@@ -9983,6 +9983,7 @@
 172.104.22.151,HTTPS-Probing
 45.79.134.116,HTTPS-Probing
 20.9.145.200,SSH-Scanning
+223.8.97.99,Telnet-Scanning
 125.166.118.215,Telnet-Scanning
 125.136.177.122,Telnet-Scanning
 14.48.142.15,Telnet-Scanning
