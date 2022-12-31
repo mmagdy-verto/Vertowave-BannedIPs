@@ -5592,6 +5592,7 @@
 179.60.147.107,SSH-Scanning
 109.248.6.33,RDP-Hijacking
 174.129.151.29,HTTP-Probing
+107.170.249.19,SSH-Scanning
 202.105.105.194,Telnet-Scanning
 138.36.12.6,Telnet-Scanning
 188.161.56.134,HTTP-Probing
