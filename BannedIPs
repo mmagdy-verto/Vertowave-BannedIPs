@@ -12742,6 +12742,7 @@
 3.140.192.248,HTTPS-Probing
 107.150.117.83,FTP-Probing
 49.70.117.253,Telnet-Scanning
+65.49.20.72,HTTPS-8443-Probing
 115.50.229.99,Telnet-Scanning
 114.238.82.199,Telnet-Scanning
 107.170.236.16,HTTPS-Probing
