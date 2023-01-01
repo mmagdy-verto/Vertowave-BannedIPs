@@ -10330,6 +10330,7 @@
 151.84.205.28,Telnet-Scanning
 114.129.200.68,Telnet-Scanning
 122.241.159.243,Telnet-Scanning
+172.104.27.14,HTTPS-8443-Probing
 121.183.109.230,Telnet-Scanning
 63.143.94.171,SSH-Scanning
 192.241.209.236,RDP-Hijacking
