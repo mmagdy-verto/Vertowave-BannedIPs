@@ -9970,6 +9970,7 @@
 49.77.1.90,Telnet-Scanning
 49.213.195.12,Telnet-Scanning
 172.104.216.195,SMTP-Probing
+221.158.139.152,Telnet-Scanning
 123.175.67.240,Telnet-Scanning
 39.85.250.79,Telnet-Scanning
 41.216.183.150,HTTP-Probing
@@ -13736,6 +13737,7 @@
 27.206.127.254,Telnet-Scanning
 39.74.144.145,Telnet-Scanning
 182.112.148.142,Telnet-Scanning
+223.9.42.131,Telnet-Scanning
 80.181.91.212,Telnet-Scanning
 49.70.46.61,Telnet-Scanning
 43.134.114.179,RDP-Hijacking
