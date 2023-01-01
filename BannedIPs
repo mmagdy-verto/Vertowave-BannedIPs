@@ -972,6 +972,7 @@
 192.241.194.139,SQL-Probing
 109.196.76.132,HTTP-Probing
 221.163.163.181,RDP-Hijacking
+184.105.247.210,SMTP-Probing
 109.81.187.8,Telnet-Scanning
 110.180.136.108,Telnet-Scanning
 168.205.50.239,Telnet-Scanning
