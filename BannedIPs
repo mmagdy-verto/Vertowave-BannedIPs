@@ -10537,6 +10537,7 @@
 143.42.1.164,HTTPS-Probing
 222.246.112.37,Telnet-Scanning
 107.170.241.13,FTP-Probing
+80.82.78.27,RDP-Hijacking
 121.177.255.178,Telnet-Scanning
 175.30.116.252,Telnet-Scanning
 211.63.188.3,Telnet-Scanning
