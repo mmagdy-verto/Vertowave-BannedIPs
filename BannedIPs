@@ -5302,6 +5302,7 @@
 167.71.10.10,FTP-Probing
 37.192.126.19,Telnet-Scanning
 113.71.246.123,Telnet-Scanning
+34.223.90.241,HTTP-Probing
 12.220.140.88,Telnet-Scanning
 162.241.71.237,SSH-Scanning
 120.83.84.239,Telnet-Scanning
