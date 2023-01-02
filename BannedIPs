@@ -4910,6 +4910,7 @@
 139.144.232.116,HTTPS-8443-Probing
 107.170.227.30,HTTPS-Probing
 141.98.83.139,SQL-Probing
+107.170.239.12,SQL-Probing
 103.196.211.36,Telnet-Scanning
 61.177.172.76,SSH-Scanning
 115.63.15.174,Telnet-Scanning
@@ -9830,6 +9831,7 @@
 175.214.44.107,Telnet-Scanning
 121.189.193.6,Telnet-Scanning
 39.86.176.249,Telnet-Scanning
+104.152.52.224,HTTPS-Probing
 172.112.25.215,Telnet-Scanning
 222.120.162.205,HTTP-Probing
 186.152.76.179,Telnet-Scanning
