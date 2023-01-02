@@ -8726,6 +8726,7 @@
 45.174.238.23,Telnet-Scanning
 180.108.181.222,Telnet-Scanning
 159.89.113.124,RDP-Hijacking
+192.241.221.14,SMTP-Probing
 223.9.41.40,Telnet-Scanning
 123.6.49.36,FTP-Probing
 24.236.36.114,Telnet-Scanning
