@@ -3990,6 +3990,7 @@
 122.166.52.6,Telnet-Scanning
 80.66.66.146,RDP-Hijacking
 121.164.114.147,Telnet-Scanning
+104.152.52.89,HTTPS-8443-Probing
 103.133.111.228,HTTP-Probing
 37.32.5.103,RDP-Hijacking
 66.175.211.228,HTTPS-Probing
