@@ -6195,6 +6195,7 @@
 210.90.154.238,SSH-Scanning
 45.93.201.98,RDP-Hijacking
 211.226.87.138,Telnet-Scanning
+107.170.249.13,HTTP-Probing
 50.113.33.252,Telnet-Scanning
 45.33.78.46,SMTP-Probing
 46.130.54.251,Telnet-Scanning
