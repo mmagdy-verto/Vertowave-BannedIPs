@@ -9757,6 +9757,7 @@
 211.250.255.243,Telnet-Scanning
 220.94.180.103,Telnet-Scanning
 194.180.174.143,HTTP-Probing
+172.104.25.242,HTTPS-8443-Probing
 110.178.38.15,Telnet-Scanning
 152.86.233.163,Telnet-Scanning
 73.0.6.24,Telnet-Scanning
