@@ -5534,6 +5534,7 @@
 114.237.194.6,Telnet-Scanning
 74.207.254.85,Telnet-Scanning
 20.119.86.8,SSH-Scanning
+172.174.47.30,HTTP-Probing
 120.229.143.252,HTTPS-Probing
 122.191.30.208,Telnet-Scanning
 177.82.238.45,Telnet-Scanning
