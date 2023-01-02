@@ -9432,6 +9432,7 @@
 192.241.208.77,HTTPS-Probing
 49.142.156.55,Telnet-Scanning
 192.241.208.47,HTTPS-Probing
+192.241.235.11,HTTP-Probing
 114.35.209.128,Telnet-Scanning
 142.93.212.137,HTTP-Probing
 107.189.14.225,Telnet-Scanning
