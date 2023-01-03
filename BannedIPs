@@ -1600,6 +1600,7 @@
 195.154.107.223,SSH-Scanning
 81.17.20.58,Telnet-Scanning
 111.255.211.213,Telnet-Scanning
+198.199.100.55,FTP-Port-20-Probing
 171.35.171.26,Telnet-Scanning
 183.82.6.55,Telnet-Scanning
 121.123.73.136,Telnet-Scanning
