@@ -14023,6 +14023,7 @@
 114.35.254.35,Telnet-Scanning
 221.147.97.33,Telnet-Scanning
 172.105.96.215,SSH-Scanning
+77.45.149.249,Telnet-Scanning
 45.15.161.245,HTTPS-Probing
 104.152.52.113,HTTPS-Probing
 64.62.197.143,SSH-Scanning
