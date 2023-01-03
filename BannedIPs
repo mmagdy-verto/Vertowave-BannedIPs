@@ -5630,6 +5630,7 @@
 114.237.194.6,Telnet-Scanning
 74.207.254.85,Telnet-Scanning
 20.119.86.8,SSH-Scanning
+139.162.194.221,RDP-Hijacking
 172.174.47.30,HTTP-Probing
 120.229.143.252,HTTPS-Probing
 122.191.30.208,Telnet-Scanning
@@ -7316,6 +7317,7 @@
 104.200.29.214,HTTPS-Probing
 153.132.254.253,Telnet-Scanning
 85.234.137.154,SSH-Scanning
+170.187.164.42,RDP-Hijacking
 113.26.159.130,Telnet-Scanning
 116.3.115.209,Telnet-Scanning
 58.209.27.190,Telnet-Scanning
