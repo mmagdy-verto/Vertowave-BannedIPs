@@ -3259,6 +3259,7 @@
 220.80.234.15,Telnet-Scanning
 59.151.201.65,Telnet-Scanning
 219.141.48.108,Telnet-Scanning
+27.110.232.164,RDP-Hijacking
 113.27.8.22,Telnet-Scanning
 124.234.184.2,Telnet-Scanning
 170.64.153.30,HTTP-Probing
