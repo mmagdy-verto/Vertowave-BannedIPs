@@ -1809,6 +1809,7 @@
 111.254.127.196,Telnet-Scanning
 59.1.106.38,Telnet-Scanning
 14.54.99.159,Telnet-Scanning
+192.53.164.39,SSH-Scanning
 45.83.67.128,RDP-Hijacking
 60.182.174.60,Telnet-Scanning
 64.42.179.59,Telnet-Scanning
