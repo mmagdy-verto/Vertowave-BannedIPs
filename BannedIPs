@@ -11730,6 +11730,7 @@
 172.104.22.210,HTTPS-8443-Probing
 45.79.144.147,SMTP-Probing
 192.241.226.46,HTTPS-8443-Probing
+49.70.124.108,Telnet-Scanning
 177.11.56.180,Telnet-Scanning
 54.183.230.195,RDP-Hijacking
 42.243.143.30,Telnet-Scanning
