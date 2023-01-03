@@ -9561,6 +9561,7 @@
 45.56.98.65,SMTP-Probing
 98.22.48.88,Telnet-Scanning
 111.231.193.112,SSH-Scanning
+20.235.173.74,Telnet-Scanning
 203.163.239.98,Telnet-Scanning
 198.235.24.59,SSH-Scanning
 198.235.24.58,SSH-Scanning
