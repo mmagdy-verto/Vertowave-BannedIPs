@@ -6529,6 +6529,7 @@
 47.32.125.208,Telnet-Scanning
 162.142.125.222,RDP-Hijacking
 176.221.183.218,HTTP-Probing
+172.104.18.127,SMTP-Probing
 14.43.105.251,Telnet-Scanning
 124.44.90.31,Telnet-Scanning
 219.69.95.112,Telnet-Scanning
