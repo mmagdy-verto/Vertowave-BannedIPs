@@ -3659,6 +3659,7 @@
 123.10.132.206,Telnet-Scanning
 222.85.202.8,Telnet-Scanning
 83.244.14.97,Telnet-Scanning
+138.197.144.108,SQL-Probing
 216.73.161.117,RDP-Hijacking
 164.92.158.116,HTTPS-Probing
 172.104.216.199,HTTPS-8443-Probing
