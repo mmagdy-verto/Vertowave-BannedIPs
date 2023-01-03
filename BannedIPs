@@ -6898,6 +6898,7 @@
 46.236.65.59,Telnet-Scanning
 59.126.155.16,Telnet-Scanning
 58.142.138.24,Telnet-Scanning
+36.72.213.48,SQL-Probing
 216.24.210.243,RDP-Hijacking
 20.115.219.125,SSH-Scanning
 192.241.211.210,RDP-Hijacking
