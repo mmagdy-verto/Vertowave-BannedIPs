@@ -10939,6 +10939,7 @@
 172.104.218.38,SMTP-Probing
 110.11.205.63,Telnet-Scanning
 114.32.144.225,Telnet-Scanning
+192.241.224.25,HTTPS-Probing
 222.113.196.133,Telnet-Scanning
 128.14.209.162,HTTP-Probing
 45.130.83.110,RDP-Hijacking
