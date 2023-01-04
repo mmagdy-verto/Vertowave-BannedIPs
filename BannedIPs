@@ -9640,6 +9640,7 @@
 111.253.152.133,Telnet-Scanning
 64.62.197.58,SSH-Scanning
 83.30.212.105,Telnet-Scanning
+220.132.244.97,Telnet-Scanning
 218.161.40.26,Telnet-Scanning
 38.105.232.164,RDP-Hijacking
 192.241.205.27,HTTPS-8443-Probing
