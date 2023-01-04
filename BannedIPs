@@ -9660,6 +9660,7 @@
 192.241.202.204,FTP-Port-20-Probing
 177.21.130.55,Telnet-Scanning
 51.250.83.34,SSH-Scanning
+211.47.84.5,Telnet-Scanning
 45.184.70.4,Telnet-Scanning
 202.63.215.43,RDP-Hijacking
 46.148.138.98,HTTP-Probing
@@ -14543,6 +14544,7 @@
 61.2.83.32,HTTP-Probing
 198.74.61.108,HTTPS-Probing
 43.138.135.117,Telnet-Scanning
+190.4.54.51,Telnet-Scanning
 104.161.20.49,RDP-Hijacking
 2.101.158.104,Telnet-Scanning
 103.119.78.174,Telnet-Scanning
