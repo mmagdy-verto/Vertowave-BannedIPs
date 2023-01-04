@@ -8410,6 +8410,7 @@
 172.105.129.53,SMTP-Probing
 121.224.81.144,Telnet-Scanning
 103.113.69.119,Telnet-Scanning
+192.241.216.12,HTTPS-Probing
 222.246.110.119,Telnet-Scanning
 220.119.14.146,Telnet-Scanning
 112.67.169.12,Telnet-Scanning
