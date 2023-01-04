@@ -13843,6 +13843,7 @@
 20.163.234.175,HTTP-Probing
 123.172.53.101,Telnet-Scanning
 107.170.232.8,SMTP-Probing
+178.72.68.62,Telnet-Scanning
 165.154.48.61,HTTP-Probing
 36.104.223.59,Telnet-Scanning
 193.169.255.30,SSH-Scanning
