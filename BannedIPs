@@ -11960,6 +11960,7 @@
 175.172.210.12,SQL-Probing
 91.178.103.128,SSH-Scanning
 154.23.190.235,RDP-Hijacking
+89.219.222.108,Telnet-Scanning
 220.135.184.67,Telnet-Scanning
 142.132.128.22,RDP-Hijacking
 20.77.72.23,HTTPS-Probing
