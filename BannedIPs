@@ -14422,6 +14422,7 @@
 192.241.209.4,FTP-Port-20-Probing
 65.185.1.83,Telnet-Scanning
 50.210.90.227,Telnet-Scanning
+52.53.184.195,FTP-Probing
 192.241.212.151,SQL-Probing
 175.11.74.68,Telnet-Scanning
 202.62.42.252,Telnet-Scanning
