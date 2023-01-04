@@ -4330,6 +4330,7 @@
 187.228.68.208,Telnet-Scanning
 172.104.215.192,SMTP-Probing
 172.104.6.9,HTTPS-Probing
+69.164.211.104,HTTPS-8443-Probing
 123.172.53.16,Telnet-Scanning
 193.201.9.101,HTTPS-Probing
 43.154.55.100,Telnet-Scanning
