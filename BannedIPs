@@ -1910,6 +1910,7 @@
 185.73.124.50,SSH-Scanning
 59.127.199.117,Telnet-Scanning
 117.161.75.117,Telnet-Scanning
+200.100.104.18,Telnet-Scanning
 59.127.163.95,Telnet-Scanning
 14.46.40.182,Telnet-Scanning
 221.164.46.103,Telnet-Scanning
@@ -14627,6 +14628,7 @@
 114.35.158.87,Telnet-Scanning
 122.100.65.251,Telnet-Scanning
 184.105.247.240,SMTP-Probing
+27.79.159.16,Telnet-Scanning
 175.172.87.229,Telnet-Scanning
 89.46.239.50,Telnet-Scanning
 196.92.2.60,Telnet-Scanning
