@@ -1331,6 +1331,7 @@
 85.97.111.39,Telnet-Scanning
 111.246.42.46,Telnet-Scanning
 182.127.62.251,Telnet-Scanning
+45.56.108.179,SMTP-Probing
 221.13.176.92,Telnet-Scanning
 192.241.208.229,SQL-Probing
 218.155.224.81,Telnet-Scanning
@@ -4308,6 +4309,7 @@
 106.41.82.180,Telnet-Scanning
 45.118.218.183,Telnet-Scanning
 171.38.150.175,Telnet-Scanning
+162.243.151.4,HTTPS-Probing
 94.68.133.157,Telnet-Scanning
 5.181.80.189,Telnet-Scanning
 13.212.18.250,SSH-Scanning
@@ -4472,6 +4474,7 @@
 124.94.140.200,Telnet-Scanning
 118.37.144.151,Telnet-Scanning
 188.153.90.207,Telnet-Scanning
+180.116.169.207,Telnet-Scanning
 124.163.96.140,Telnet-Scanning
 2.15.177.151,Telnet-Scanning
 177.66.53.169,Telnet-Scanning
@@ -10914,6 +10917,7 @@
 221.203.23.121,Telnet-Scanning
 122.116.251.9,Telnet-Scanning
 192.241.211.22,FTP-Port-20-Probing
+192.241.211.12,HTTPS-Probing
 118.47.246.160,Telnet-Scanning
 20.42.91.217,HTTP-Probing
 189.51.161.43,Telnet-Scanning
