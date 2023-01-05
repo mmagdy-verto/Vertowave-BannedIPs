@@ -9006,6 +9006,7 @@
 192.241.198.37,HTTPS-Probing
 175.193.222.213,Telnet-Scanning
 211.47.108.25,Telnet-Scanning
+134.209.254.251,SSH-Scanning
 113.26.91.225,Telnet-Scanning
 47.254.16.187,HTTP-Probing
 99.111.230.90,Telnet-Scanning
