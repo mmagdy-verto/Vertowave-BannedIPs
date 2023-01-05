@@ -12099,6 +12099,7 @@
 192.241.198.200,SSH-Scanning
 110.182.99.214,Telnet-Scanning
 183.130.156.90,Telnet-Scanning
+117.243.206.134,HTTP-Probing
 177.38.21.159,HTTP-Probing
 218.17.50.160,Telnet-Scanning
 59.24.197.246,Telnet-Scanning
