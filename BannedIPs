@@ -12833,6 +12833,7 @@
 59.110.162.89,Telnet-Scanning
 113.25.239.42,Telnet-Scanning
 210.100.215.131,Telnet-Scanning
+70.62.73.10,SSH-Scanning
 110.180.182.103,Telnet-Scanning
 103.168.183.54,RDP-Hijacking
 71.6.232.26,HTTPS-Probing
