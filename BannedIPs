@@ -12425,6 +12425,7 @@
 125.117.22.102,Telnet-Scanning
 223.80.102.179,SQL-Probing
 150.116.240.163,Telnet-Scanning
+113.125.41.74,SSH-Scanning
 125.168.40.16,Telnet-Scanning
 203.89.25.30,HTTP-Probing
 124.105.196.73,Telnet-Scanning
