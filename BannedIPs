@@ -9945,6 +9945,7 @@
 122.230.254.0,Telnet-Scanning
 110.85.205.216,Telnet-Scanning
 59.26.212.10,Telnet-Scanning
+192.241.230.17,FTP-Probing
 123.175.1.136,Telnet-Scanning
 177.10.217.66,Telnet-Scanning
 192.241.226.43,HTTPS-8443-Probing
