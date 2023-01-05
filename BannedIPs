@@ -12393,6 +12393,7 @@
 198.235.24.139,FTP-Port-20-Probing
 198.235.24.129,HTTPS-Probing
 185.142.236.34,Telnet-Scanning
+114.185.198.226,Telnet-Scanning
 198.235.24.179,RDP-Hijacking
 65.112.30.162,HTTP-Probing
 198.235.24.169,FTP-Probing
