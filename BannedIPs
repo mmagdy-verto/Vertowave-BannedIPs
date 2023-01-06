@@ -5504,6 +5504,7 @@
 59.127.63.47,Telnet-Scanning
 106.56.151.220,Telnet-Scanning
 110.182.176.61,Telnet-Scanning
+107.170.250.18,FTP-Probing
 176.111.173.75,RDP-Hijacking
 223.13.46.208,Telnet-Scanning
 192.241.202.215,HTTPS-Probing
