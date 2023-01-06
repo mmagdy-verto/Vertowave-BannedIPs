@@ -10833,6 +10833,7 @@
 5.43.192.9,HTTP-Probing
 192.241.204.141,HTTPS-8443-Probing
 192.241.208.170,HTTPS-Probing
+220.141.5.231,Telnet-Scanning
 222.220.238.50,Telnet-Scanning
 96.126.109.171,HTTPS-8443-Probing
 175.30.83.241,Telnet-Scanning
