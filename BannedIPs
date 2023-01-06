@@ -15286,6 +15286,7 @@
 123.117.248.171,Telnet-Scanning
 190.48.23.64,SSH-Scanning
 20.89.88.34,HTTPS-Probing
+190.180.152.154,Telnet-Scanning
 192.241.196.126,RDP-Hijacking
 121.135.20.44,Telnet-Scanning
 72.203.144.249,Telnet-Scanning
