@@ -6823,6 +6823,7 @@
 162.243.152.27,HTTPS-Probing
 222.189.247.3,Telnet-Scanning
 117.193.112.168,HTTP-Probing
+111.42.45.63,Telnet-Scanning
 223.13.81.26,Telnet-Scanning
 205.210.31.5,HTTP-Probing
 192.241.206.119,HTTPS-8443-Probing
