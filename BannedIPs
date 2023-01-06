@@ -6530,6 +6530,7 @@
 123.146.0.239,Telnet-Scanning
 107.170.230.10,SMTP-Probing
 45.56.107.84,HTTPS-8443-Probing
+45.55.34.164,RDP-Hijacking
 103.187.190.68,HTTPS-Probing
 164.163.9.113,RDP-Hijacking
 211.229.33.93,Telnet-Scanning
