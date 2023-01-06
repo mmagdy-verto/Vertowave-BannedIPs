@@ -14010,6 +14010,7 @@
 46.173.82.116,Telnet-Scanning
 176.113.115.140,RDP-Hijacking
 172.104.209.196,HTTPS-Probing
+27.124.5.3,SMTP-Probing
 23.92.19.239,HTTPS-8443-Probing
 41.38.42.58,RDP-Hijacking
 122.195.34.180,Telnet-Scanning
