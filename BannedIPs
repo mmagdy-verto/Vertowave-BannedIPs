@@ -8014,6 +8014,7 @@
 198.199.92.151,FTP-Probing
 185.180.143.101,HTTP-Probing
 139.144.239.174,HTTPS-8443-Probing
+178.72.78.73,Telnet-Scanning
 198.199.92.121,HTTPS-Probing
 66.240.236.116,Telnet-Scanning
 31.220.1.83,Telnet-Scanning
