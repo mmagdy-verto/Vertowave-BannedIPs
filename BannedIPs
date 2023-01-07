@@ -9706,6 +9706,7 @@
 112.27.40.29,Telnet-Scanning
 46.10.217.58,Telnet-Scanning
 35.211.196.124,RDP-Hijacking
+125.176.146.140,Telnet-Scanning
 206.189.138.56,SSH-Scanning
 179.221.94.3,Telnet-Scanning
 192.241.213.10,SMTP-Probing
