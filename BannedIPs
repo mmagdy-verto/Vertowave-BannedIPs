@@ -8047,6 +8047,7 @@
 192.241.218.40,HTTP-Probing
 173.54.226.66,Telnet-Scanning
 110.177.99.24,Telnet-Scanning
+95.251.108.96,Telnet-Scanning
 184.73.0.203,FTP-Port-20-Probing
 101.36.118.12,HTTPS-Probing
 223.10.17.37,Telnet-Scanning
