@@ -3882,6 +3882,7 @@
 180.254.179.62,Telnet-Scanning
 196.189.25.255,Telnet-Scanning
 113.232.70.31,Telnet-Scanning
+61.178.38.4,SQL-Probing
 45.83.65.91,RDP-Hijacking
 198.235.24.60,RDP-Hijacking
 42.237.196.235,Telnet-Scanning
