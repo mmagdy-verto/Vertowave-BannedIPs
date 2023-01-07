@@ -3330,6 +3330,7 @@
 59.126.107.202,Telnet-Scanning
 192.241.202.99,HTTPS-Probing
 194.165.16.158,RDP-Hijacking
+192.241.202.29,RDP-Hijacking
 1.251.3.111,Telnet-Scanning
 220.70.222.42,Telnet-Scanning
 24.78.183.31,SSH-Scanning
