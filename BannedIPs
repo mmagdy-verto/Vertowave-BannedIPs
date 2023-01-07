@@ -14273,6 +14273,7 @@
 207.154.195.131,HTTP-Probing
 111.118.44.164,Telnet-Scanning
 58.209.154.143,Telnet-Scanning
+24.107.62.192,Telnet-Scanning
 52.13.79.199,Telnet-Scanning
 45.33.81.16,HTTPS-Probing
 61.224.23.163,RDP-Hijacking
