@@ -10240,6 +10240,7 @@
 44.234.57.39,RDP-Hijacking
 112.187.84.61,Telnet-Scanning
 170.78.39.50,Telnet-Scanning
+115.60.224.250,Telnet-Scanning
 45.79.134.143,SMTP-Probing
 36.234.92.217,Telnet-Scanning
 46.98.138.190,HTTP-Probing
