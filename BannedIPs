@@ -6046,6 +6046,7 @@
 58.119.5.98,RDP-Hijacking
 192.241.198.129,FTP-Probing
 198.199.95.29,FTP-Probing
+47.34.66.133,Telnet-Scanning
 74.96.187.188,Telnet-Scanning
 151.242.89.222,HTTP-Probing
 41.216.182.70,Telnet-Scanning
