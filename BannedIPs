@@ -6480,6 +6480,7 @@
 172.104.8.100,SMTP-Probing
 115.62.145.146,Telnet-Scanning
 110.191.214.103,Telnet-Scanning
+117.133.11.139,SQL-Probing
 65.49.20.118,HTTPS-Probing
 27.220.37.228,Telnet-Scanning
 120.209.186.194,Telnet-Scanning
