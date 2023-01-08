@@ -10719,6 +10719,7 @@
 121.226.156.27,Telnet-Scanning
 152.89.196.54,RDP-Hijacking
 119.177.56.129,Telnet-Scanning
+152.89.196.56,SQL-Probing
 58.209.180.218,Telnet-Scanning
 190.109.67.40,Telnet-Scanning
 152.89.196.52,RDP-Hijacking
