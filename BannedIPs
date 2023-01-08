@@ -3527,6 +3527,7 @@
 162.221.192.90,HTTPS-Probing
 45.79.146.62,HTTPS-8443-Probing
 198.199.113.220,SQL-Probing
+97.83.33.8,Telnet-Scanning
 220.133.228.73,Telnet-Scanning
 216.176.117.188,Telnet-Scanning
 113.26.237.223,Telnet-Scanning
