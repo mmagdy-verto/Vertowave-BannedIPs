@@ -5030,6 +5030,7 @@
 94.189.175.157,RDP-Hijacking
 115.77.173.73,Telnet-Scanning
 39.91.166.138,SSH-Scanning
+78.30.212.54,Telnet-Scanning
 109.239.48.140,SSH-Scanning
 192.241.197.72,HTTP-Probing
 96.126.105.226,SMTP-Probing
