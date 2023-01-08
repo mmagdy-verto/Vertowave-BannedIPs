@@ -9756,6 +9756,7 @@
 125.229.116.67,Telnet-Scanning
 59.110.169.182,Telnet-Scanning
 190.111.184.9,HTTP-Probing
+78.25.186.130,Telnet-Scanning
 52.87.187.134,Telnet-Scanning
 34.150.232.147,SSH-Scanning
 198.199.93.114,RDP-Hijacking
