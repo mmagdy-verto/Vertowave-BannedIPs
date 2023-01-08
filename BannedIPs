@@ -10198,6 +10198,7 @@
 183.186.239.6,Telnet-Scanning
 117.82.159.207,Telnet-Scanning
 102.219.42.162,SSH-Scanning
+192.241.222.16,SQL-Probing
 111.253.152.133,Telnet-Scanning
 64.62.197.58,SSH-Scanning
 83.30.212.105,Telnet-Scanning
