@@ -10318,6 +10318,7 @@
 198.199.94.242,HTTPS-8443-Probing
 112.248.190.21,Telnet-Scanning
 90.142.37.103,Telnet-Scanning
+45.79.181.124,SMTP-Probing
 220.133.123.186,Telnet-Scanning
 125.137.139.155,Telnet-Scanning
 192.241.204.169,SQL-Probing
