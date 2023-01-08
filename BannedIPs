@@ -13323,6 +13323,7 @@
 35.174.104.33,Telnet-Scanning
 153.3.135.213,Telnet-Scanning
 66.175.212.20,HTTPS-Probing
+192.241.206.20,HTTP-Probing
 59.127.54.1,Telnet-Scanning
 223.151.254.59,Telnet-Scanning
 192.241.206.10,HTTPS-8443-Probing
