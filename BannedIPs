@@ -9243,6 +9243,7 @@
 59.127.243.186,Telnet-Scanning
 45.83.66.189,HTTPS-8443-Probing
 220.135.98.82,Telnet-Scanning
+58.252.14.93,SQL-Probing
 4.246.226.47,HTTP-Probing
 220.119.208.48,Telnet-Scanning
 20.115.217.169,SSH-Scanning
