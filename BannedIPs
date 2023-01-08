@@ -9576,6 +9576,7 @@
 192.241.212.131,SQL-Probing
 189.101.167.185,Telnet-Scanning
 222.189.205.135,Telnet-Scanning
+176.197.134.97,RDP-Hijacking
 117.215.252.228,HTTP-Probing
 112.184.67.248,Telnet-Scanning
 123.173.72.153,Telnet-Scanning
