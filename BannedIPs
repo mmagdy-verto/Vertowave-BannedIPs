@@ -8331,6 +8331,7 @@
 104.152.52.231,RDP-Hijacking
 159.203.208.14,HTTP-Probing
 162.243.144.19,HTTPS-8443-Probing
+112.219.109.156,Telnet-Scanning
 139.144.70.42,FTP-Probing
 93.84.101.89,Telnet-Scanning
 54.183.46.227,SSH-Scanning
