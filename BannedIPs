@@ -1945,6 +1945,7 @@
 192.53.164.39,SSH-Scanning
 45.83.67.128,RDP-Hijacking
 60.182.174.60,Telnet-Scanning
+107.170.247.15,SQL-Probing
 64.42.179.59,Telnet-Scanning
 107.170.238.10,HTTPS-Probing
 68.206.111.95,Telnet-Scanning
