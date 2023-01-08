@@ -284,6 +284,7 @@
 198.235.24.42,HTTPS-8443-Probing
 198.235.24.41,RDP-Hijacking
 198.235.24.40,RDP-Hijacking
+198.235.24.47,RDP-Hijacking
 198.235.24.46,RDP-Hijacking
 198.235.24.45,Telnet-Scanning
 76.94.16.210,Telnet-Scanning
