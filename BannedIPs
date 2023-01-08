@@ -11947,6 +11947,7 @@
 178.140.45.59,Telnet-Scanning
 192.241.203.37,HTTPS-Probing
 36.48.42.174,Telnet-Scanning
+20.245.197.32,RDP-Hijacking
 192.241.201.241,HTTPS-Probing
 192.241.199.29,FTP-Probing
 20.112.66.206,SSH-Scanning
