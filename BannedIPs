@@ -2033,6 +2033,7 @@
 192.241.192.27,HTTPS-8443-Probing
 192.241.192.37,HTTPS-8443-Probing
 59.45.225.88,Telnet-Scanning
+197.89.53.39,Telnet-Scanning
 106.111.44.118,Telnet-Scanning
 185.216.71.18,SSH-Scanning
 185.216.71.17,HTTP-Probing
