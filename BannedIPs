@@ -5046,6 +5046,7 @@
 172.104.212.48,HTTPS-Probing
 1.222.192.112,Telnet-Scanning
 66.228.37.201,HTTPS-Probing
+178.214.220.106,HTTP-Probing
 45.33.88.148,SMTP-Probing
 223.152.171.217,Telnet-Scanning
 4.227.151.103,SSH-Scanning
