@@ -15914,6 +15914,7 @@
 198.74.62.28,HTTPS-8443-Probing
 222.104.30.47,Telnet-Scanning
 185.173.107.150,RDP-Hijacking
+92.206.46.249,Telnet-Scanning
 192.241.207.181,SSH-Scanning
 114.33.16.81,Telnet-Scanning
 115.62.91.252,SQL-Probing
