@@ -10125,6 +10125,7 @@
 167.94.146.60,RDP-Hijacking
 200.84.203.79,Telnet-Scanning
 123.175.52.154,Telnet-Scanning
+50.18.135.191,HTTP-Probing
 49.75.47.43,Telnet-Scanning
 97.107.133.167,SMTP-Probing
 198.199.119.242,HTTPS-Probing
