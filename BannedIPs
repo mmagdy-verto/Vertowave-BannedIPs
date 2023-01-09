@@ -12160,6 +12160,7 @@
 45.61.188.13,Telnet-Scanning
 18.237.165.148,Telnet-Scanning
 44.211.132.47,Telnet-Scanning
+180.196.141.52,Telnet-Scanning
 87.236.176.20,HTTP-Probing
 175.11.72.164,HTTP-Probing
 87.236.176.21,SMTP-Probing
@@ -16430,6 +16431,7 @@
 182.31.206.126,Telnet-Scanning
 20.4.99.111,RDP-Hijacking
 59.126.44.177,Telnet-Scanning
+198.199.106.214,SSH-Scanning
 211.22.236.116,Telnet-Scanning
 182.191.79.209,RDP-Hijacking
 45.134.144.119,HTTPS-Probing
