@@ -11063,6 +11063,7 @@
 1.62.12.166,Telnet-Scanning
 118.41.4.176,Telnet-Scanning
 45.227.255.191,SSH-Scanning
+45.227.254.36,FTP-Probing
 187.131.46.15,Telnet-Scanning
 121.238.229.198,Telnet-Scanning
 45.227.254.31,RDP-Hijacking
