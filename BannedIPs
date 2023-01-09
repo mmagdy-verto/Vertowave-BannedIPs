@@ -9046,6 +9046,7 @@
 185.220.205.196,HTTPS-Probing
 192.241.211.49,SMTP-Probing
 117.81.84.188,Telnet-Scanning
+162.243.145.14,HTTP-Probing
 112.226.157.58,SQL-Probing
 123.244.88.120,Telnet-Scanning
 113.25.216.61,Telnet-Scanning
