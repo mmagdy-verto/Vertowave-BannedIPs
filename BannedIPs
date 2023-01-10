@@ -1999,6 +1999,7 @@
 107.170.238.10,HTTPS-Probing
 68.206.111.95,Telnet-Scanning
 118.10.185.73,SSH-Scanning
+123.172.70.90,Telnet-Scanning
 182.224.177.18,Telnet-Scanning
 59.1.123.219,Telnet-Scanning
 66.175.209.201,SMTP-Probing
