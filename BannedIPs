@@ -13413,6 +13413,7 @@
 121.133.1.15,Telnet-Scanning
 45.33.71.138,HTTPS-8443-Probing
 20.119.86.48,SSH-Scanning
+189.61.6.27,Telnet-Scanning
 192.241.208.84,FTP-Probing
 45.33.79.43,HTTPS-Probing
 99.2.117.58,Telnet-Scanning
