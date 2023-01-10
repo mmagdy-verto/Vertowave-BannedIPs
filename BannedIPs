@@ -8299,6 +8299,7 @@
 37.235.178.252,HTTP-Probing
 208.102.103.14,Telnet-Scanning
 125.229.143.24,Telnet-Scanning
+46.209.40.227,SQL-Probing
 220.133.47.98,Telnet-Scanning
 142.93.13.74,RDP-Hijacking
 119.109.162.56,Telnet-Scanning
