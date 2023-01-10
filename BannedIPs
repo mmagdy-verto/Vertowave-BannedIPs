@@ -10414,6 +10414,7 @@
 45.58.127.195,RDP-Hijacking
 45.56.98.65,SMTP-Probing
 98.22.48.88,Telnet-Scanning
+119.62.71.117,SSH-Scanning
 111.231.193.112,SSH-Scanning
 20.235.173.74,Telnet-Scanning
 203.163.239.98,Telnet-Scanning
