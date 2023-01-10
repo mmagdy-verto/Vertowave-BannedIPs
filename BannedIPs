@@ -665,6 +665,7 @@
 192.241.209.98,HTTP-Probing
 192.241.209.88,SSH-Scanning
 58.246.69.190,Telnet-Scanning
+192.241.232.14,FTP-Probing
 164.92.192.241,HTTPS-Probing
 222.185.96.134,Telnet-Scanning
 93.123.160.157,Telnet-Scanning
