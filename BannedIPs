@@ -8223,6 +8223,7 @@
 2.36.3.92,Telnet-Scanning
 119.203.163.188,Telnet-Scanning
 125.43.10.148,Telnet-Scanning
+171.22.119.80,HTTP-Probing
 172.116.78.103,Telnet-Scanning
 125.228.88.225,Telnet-Scanning
 192.241.206.94,FTP-Probing
