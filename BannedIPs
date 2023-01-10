@@ -12514,6 +12514,7 @@
 109.248.6.68,SQL-Probing
 89.248.163.222,HTTPS-Probing
 218.39.149.197,Telnet-Scanning
+89.248.163.242,HTTP-Probing
 45.79.128.205,HTTPS-Probing
 114.33.174.164,Telnet-Scanning
 175.204.197.170,Telnet-Scanning
