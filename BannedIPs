@@ -4719,6 +4719,7 @@
 192.241.205.11,FTP-Port-20-Probing
 220.124.243.156,Telnet-Scanning
 190.51.96.160,Telnet-Scanning
+221.9.27.17,Telnet-Scanning
 82.160.24.54,HTTP-Probing
 220.130.225.168,Telnet-Scanning
 211.248.177.90,Telnet-Scanning
