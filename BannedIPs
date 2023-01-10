@@ -12615,6 +12615,7 @@
 192.241.211.135,HTTPS-Probing
 121.150.69.221,Telnet-Scanning
 218.157.162.211,Telnet-Scanning
+172.104.57.104,SSH-Scanning
 90.46.13.54,Telnet-Scanning
 117.220.190.69,Telnet-Scanning
 45.79.153.21,HTTPS-8443-Probing
