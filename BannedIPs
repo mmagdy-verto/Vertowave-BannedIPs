@@ -5568,6 +5568,7 @@
 23.239.12.207,SMTP-Probing
 221.210.18.103,SQL-Probing
 176.194.50.59,HTTP-Probing
+138.97.183.100,Telnet-Scanning
 139.144.234.42,RDP-Hijacking
 1.234.66.67,RDP-Hijacking
 192.241.201.18,HTTP-Probing
