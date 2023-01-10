@@ -3290,6 +3290,7 @@
 94.103.188.34,HTTP-Probing
 123.172.249.25,Telnet-Scanning
 31.146.118.110,Telnet-Scanning
+118.79.47.59,Telnet-Scanning
 45.83.65.110,FTP-Probing
 170.187.164.18,SMTP-Probing
 113.25.128.117,Telnet-Scanning
