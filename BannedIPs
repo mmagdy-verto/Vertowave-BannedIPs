@@ -7057,6 +7057,7 @@
 106.1.18.55,Telnet-Scanning
 139.144.135.182,SMTP-Probing
 43.139.9.150,RDP-Hijacking
+44.200.135.119,SSH-Scanning
 71.10.118.1,Telnet-Scanning
 223.151.152.96,Telnet-Scanning
 49.64.200.177,Telnet-Scanning
