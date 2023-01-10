@@ -13204,6 +13204,7 @@
 103.188.164.230,RDP-Hijacking
 113.125.41.74,SSH-Scanning
 125.168.40.16,Telnet-Scanning
+123.235.10.3,Telnet-Scanning
 203.89.25.30,HTTP-Probing
 124.105.196.73,Telnet-Scanning
 213.159.40.144,Telnet-Scanning
