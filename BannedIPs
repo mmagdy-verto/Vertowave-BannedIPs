@@ -6270,6 +6270,7 @@
 151.242.89.222,HTTP-Probing
 41.216.182.70,Telnet-Scanning
 192.241.194.168,HTTPS-8443-Probing
+201.121.249.152,Telnet-Scanning
 175.134.136.34,Telnet-Scanning
 103.2.228.14,RDP-Hijacking
 45.139.105.180,Telnet-Scanning
