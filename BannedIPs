@@ -7619,6 +7619,7 @@
 196.2.88.5,Telnet-Scanning
 192.241.205.116,FTP-Port-20-Probing
 185.180.143.29,RDP-Hijacking
+185.180.143.19,HTTPS-8443-Probing
 124.235.132.64,Telnet-Scanning
 123.173.74.160,Telnet-Scanning
 121.184.51.116,Telnet-Scanning
