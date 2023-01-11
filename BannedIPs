@@ -9301,6 +9301,7 @@
 103.188.242.115,RDP-Hijacking
 77.85.212.201,Telnet-Scanning
 211.251.13.88,Telnet-Scanning
+14.35.107.29,Telnet-Scanning
 170.187.165.11,HTTPS-8443-Probing
 170.187.165.71,SMTP-Probing
 170.187.165.61,SMTP-Probing
