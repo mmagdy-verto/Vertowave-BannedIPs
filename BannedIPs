@@ -4856,6 +4856,7 @@
 125.140.214.98,Telnet-Scanning
 58.47.49.195,Telnet-Scanning
 216.144.173.128,Telnet-Scanning
+192.241.229.24,HTTPS-8443-Probing
 198.199.114.240,FTP-Port-20-Probing
 106.56.93.152,Telnet-Scanning
 114.27.60.126,Telnet-Scanning
@@ -10734,6 +10735,7 @@
 220.133.123.186,Telnet-Scanning
 125.137.139.155,Telnet-Scanning
 192.241.204.169,SQL-Probing
+14.234.222.203,Telnet-Scanning
 175.8.196.227,Telnet-Scanning
 44.234.57.39,RDP-Hijacking
 112.187.84.61,Telnet-Scanning
