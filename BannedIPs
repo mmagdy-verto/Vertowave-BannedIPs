@@ -8613,6 +8613,7 @@
 77.221.4.90,Telnet-Scanning
 223.13.16.75,Telnet-Scanning
 64.62.197.5,SSH-Scanning
+49.213.229.29,Telnet-Scanning
 162.248.53.56,HTTPS-8443-Probing
 115.49.216.33,Telnet-Scanning
 190.57.20.46,HTTP-Probing
