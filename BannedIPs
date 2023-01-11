@@ -5803,6 +5803,7 @@
 61.5.136.68,Telnet-Scanning
 125.133.63.145,Telnet-Scanning
 107.170.238.9,SQL-Probing
+4.246.166.162,RDP-Hijacking
 60.161.25.142,Telnet-Scanning
 36.49.35.231,Telnet-Scanning
 106.75.171.70,FTP-Probing
@@ -11664,6 +11665,7 @@
 61.224.105.77,Telnet-Scanning
 200.115.195.28,Telnet-Scanning
 20.231.101.121,RDP-Hijacking
+125.95.21.74,Telnet-Scanning
 139.144.235.213,HTTPS-Probing
 20.113.27.135,HTTPS-Probing
 128.1.40.212,SSH-Scanning
