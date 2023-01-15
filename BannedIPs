@@ -15423,6 +15423,7 @@
 220.132.159.17,SSH-Scanning
 49.170.127.66,Telnet-Scanning
 117.63.77.82,Telnet-Scanning
+182.168.149.19,Telnet-Scanning
 116.252.20.151,SQL-Probing
 49.72.57.114,Telnet-Scanning
 45.83.65.209,HTTP-Probing
