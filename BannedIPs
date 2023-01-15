@@ -14603,6 +14603,7 @@
 180.149.125.159,HTTPS-Probing
 1.69.61.57,Telnet-Scanning
 39.104.160.96,HTTPS-Probing
+118.163.70.80,SSH-Scanning
 61.0.198.95,HTTP-Probing
 121.183.170.221,Telnet-Scanning
 162.55.242.23,RDP-Hijacking
