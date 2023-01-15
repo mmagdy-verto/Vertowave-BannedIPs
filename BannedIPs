@@ -12060,6 +12060,7 @@
 43.143.151.132,Telnet-Scanning
 192.241.225.32,HTTPS-Probing
 192.241.225.12,HTTPS-Probing
+50.116.51.90,HTTPS-Probing
 92.255.85.183,RDP-Hijacking
 92.255.85.186,HTTPS-Probing
 101.99.32.108,Telnet-Scanning
