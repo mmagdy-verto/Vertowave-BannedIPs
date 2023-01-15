@@ -6813,6 +6813,7 @@
 121.151.138.118,Telnet-Scanning
 119.66.250.172,Telnet-Scanning
 45.33.68.45,HTTPS-Probing
+59.126.10.182,SSH-Scanning
 1.170.122.131,Telnet-Scanning
 118.45.236.177,Telnet-Scanning
 61.224.23.163,RDP-Hijacking
