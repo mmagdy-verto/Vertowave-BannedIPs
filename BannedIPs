@@ -9954,6 +9954,7 @@
 222.246.112.108,Telnet-Scanning
 59.127.169.40,Telnet-Scanning
 198.235.24.181,FTP-Probing
+59.126.80.9,SSH-Scanning
 198.235.24.131,HTTP-Probing
 4.194.97.190,RDP-Hijacking
 132.148.78.28,Telnet-Scanning
