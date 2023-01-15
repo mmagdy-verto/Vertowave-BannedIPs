@@ -3212,6 +3212,7 @@
 121.154.44.117,Telnet-Scanning
 45.83.67.219,HTTPS-Probing
 88.174.43.161,HTTP-Probing
+121.153.119.195,Telnet-Scanning
 172.104.6.105,SMTP-Probing
 219.146.144.86,SQL-Probing
 184.105.247.240,SMTP-Probing
