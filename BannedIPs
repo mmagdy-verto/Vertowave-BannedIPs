@@ -6259,6 +6259,7 @@
 4.227.150.34,SSH-Scanning
 115.20.159.2,Telnet-Scanning
 112.246.248.172,Telnet-Scanning
+59.11.135.112,Telnet-Scanning
 218.157.89.38,Telnet-Scanning
 204.48.19.1,SQL-Probing
 20.119.86.86,FTP-Probing
