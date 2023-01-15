@@ -6271,6 +6271,7 @@
 18.207.230.254,SMTP-Probing
 59.27.89.2,Telnet-Scanning
 37.220.31.103,SMTP-Probing
+59.5.116.197,SSH-Scanning
 114.26.4.234,Telnet-Scanning
 34.238.117.194,Telnet-Scanning
 117.245.255.177,HTTP-Probing
