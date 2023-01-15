@@ -3583,6 +3583,7 @@
 45.79.150.159,SMTP-Probing
 128.1.248.42,HTTPS-Probing
 88.129.243.78,Telnet-Scanning
+95.139.166.13,Telnet-Scanning
 203.141.157.195,Telnet-Scanning
 59.29.176.131,Telnet-Scanning
 169.239.98.58,HTTP-Probing
