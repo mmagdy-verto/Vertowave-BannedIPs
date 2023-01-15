@@ -1955,6 +1955,7 @@
 64.62.197.64,HTTPS-Probing
 35.184.213.52,HTTPS-Probing
 115.213.218.120,Telnet-Scanning
+42.82.38.174,SSH-Scanning
 221.235.139.219,Telnet-Scanning
 45.65.213.150,Telnet-Scanning
 20.3.146.13,FTP-Probing
