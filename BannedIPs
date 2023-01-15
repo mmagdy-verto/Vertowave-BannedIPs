@@ -7043,6 +7043,7 @@
 58.21.45.29,Telnet-Scanning
 110.181.235.170,Telnet-Scanning
 185.147.71.45,Telnet-Scanning
+110.1.105.78,SSH-Scanning
 45.190.158.48,Telnet-Scanning
 110.35.157.21,HTTP-Probing
 192.241.207.94,SMTP-Probing
