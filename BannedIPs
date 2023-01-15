@@ -390,6 +390,7 @@
 178.72.71.130,Telnet-Scanning
 110.183.21.209,Telnet-Scanning
 118.219.122.100,Telnet-Scanning
+218.161.62.204,SSH-Scanning
 170.187.165.65,HTTPS-8443-Probing
 114.226.108.217,Telnet-Scanning
 173.255.225.57,SMTP-Probing
