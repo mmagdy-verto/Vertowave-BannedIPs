@@ -13243,6 +13243,7 @@
 192.241.198.129,FTP-Probing
 120.234.149.68,Telnet-Scanning
 107.185.9.221,Telnet-Scanning
+59.173.19.44,SSH-Scanning
 59.126.128.163,Telnet-Scanning
 59.126.162.64,Telnet-Scanning
 139.59.38.49,HTTPS-Probing
