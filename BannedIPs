@@ -8370,6 +8370,7 @@
 172.105.128.60,SMTP-Probing
 36.49.57.225,Telnet-Scanning
 192.241.208.117,HTTP-Probing
+111.249.43.158,SSH-Scanning
 24.166.12.177,Telnet-Scanning
 162.216.19.28,HTTPS-Probing
 111.202.231.227,Telnet-Scanning
