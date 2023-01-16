@@ -7975,6 +7975,7 @@
 114.129.25.28,RDP-Hijacking
 42.242.83.203,Telnet-Scanning
 106.41.26.41,Telnet-Scanning
+162.243.134.15,FTP-Port-20-Probing
 120.53.247.195,RDP-Hijacking
 20.238.107.135,RDP-Hijacking
 190.102.127.77,HTTP-Probing
