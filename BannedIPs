@@ -3475,6 +3475,7 @@
 87.236.176.190,HTTP-Probing
 103.168.183.54,RDP-Hijacking
 175.107.13.104,HTTP-Probing
+220.135.247.39,SSH-Scanning
 218.147.214.95,Telnet-Scanning
 201.137.194.110,Telnet-Scanning
 118.79.184.135,Telnet-Scanning
