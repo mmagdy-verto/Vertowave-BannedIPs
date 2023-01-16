@@ -4137,6 +4137,7 @@
 192.241.206.128,Telnet-Scanning
 89.109.22.99,SSH-Scanning
 192.241.201.173,FTP-Port-20-Probing
+125.229.3.16,SSH-Scanning
 112.246.159.91,Telnet-Scanning
 24.166.74.146,Telnet-Scanning
 61.166.59.72,Telnet-Scanning
