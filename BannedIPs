@@ -4917,6 +4917,7 @@
 201.121.230.111,Telnet-Scanning
 119.251.175.204,Telnet-Scanning
 20.197.177.101,HTTPS-Probing
+218.32.102.94,SSH-Scanning
 1.160.219.222,Telnet-Scanning
 110.182.242.39,Telnet-Scanning
 74.82.47.4,RDP-Hijacking
