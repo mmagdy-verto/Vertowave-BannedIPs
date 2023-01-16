@@ -12185,6 +12185,7 @@
 192.241.206.197,FTP-Port-20-Probing
 111.22.76.190,Telnet-Scanning
 112.184.135.31,Telnet-Scanning
+103.35.64.134,RDP-Hijacking
 220.70.70.213,SSH-Scanning
 192.241.203.164,HTTPS-8443-Probing
 116.53.17.107,Telnet-Scanning
