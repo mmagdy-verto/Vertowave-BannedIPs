@@ -9979,6 +9979,7 @@
 119.193.49.203,Telnet-Scanning
 103.148.100.66,HTTP-Probing
 45.79.189.65,SMTP-Probing
+118.249.206.70,Telnet-Scanning
 45.79.184.65,HTTPS-8443-Probing
 96.64.67.41,Telnet-Scanning
 143.198.204.188,HTTP-Probing
