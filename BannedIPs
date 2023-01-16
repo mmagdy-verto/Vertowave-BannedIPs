@@ -8220,6 +8220,7 @@
 122.241.159.243,Telnet-Scanning
 211.221.59.58,Telnet-Scanning
 36.156.156.6,SQL-Probing
+139.144.235.112,HTTPS-Probing
 112.28.35.49,Telnet-Scanning
 159.203.108.144,HTTP-Probing
 218.93.61.166,Telnet-Scanning
