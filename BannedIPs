@@ -4514,6 +4514,7 @@
 80.76.51.128,SMTP-Probing
 209.159.148.202,HTTP-Probing
 54.243.11.179,Telnet-Scanning
+172.104.22.48,SMTP-Probing
 217.215.151.224,SSH-Scanning
 82.151.125.192,Telnet-Scanning
 210.103.34.116,Telnet-Scanning
