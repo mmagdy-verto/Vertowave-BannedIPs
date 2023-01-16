@@ -9739,6 +9739,7 @@
 183.98.124.134,Telnet-Scanning
 143.255.242.214,HTTP-Probing
 223.15.8.214,Telnet-Scanning
+220.80.3.18,RDP-Hijacking
 121.182.113.167,Telnet-Scanning
 69.164.218.229,SMTP-Probing
 117.81.217.89,Telnet-Scanning
