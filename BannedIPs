@@ -10850,6 +10850,7 @@
 198.199.95.12,FTP-Probing
 60.217.177.20,Telnet-Scanning
 216.218.206.68,Telnet-Scanning
+220.135.32.76,SSH-Scanning
 198.199.95.19,HTTPS-Probing
 103.180.137.250,RDP-Hijacking
 202.215.129.56,Telnet-Scanning
