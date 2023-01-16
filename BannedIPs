@@ -6684,6 +6684,7 @@
 121.180.24.3,Telnet-Scanning
 92.101.192.177,Telnet-Scanning
 122.116.65.105,Telnet-Scanning
+123.240.224.118,SSH-Scanning
 60.248.236.223,Telnet-Scanning
 125.229.120.93,Telnet-Scanning
 20.120.171.53,RDP-Hijacking
