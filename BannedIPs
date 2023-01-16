@@ -11002,6 +11002,7 @@
 45.79.134.38,HTTPS-Probing
 213.226.123.100,SQL-Probing
 1.69.104.14,Telnet-Scanning
+117.200.79.90,SSH-Scanning
 27.111.74.77,Telnet-Scanning
 139.170.105.116,Telnet-Scanning
 45.118.146.131,RDP-Hijacking
