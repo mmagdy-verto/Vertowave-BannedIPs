@@ -11280,6 +11280,7 @@
 172.104.20.163,SMTP-Probing
 222.185.16.244,Telnet-Scanning
 175.127.32.40,Telnet-Scanning
+222.137.112.206,HTTP-Probing
 50.241.8.212,Telnet-Scanning
 121.158.123.131,Telnet-Scanning
 66.228.33.27,SMTP-Probing
