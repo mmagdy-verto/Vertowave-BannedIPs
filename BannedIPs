@@ -15841,6 +15841,7 @@
 124.165.82.51,Telnet-Scanning
 49.72.107.250,Telnet-Scanning
 223.9.126.165,Telnet-Scanning
+124.220.171.34,SQL-Probing
 198.54.132.86,SSH-Scanning
 122.116.251.9,Telnet-Scanning
 220.132.159.17,SSH-Scanning
