@@ -1919,6 +1919,7 @@
 119.200.39.83,Telnet-Scanning
 34.238.245.167,Telnet-Scanning
 5.58.162.252,Telnet-Scanning
+93.41.224.191,SSH-Scanning
 20.168.80.142,HTTP-Probing
 213.142.151.112,RDP-Hijacking
 23.116.82.170,SSH-Scanning
