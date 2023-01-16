@@ -8520,6 +8520,7 @@
 192.241.200.59,SQL-Probing
 34.141.110.173,HTTP-Probing
 175.107.0.99,Telnet-Scanning
+143.42.1.63,SMTP-Probing
 134.236.3.204,SSH-Scanning
 154.89.5.103,SSH-Scanning
 58.55.40.5,Telnet-Scanning
