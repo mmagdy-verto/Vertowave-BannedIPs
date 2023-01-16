@@ -12396,6 +12396,7 @@
 66.177.214.252,Telnet-Scanning
 2.180.211.186,Telnet-Scanning
 183.236.121.2,SQL-Probing
+172.104.27.190,HTTPS-Probing
 47.104.217.64,RDP-Hijacking
 74.50.93.186,SMTP-Probing
 221.15.131.99,Telnet-Scanning
