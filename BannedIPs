@@ -240,6 +240,7 @@
 220.135.0.16,SSH-Scanning
 106.37.103.76,Telnet-Scanning
 49.72.243.79,Telnet-Scanning
+119.202.12.178,SSH-Scanning
 2.184.134.215,Telnet-Scanning
 139.144.236.182,HTTPS-Probing
 176.124.167.220,Telnet-Scanning
