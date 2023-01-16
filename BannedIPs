@@ -15117,6 +15117,7 @@
 192.24.167.108,Telnet-Scanning
 87.236.176.221,SQL-Probing
 172.174.144.116,SSH-Scanning
+1.59.242.190,Telnet-Scanning
 87.236.176.231,SMTP-Probing
 87.236.176.251,HTTPS-Probing
 106.41.81.251,Telnet-Scanning
