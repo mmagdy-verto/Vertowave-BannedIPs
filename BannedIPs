@@ -5353,6 +5353,7 @@
 220.134.171.212,Telnet-Scanning
 197.237.49.244,Telnet-Scanning
 109.190.149.144,Telnet-Scanning
+23.92.18.242,SMTP-Probing
 183.99.164.35,Telnet-Scanning
 139.144.233.200,HTTPS-8443-Probing
 18.207.149.236,HTTP-Probing
