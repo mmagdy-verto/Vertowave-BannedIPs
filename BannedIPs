@@ -13980,6 +13980,7 @@
 20.115.219.200,FTP-Probing
 170.187.164.110,HTTPS-Probing
 27.105.199.60,Telnet-Scanning
+49.213.164.72,SSH-Scanning
 1.70.138.71,Telnet-Scanning
 175.10.212.224,Telnet-Scanning
 143.42.3.106,HTTPS-Probing
