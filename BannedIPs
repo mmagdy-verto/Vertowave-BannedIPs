@@ -1293,6 +1293,7 @@
 121.140.131.232,Telnet-Scanning
 124.239.170.10,Telnet-Scanning
 59.50.245.51,Telnet-Scanning
+220.134.143.40,SSH-Scanning
 221.224.187.179,Telnet-Scanning
 219.240.250.28,Telnet-Scanning
 168.232.14.142,HTTP-Probing
