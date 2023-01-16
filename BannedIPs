@@ -8306,6 +8306,7 @@
 92.127.182.118,Telnet-Scanning
 139.144.233.220,SMTP-Probing
 114.217.99.101,Telnet-Scanning
+157.245.193.98,SQL-Probing
 184.105.139.70,FTP-Probing
 220.135.97.233,Telnet-Scanning
 123.6.49.38,HTTPS-Probing
