@@ -4490,6 +4490,7 @@
 192.241.212.93,FTP-Port-20-Probing
 192.241.212.33,HTTP-Probing
 192.241.212.23,HTTPS-Probing
+125.228.181.119,SSH-Scanning
 35.91.24.84,Telnet-Scanning
 192.241.212.53,HTTPS-Probing
 87.1.105.13,Telnet-Scanning
