@@ -9668,6 +9668,7 @@
 206.189.194.177,HTTP-Probing
 220.246.62.115,Telnet-Scanning
 103.82.211.165,Telnet-Scanning
+211.52.31.219,SSH-Scanning
 192.241.206.81,SSH-Scanning
 172.86.75.189,HTTPS-Probing
 175.101.95.80,SSH-Scanning
