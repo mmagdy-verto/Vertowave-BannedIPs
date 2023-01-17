@@ -4082,6 +4082,7 @@
 92.63.39.31,Telnet-Scanning
 58.61.141.67,Telnet-Scanning
 90.188.39.228,HTTP-Probing
+210.64.73.128,SSH-Scanning
 172.104.27.92,SMTP-Probing
 123.173.5.229,Telnet-Scanning
 38.25.222.223,Telnet-Scanning
