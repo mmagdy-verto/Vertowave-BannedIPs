@@ -12989,6 +12989,7 @@
 89.248.163.219,SSH-Scanning
 49.79.3.134,Telnet-Scanning
 192.241.227.20,FTP-Port-20-Probing
+45.52.132.102,Telnet-Scanning
 143.42.1.183,HTTPS-8443-Probing
 118.12.35.141,Telnet-Scanning
 20.38.47.162,RDP-Hijacking
