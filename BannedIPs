@@ -9802,6 +9802,7 @@
 36.104.223.109,Telnet-Scanning
 112.239.70.86,Telnet-Scanning
 162.243.134.22,FTP-Probing
+123.193.228.55,SSH-Scanning
 221.126.77.158,Telnet-Scanning
 220.186.8.140,Telnet-Scanning
 170.187.205.47,HTTPS-8443-Probing
