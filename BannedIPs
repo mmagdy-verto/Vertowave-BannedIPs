@@ -9046,6 +9046,7 @@
 1.69.5.197,Telnet-Scanning
 47.252.22.128,RDP-Hijacking
 50.99.54.49,Telnet-Scanning
+59.126.176.150,SSH-Scanning
 96.126.105.188,SMTP-Probing
 5.74.167.180,Telnet-Scanning
 121.180.56.52,Telnet-Scanning
