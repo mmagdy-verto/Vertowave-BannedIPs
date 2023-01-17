@@ -6002,6 +6002,7 @@
 117.12.218.47,Telnet-Scanning
 209.201.15.190,HTTP-Probing
 213.16.207.251,Telnet-Scanning
+125.138.44.175,SSH-Scanning
 174.108.172.27,RDP-Hijacking
 172.105.82.111,HTTP-Probing
 192.241.192.236,HTTP-Probing
