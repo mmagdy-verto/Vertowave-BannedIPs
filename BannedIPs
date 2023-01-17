@@ -3354,6 +3354,7 @@
 112.246.103.150,Telnet-Scanning
 78.188.172.246,Telnet-Scanning
 12.36.54.51,SSH-Scanning
+180.35.73.148,Telnet-Scanning
 79.110.63.129,SMTP-Probing
 113.57.147.26,SQL-Probing
 121.154.44.117,Telnet-Scanning
