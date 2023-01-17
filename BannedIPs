@@ -15234,6 +15234,7 @@
 192.241.204.131,HTTPS-Probing
 162.142.125.219,FTP-Probing
 210.22.18.190,Telnet-Scanning
+220.132.130.5,SSH-Scanning
 65.108.153.133,RDP-Hijacking
 170.187.163.99,SMTP-Probing
 102.182.212.215,Telnet-Scanning
