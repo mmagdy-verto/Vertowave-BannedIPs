@@ -16199,6 +16199,7 @@
 103.91.180.66,Telnet-Scanning
 198.74.61.213,HTTPS-8443-Probing
 154.89.5.71,HTTP-Probing
+111.241.172.4,SSH-Scanning
 103.149.192.55,HTTPS-Probing
 157.230.254.132,Telnet-Scanning
 211.57.67.3,Telnet-Scanning
