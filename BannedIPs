@@ -6714,6 +6714,7 @@
 112.95.78.26,SQL-Probing
 117.210.153.75,HTTP-Probing
 114.228.175.46,Telnet-Scanning
+162.243.128.21,FTP-Port-20-Probing
 42.85.214.156,Telnet-Scanning
 139.144.239.203,HTTPS-8443-Probing
 90.63.218.58,Telnet-Scanning
