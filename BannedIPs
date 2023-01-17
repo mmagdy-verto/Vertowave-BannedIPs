@@ -14294,6 +14294,7 @@
 212.192.219.151,SMTP-Probing
 192.241.206.94,FTP-Probing
 192.241.206.64,HTTPS-Probing
+198.199.113.122,SSH-Scanning
 27.45.48.49,Telnet-Scanning
 110.183.51.210,Telnet-Scanning
 120.82.205.123,Telnet-Scanning
