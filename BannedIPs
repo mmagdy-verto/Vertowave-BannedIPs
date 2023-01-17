@@ -16483,6 +16483,7 @@
 123.213.89.29,Telnet-Scanning
 180.11.23.30,Telnet-Scanning
 162.216.19.90,HTTPS-8443-Probing
+182.228.54.69,Telnet-Scanning
 192.241.196.215,SQL-Probing
 38.43.203.116,Telnet-Scanning
 110.19.210.68,SSH-Scanning
