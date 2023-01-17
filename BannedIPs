@@ -16205,6 +16205,7 @@
 45.56.100.216,HTTPS-8443-Probing
 107.175.214.116,RDP-Hijacking
 220.79.154.5,Telnet-Scanning
+96.78.253.2,SSH-Scanning
 95.226.71.38,Telnet-Scanning
 122.194.11.109,Telnet-Scanning
 60.251.62.173,Telnet-Scanning
