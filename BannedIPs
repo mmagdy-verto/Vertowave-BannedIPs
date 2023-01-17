@@ -17307,6 +17307,7 @@
 190.227.22.147,HTTP-Probing
 72.191.192.21,Telnet-Scanning
 3.89.55.3,SMTP-Probing
+143.42.1.58,HTTPS-Probing
 84.53.216.95,Telnet-Scanning
 84.54.153.132,Telnet-Scanning
 78.186.18.12,Telnet-Scanning
