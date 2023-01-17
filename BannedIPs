@@ -6305,6 +6305,7 @@
 107.170.192.7,FTP-Probing
 100.26.141.253,HTTPS-Probing
 107.170.192.5,SMTP-Probing
+114.129.206.159,Telnet-Scanning
 186.224.247.124,Telnet-Scanning
 119.202.32.232,HTTP-Probing
 203.229.150.194,Telnet-Scanning
